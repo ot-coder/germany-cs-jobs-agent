@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "germany-cs-jobs-agent"
+version = "0.1.0"
+description = "Find and rank German Werkstudent and entry-level tech roles"
+requires-python = ">=3.11"
+
+[project.scripts]
+jobs-agent = "jobs_agent.cli:main"
+
+[tool.setuptools]
+packages = ["jobs_agent"]
