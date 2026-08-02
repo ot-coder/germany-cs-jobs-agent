@@ -1,26 +1,5 @@
 [
   {
-    "id": "7ca801ae65e19e68ca59",
-    "title": "Werkstudent:in GTM Engineering & AI Automation (m/w/d)",
-    "company": "Soley GmbH",
-    "location": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/soley-gmbh/werkstudentin-gtm-engineering-ai-automation-munich-267859",
-    "description": "Klingt fancy, ist im Kern aber konkret: Du baust und automatisierst die Prozesse, mit denen wir neue Kunden finden und ansprechen. Sprich, du verbindest Tools, lässt KI die langweilige Arbeit machen und sorgst dafür, dass unser Vertrieb mit weniger Aufwand mehr erreicht. Du startest mit einer Übergabephase, in der du alles Bestehende kennenlernst, bevor du eigene Projekte verantwortest. Aufgaben Du baust eigene Automatisierungsprojekte von der Idee bis zum laufenden Workflow, z.B. Kampagnen, die anhand bestimmter Signale selbstständig passende Unternehmen erkennen &#x26; personalisiert ansprechen Du entwickelst Multi-Touchpoint-Kampagnen, die Interessenten über mehrere Kanäle hinweg zur richtigen Zeit erreichen Du arbeitest mit KI-Agents und verbindest unsere Tools (CRM, Datenanreicherung, Outreach) zu Workflows, die ohne ständiges Eingreifen laufen Du probierst neue Tools aus und bewertest, ob sie uns wirklich weiterbringen. Der Markt bewegt sich schnell und du hast den Freiraum, vorne mit dabei zu sein Du hältst bestehende Systeme am Laufen, findest heraus wo es hakt, machst sie besser &#x26; misst auf Basis der Zahlen, was als Nächstes dran ist. Qualifikation Du hast in deinem Studium noch mindestens 2 Semester vor dir (Übergang Bachelor/Master ist okay) Du studierst etwas für die Stelle Relevantes, z.B. Informatik, Wirtschaftsinformatik, Mathematik, Physik, BWL oder Wirtschaftsingenieurwesen. Wichtiger als das Fach ist, dass du analytisch denkst &#x26; Dinge selbst zum Laufen bringst Du baust schon heute mit KI: Agents, Automatisierungen, Vibe-Coding, eigene kleine Tools. Zeig uns, was du gebaut hast, das überzeugt uns mehr als jedes Zertifikat Du arbeitest strukturiert und eigenverantwortlich &#x26; bleibst dran, auch wenn sich ein Problem nicht beim ersten Versuch lösen lässt Sehr gute Deutschkenntnisse (C1+), gute Englischkenntnisse. Benefits Du hast in deinem Studium noch mindestens 2 Semester vor dir (Übergang Bachelor/Master ist okay) Du studierst etwas für die Stelle Relevantes, z.B. Informatik, Wirtschaftsinformatik, Mathematik, Physik, BWL oder Wirtschaftsingenieurwesen. Wichtiger als das Fach ist, dass du analytisch denkst &#x26; Dinge selbst zum Laufen bringst Du baust schon heute mit KI: Agents, Automatisierungen, Vibe-Coding, eigene kleine Tools. Zeig uns, was du gebaut hast, das überzeugt uns mehr als jedes Zertifikat Du arbeitest strukturiert und eigenverantwortlich &#x26; bleibst dran, auch wenn sich ein Problem nicht beim ersten Versuch lösen lässt Sehr gute Deutschkenntnisse (C1+), gute Englischkenntnisse. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-31T14:00:42+00:00",
-    "score": 93,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-07-31T15:47:31.670102+00:00"
-  },
-  {
     "id": "4542556585fb4f5a12fb",
     "title": "Werkstudent (m/w) Einkauf/Entwicklung/Produktion oder Informatik",
     "company": "ABUS Kransysteme GmbH",
@@ -79,26 +58,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-07-31T15:47:32.219961+00:00"
-  },
-  {
-    "id": "95dd742fe93ec0eb063a",
-    "title": "Werkstudent (m/w/d) Engineering & Arbeitsvorbereitung",
-    "company": "HEICO Holding GmbH",
-    "location": "Schkeuditz, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003468284-S",
-    "description": "Wirtschaftsingenieur/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-30",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.023821+00:00"
   },
   {
     "id": "8d0252cfeca1eaa9a739",
@@ -501,6 +460,26 @@
     "first_seen_at": "2026-07-31T15:47:32.220850+00:00"
   },
   {
+    "id": "3d58a7ef3707e8ec755b",
+    "title": "Werkstudent im Bereich IT-Hard- & Software (m/w/d)",
+    "company": "Bertrandt AG",
+    "location": "Neckargemünd, Baden-Württemberg, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4906401326-S",
+    "description": "Werkstoffprüfer/in - Halbleitertechnik",
+    "source": "bundesagentur",
+    "role_type": "werkstudent",
+    "remote": false,
+    "published_at": "2026-07-31",
+    "score": 90,
+    "reasons": [
+      "Werkstudent role",
+      "Computer-science relevance",
+      "Student-friendly wording",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-02T19:37:33.713335+00:00"
+  },
+  {
     "id": "f5de693ea1b32765ee7f",
     "title": "Werkstudent im Bereich Robot Control Software (m/w/d)",
     "company": "Rheinmetall AG",
@@ -741,6 +720,26 @@
     "first_seen_at": "2026-07-31T15:47:32.023861+00:00"
   },
   {
+    "id": "fe3226582ec901c34306",
+    "title": "Werkstudent Wirtschaftsinformatik (m/w/d)",
+    "company": "Dension Dental GmbH & Co. KG",
+    "location": "Offenbach am Main, Hessen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001984087-S",
+    "description": "Wirtschaftsinformatiker/in (Hochschule)",
+    "source": "bundesagentur",
+    "role_type": "werkstudent",
+    "remote": false,
+    "published_at": "2025-10-13",
+    "score": 90,
+    "reasons": [
+      "Werkstudent role",
+      "Computer-science relevance",
+      "Student-friendly wording",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-02T19:37:32.748290+00:00"
+  },
+  {
     "id": "cf79d5f8d28a4df17a35",
     "title": "Werkstudent – ADAS Software & Testing Support (m/w/d), Vinfast Germany GmbH",
     "company": "Vinfast Germany GmbH",
@@ -899,26 +898,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-07-31T15:47:32.220762+00:00"
-  },
-  {
-    "id": "ed80eab55fa90dff6570",
-    "title": "Working Student Software Engineering (d/f/m)",
-    "company": "limehome",
-    "location": "Remote job",
-    "url": "https://www.arbeitnow.com/jobs/companies/limehome/remote-working-student-software-engineering-munchen-84616",
-    "description": "How you’ll help us host with heart: You will contribute to building internal AI tooling and processes used by in-house teams, with the opportunity to also contribute directly to the guest experience. Our teams are organised along the customer journey, with each team owning its area end-to-end. We work cross-functionally and use pragmatic, lightweight agile (stand-ups, planning, retros), plus best practices like RFCs and regular knowledge sharing. As a candidate, you must be: currently enrolled in a Computer Science or related technical Master’s degree able to work 15-20 hours per week during the semester And you are a great fit if you: Care about the impact of your work. You are an outcome oriented thinker that wants to own problem solving from start to finish and you are curious to learn more about the “why” behind a task. Have experience with setting up and using AI tooling, including Agentic Workflows, MCPs, Eval/Spec Driven Development, and similar techniques and technologies Have solid programming fundamentals ( data structures, debugging, Git ) and familiarity with testing practices. Previous experience working on developer-enablement teams and projects (creating tooling for other developers) Have experience with Python and/or TypeScript , including university, professional, or open-source projects.&nbsp; We're designed to stay because: Onboarding and Feedback: We make sure that you’ll have a smooth start through our well thought-out onboarding process. Develop yourself through constant feedback and peer reviews. Oneteam: A transparent company culture with team stand-ups, regular all-hands, suite company events (Summer, Wiesn). Everything for our limehomies: Up to 24 paid vacation days in a year, discounts at Urban Sports Club, support with mental health (Nilo.health), staycations in one of our suite Limehomes, and many more benefits. Competitive Salary : live comfortably in Munich or Berlin, or even remote in Germany as a working student with our salary of €25 per hour Even if you don’t meet every requirement, we still encourage you to apply. We know confidence gaps and impostor syndrome can hold back incredible candidates – and we don’t want that to stop us from meeting you. We want people to feel comfortable bringing their full selves, and to come, stay, and do their best work here – not just people who check every box. About Digital Experience (Product, Design &amp; Engineering): We’re a team of people from all over the world, working hybrid from Munich and Berlin (and remotely in special cases). We believe in self-organising teams with end-to-end ownership and a strong focus on guest experience. We invest heavily in growth, with a limitless learning budget and plenty of ways to learn from each other, from pairing to regular tech talks. We value impact, continuous improvement, and learning from what doesn’t work. Within we’re 30 people across 7 teams. Our infrastructure runs on AWS and is orchestrated with CDK. Our core languages are TypeScript and Python, combined with modern low-code tools and AI-powered automations so we spend our time where it counts. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "remote": true,
-    "published_at": "2026-07-31T11:30:25+00:00",
-    "score": 86,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-07-31T15:47:31.688138+00:00"
   },
   {
     "id": "db7ac4cf17102a6651be",
