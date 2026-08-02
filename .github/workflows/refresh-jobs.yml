@@ -5,7 +5,8 @@ on:
   schedule:
     # GitHub cron uses UTC. Running at 06:00 and 07:00 lets the gate below
     # select 08:00 Europe/Berlin across daylight-saving changes.
-    - cron: "0 6,7 * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 7 * * *"
 
 permissions:
   contents: write
@@ -33,18 +34,8 @@ jobs:
         id: gate
         env:
           EVENT_NAME: ${{ github.event_name }}
-        run: |
-          python - <<'PY'
-          import os
-          from datetime import datetime
-          from zoneinfo import ZoneInfo
-          manual = os.environ["EVENT_NAME"] == "workflow_dispatch"
-          berlin_hour = datetime.now(ZoneInfo("Europe/Berlin")).hour
-          should_run = manual or berlin_hour == 8
-          with open(os.environ["GITHUB_OUTPUT"], "a") as output:
-              output.write(f"run={'true' if should_run else 'false'}\n")
-          print(f"manual={manual}, Europe/Berlin hour={berlin_hour}, run={should_run}")
-          PY
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+        run: python -m jobs_agent.schedule
 
       - name: Run behavior tests
         if: steps.gate.outputs.run == 'true'
