@@ -923,12 +923,12 @@
     "title": "(Junior) Embedded Softwareentwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
     "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445249_JB5191338-S",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445249_JB5212833-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
     "role_type": "entry-level",
     "remote": false,
-    "published_at": "2026-07-07",
+    "published_at": "2026-08-03",
     "score": 82,
     "reasons": [
       "Entry-level role",
@@ -980,12 +980,12 @@
     "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Giessen",
     "location": "Gießen, Lahn, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-350605_JB5191220-S",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-350605_JB5212718-S",
     "description": "Embedded-Systems-Entwickler/in",
     "source": "bundesagentur",
     "role_type": "entry-level",
     "remote": false,
-    "published_at": "2026-07-07",
+    "published_at": "2026-08-03",
     "score": 82,
     "reasons": [
       "Entry-level role",
@@ -995,16 +995,54 @@
     "first_seen_at": "2026-07-31T15:47:32.493838+00:00"
   },
   {
-    "id": "ad4d74e4da6058825098",
-    "title": "(Junior) Softwareentwickler (m/w/d)",
-    "company": "FERCHAU GmbH Niederlassung Reutlingen",
-    "location": "Reutlingen, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-348880_JB5191187-S",
+    "id": "c55d111ee64cf08394d1",
+    "title": "(Junior) Software Developer Java (m/w/d)",
+    "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
+    "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446413_JB5212919-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
     "role_type": "entry-level",
     "remote": false,
-    "published_at": "2026-07-07",
+    "published_at": "2026-08-03",
+    "score": 82,
+    "reasons": [
+      "Entry-level role",
+      "Computer-science relevance",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-03T09:49:08.344360+00:00"
+  },
+  {
+    "id": "0d5c0936ea245a690894",
+    "title": "(Junior) Software Developer Python (m/w/d)",
+    "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
+    "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446410_JB5212918-S",
+    "description": "Softwareentwickler/in",
+    "source": "bundesagentur",
+    "role_type": "entry-level",
+    "remote": false,
+    "published_at": "2026-08-03",
+    "score": 82,
+    "reasons": [
+      "Entry-level role",
+      "Computer-science relevance",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-03T09:49:08.344380+00:00"
+  },
+  {
+    "id": "ad4d74e4da6058825098",
+    "title": "(Junior) Softwareentwickler (m/w/d)",
+    "company": "FERCHAU GmbH Niederlassung Reutlingen",
+    "location": "Reutlingen, Baden-Württemberg, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-348880_JB5212685-S",
+    "description": "Softwareentwickler/in",
+    "source": "bundesagentur",
+    "role_type": "entry-level",
+    "remote": false,
+    "published_at": "2026-08-03",
     "score": 82,
     "reasons": [
       "Entry-level role",
@@ -1299,25 +1337,6 @@
     "first_seen_at": "2026-07-31T15:47:32.493879+00:00"
   },
   {
-    "id": "74d5d7303d5fceca2042",
-    "title": "Junior ABAP Developer (w/m/d)",
-    "company": "Aareal Bank AG",
-    "location": "Wiesbaden, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f504j0447140-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-14",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493947+00:00"
-  },
-  {
     "id": "c092e77d9db1f0ce6704",
     "title": "Junior Embedded Softwareentwickler (m/w/d) Industrie",
     "company": "FERCHAU GmbH Niederlassung Villingen-Schwenn.",
@@ -1432,25 +1451,6 @@
     "first_seen_at": "2026-07-31T15:47:32.492320+00:00"
   },
   {
-    "id": "f6c88369bcfd063c84af",
-    "title": "Junior Software Entwickler (m/w/d) Energy",
-    "company": "Akkodis Germany Tech Experts GmbH",
-    "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-643094-7878-7682-S",
-    "description": "Fachinformatiker/in - Anwendungsentwicklung",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-28",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493697+00:00"
-  },
-  {
     "id": "7b66afa7deab0c29e883",
     "title": "Junior Software Entwickler (w/m/d)",
     "company": "Bechtle AG",
@@ -1468,25 +1468,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-07-31T15:47:32.492531+00:00"
-  },
-  {
-    "id": "6dd15fde7f5524a2846d",
-    "title": "Junior Software Entwickler Java (m/w/d)",
-    "company": "Finanz Informatik Solutions Plus",
-    "location": "Frankfurt am Main, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-186536-S",
-    "description": "Anwendungsprogrammierer/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-03",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.494040+00:00"
   },
   {
     "id": "ee701f26fadcfceef40b",
@@ -1645,12 +1626,12 @@
     "title": "Junior Softwareentwickler Embedded C / C++ / C# (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Kassel",
     "location": "Kassel, Hessen, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-370024_JB5191291-S",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-370024_JB5212787-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
     "role_type": "entry-level",
     "remote": false,
-    "published_at": "2026-07-07",
+    "published_at": "2026-08-03",
     "score": 82,
     "reasons": [
       "Entry-level role",
