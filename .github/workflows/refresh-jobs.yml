@@ -2,6 +2,12 @@ name: Refresh jobs and deploy dashboard
 
 on:
   workflow_dispatch:
+    inputs:
+      send_test_notification:
+        description: "Send a Telegram test message even when no new jobs exist"
+        required: false
+        type: boolean
+        default: false
   schedule:
     # GitHub cron uses UTC. Running at 06:00 and 07:00 lets the gate below
     # select 08:00 Europe/Berlin across daylight-saving changes.
@@ -48,6 +54,12 @@ jobs:
           --docs docs
           --message .out/telegram.txt
           --site-url https://ot-coder.github.io/germany-cs-jobs-agent/
+
+      - name: Prepare requested Telegram test notification
+        if: steps.gate.outputs.run == 'true' && github.event_name == 'workflow_dispatch' && inputs.send_test_notification
+        run: |
+          mkdir -p .out
+          printf '%s\n' "✅ Cloud workflow test: Germany CS Jobs Agent can send Telegram notifications from GitHub Actions." > .out/telegram.txt
 
       - name: Send Telegram update when new jobs exist
         if: steps.gate.outputs.run == 'true'
