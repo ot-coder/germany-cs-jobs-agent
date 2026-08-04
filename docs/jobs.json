@@ -1,45 +1,5 @@
 [
   {
-    "id": "4542556585fb4f5a12fb",
-    "title": "Werkstudent (m/w) Einkauf/Entwicklung/Produktion oder Informatik",
-    "company": "ABUS Kransysteme GmbH",
-    "location": "Gummersbach, Nordrhein-Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-1292c088-2f4b-44c1--S",
-    "description": "Assistent/in - Produktionsleitung",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-04-02",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.021980+00:00"
-  },
-  {
-    "id": "08237b09337d6e6024c4",
-    "title": "Werkstudent (m/w/d) - Software Development & AI",
-    "company": "PROMOS consult Projektmanagement, Organisation und Service GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-23a6334a_JB5207416-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-28",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.219919+00:00"
-  },
-  {
     "id": "0b89f0e28fa5562bdb60",
     "title": "Werkstudent (m/w/d) - Software Development & AI",
     "company": "PROMOS consult",
@@ -60,16 +20,16 @@
     "first_seen_at": "2026-07-31T15:47:32.219961+00:00"
   },
   {
-    "id": "8d0252cfeca1eaa9a739",
-    "title": "Werkstudent (m/w/d) im Studiengang Informatik",
-    "company": "BBZ Mitte GmbH",
-    "location": "Petersberg, Kreis Fulda, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003138287-S",
-    "description": "Informatiker/in",
+    "id": "95dd742fe93ec0eb063a",
+    "title": "Werkstudent (m/w/d) Engineering & Arbeitsvorbereitung",
+    "company": "HEICO Holding GmbH",
+    "location": "Schkeuditz, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003468284-S",
+    "description": "Wirtschaftsingenieur/in",
     "source": "bundesagentur",
     "role_type": "werkstudent",
     "remote": false,
-    "published_at": "2026-05-28",
+    "published_at": "2026-07-30",
     "score": 90,
     "reasons": [
       "Werkstudent role",
@@ -77,39 +37,19 @@
       "Student-friendly wording",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.021608+00:00"
+    "first_seen_at": "2026-08-04T12:02:02.132692+00:00"
   },
   {
-    "id": "e39228017cd14ae5dcc6",
-    "title": "Werkstudent (m/w/d) Personalmanagement/Software Administration, Hamburg",
-    "company": "HOYER GmbH",
+    "id": "d7436294fbfaa104c584",
+    "title": "Werkstudent (m/w/d) Software Developer - Next Gen InsurTech, CHECK24 Versicherungen Gesundheit",
+    "company": "CHECK24 - InsurTech",
     "location": "Hamburg, Hamburg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2285921-S",
-    "description": "Kaufmännische/r Assistent/in/Wirtschaftsassistent/in - E-Business Management",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-06-27",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220676+00:00"
-  },
-  {
-    "id": "4e2ded1114114143e15a",
-    "title": "Werkstudent (m/w/d) Software Development",
-    "company": "Dachser SE Head Office",
-    "location": "Kempten (Allgäu), Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15112-44194227-521-S",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2247296-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
     "role_type": "werkstudent",
     "remote": false,
-    "published_at": "2026-05-22",
+    "published_at": "2026-05-05",
     "score": 90,
     "reasons": [
       "Werkstudent role",
@@ -117,7 +57,7 @@
       "Student-friendly wording",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.219823+00:00"
+    "first_seen_at": "2026-08-04T12:02:04.268508+00:00"
   },
   {
     "id": "248a647b7650d12bde22",
@@ -140,146 +80,6 @@
     "first_seen_at": "2026-07-31T15:47:32.222013+00:00"
   },
   {
-    "id": "ee5fbb9e31cf66464190",
-    "title": "Werkstudent (m/w/d) Software Entwicklung Individualreisen",
-    "company": "CHECK24 Services Personal GmbH",
-    "location": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-7399432f8bdc4ad1a17-S",
-    "description": "Fullstack-Entwickler/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-03",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220005+00:00"
-  },
-  {
-    "id": "e30303382499a380227f",
-    "title": "Werkstudent (m/w/d) Software Repository Management & Development Standards",
-    "company": "Heraeus Quarzglas GmbH & Co. KG HRdirekt",
-    "location": "Kleinostheim, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003276255-S",
-    "description": "Wirtschaftsinformatiker/in (Hochschule)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-06-24",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.221021+00:00"
-  },
-  {
-    "id": "5ca01e1eea6526ab71fc",
-    "title": "Werkstudent (w/m/d) Cybersecurity",
-    "company": "Siemens AG",
-    "location": "Braunschweig, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601249-1-S",
-    "description": "Betriebswirt/in (Hochschule) - Marketing",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-17",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.023382+00:00"
-  },
-  {
-    "id": "703dd82476c15d6621af",
-    "title": "Werkstudent (w/m/d) im Bereich Grid Software Sales Operations & Enablement",
-    "company": "Siemens AG",
-    "location": "Nürnberg, Mittelfranken, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601255-1-S",
-    "description": "Betriebswirt/in (Hochschule)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-20",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.221125+00:00"
-  },
-  {
-    "id": "523a1eba7b479d986315",
-    "title": "Werkstudent (w/m/d) Perception Software Engineer",
-    "company": "Siemens AG",
-    "location": "Braunschweig, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1606062-1-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-30",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.219872+00:00"
-  },
-  {
-    "id": "d52bc5ea2ef17e5ae644",
-    "title": "Werkstudent (w/m/d) Softwareentwicklung",
-    "company": "Siemens AG",
-    "location": "Erlangen, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1606551-1-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-31",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.022618+00:00"
-  },
-  {
-    "id": "a64bf560c47dd80b192d",
-    "title": "Werkstudent (w/m/d) Softwareentwicklung",
-    "company": "Siemens AG",
-    "location": "Braunschweig, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1606060-1-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-30",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.022732+00:00"
-  },
-  {
     "id": "0a61fc2fe91c0ef58410",
     "title": "Werkstudent * im Bereich Business Software, Vakanz - Heek",
     "company": "2G Energy AG",
@@ -300,50 +100,10 @@
     "first_seen_at": "2026-07-31T15:47:32.220805+00:00"
   },
   {
-    "id": "c10072e399780f31b5f3",
-    "title": "Werkstudent - Entwicklung Software Testautomatisierung (m/w/d) / 44039",
-    "company": "BSH Hausgeräte GmbH",
-    "location": "Dillingen an der Donau, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-44039-1-S",
-    "description": "IT-Tester/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-05-22",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220377+00:00"
-  },
-  {
-    "id": "fb008b6d09a75c86e429",
-    "title": "Werkstudent - Softwareentwicklung (m/w/d)",
-    "company": "paragon GmbH & Co. KGaA",
-    "location": "Delbrück, Nordrhein-Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002107562-S",
-    "description": "Ingenieur/in - technische Informatik",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2025-11-06",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.021715+00:00"
-  },
-  {
-    "id": "820c6125e9c840e19777",
+    "id": "aa298ec4d65e74737392",
     "title": "Werkstudent / studentische Aushilfe Softwareentwicklung / Informatik (m/w/d)",
     "company": "adp Merkur GmbH",
-    "location": "Lübbecke, Westfalen, Nordrhein-Westfalen, Deutschland",
+    "location": "Lübbecke, Westfalen, Nordrhein Westfalen, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14820-0064601318-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -357,173 +117,13 @@
       "Student-friendly wording",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.021761+00:00"
+    "first_seen_at": "2026-08-04T12:02:02.132362+00:00"
   },
   {
-    "id": "33f7a4b1314f1a7b345e",
-    "title": "Werkstudent DevOps & Software Engineering (w|m|d)",
-    "company": "ADAC IT Service GmbH",
-    "location": "München, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18349-46438_16_JB5192462-S",
-    "description": "DevOps Engineer",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-08",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220477+00:00"
-  },
-  {
-    "id": "ff44ecf637ae9d1fbe3e",
-    "title": "Werkstudent DevOps (m/w/d)",
-    "company": "Rheinmetall AG",
-    "location": "Kassel, Hessen, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-634328-7878-1908-S",
-    "description": "DevOps Engineer",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-08",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.023114+00:00"
-  },
-  {
-    "id": "a3500cd4a3135a54b955",
-    "title": "Werkstudent Embedded Software Developer (m/w/d)",
-    "company": "Flexlog GmbH",
-    "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003100376-S",
-    "description": "Embedded-Systems-Entwickler/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-05-20",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.219730+00:00"
-  },
-  {
-    "id": "3daf2085d70eda7b636b",
-    "title": "Werkstudent Embedded Software Developer ∙ Entwicklung hardwa",
-    "company": "flexlog GmbH",
-    "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13649-12254911AB-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-05-19",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220965+00:00"
-  },
-  {
-    "id": "c12df9ba9c95328e9133",
-    "title": "Werkstudent Embedded Softwareentwicklung und Software Tooling (w/m/x)",
-    "company": "BMW AG",
-    "location": "München, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1584994-1-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-06-10",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220850+00:00"
-  },
-  {
-    "id": "3d58a7ef3707e8ec755b",
-    "title": "Werkstudent im Bereich IT-Hard- & Software (m/w/d)",
-    "company": "Bertrandt AG",
-    "location": "Neckargemünd, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4906401326-S",
-    "description": "Werkstoffprüfer/in - Halbleitertechnik",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-31",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-02T19:37:33.713335+00:00"
-  },
-  {
-    "id": "f5de693ea1b32765ee7f",
-    "title": "Werkstudent im Bereich Robot Control Software (m/w/d)",
-    "company": "Rheinmetall AG",
-    "location": "Bremen, Bremen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-634135-7878-3501-S",
-    "description": "Ingenieur/in - Robotik, Autonome Systeme",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-06-24",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220525+00:00"
-  },
-  {
-    "id": "3b49ecdcb4cfd49a0f86",
-    "title": "Werkstudent im Bereich Software Testing für robotische Systeme (m/w/d)",
-    "company": "Rheinmetall AG",
-    "location": "Bremen, Bremen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-634138-7878-9251-S",
-    "description": "Ingenieur/in - Robotik, Autonome Systeme",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-06-24",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220901+00:00"
-  },
-  {
-    "id": "787c5d04f75e8de4116c",
+    "id": "cd63bf754bd691a6bab7",
     "title": "Werkstudent Informatik (m/w/d)",
     "company": "PC-Reparatur. Shop GmbH",
-    "location": "Stralsund, Mecklenburg-Vorpommern, Deutschland",
+    "location": "Stralsund, Mecklenburg Vorpommern, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002778647-S",
     "description": "Informatiker/in",
     "source": "bundesagentur",
@@ -537,127 +137,7 @@
       "Student-friendly wording",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.021445+00:00"
-  },
-  {
-    "id": "4f5879c10c75550f4f8b",
-    "title": "Werkstudent Informatik Testdokumentation Cash-Geräte (m|w|d)",
-    "company": "LÖWEN ENTERTAINMENT GmbH",
-    "location": "Rellingen, Schleswig-Holstein, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-29103267-RJA-S",
-    "description": "Leiter/in - Treasury",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-31",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.021922+00:00"
-  },
-  {
-    "id": "2e8c302b3a2fae646328",
-    "title": "Werkstudent IT / Wirtschaftsinformatik (m/w/d)",
-    "company": "AGRAVIS Raiffeisen AG",
-    "location": "Münster, Westfalen, Nordrhein-Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f583j0449078-S",
-    "description": "Assistent/in - Informatik (Wirtschaftsinformatik)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-24",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.021809+00:00"
-  },
-  {
-    "id": "5e2b13d9eb5777433e2a",
-    "title": "Werkstudent Lehramt Informatik (m/w/d) am Gymnasium",
-    "company": "Phorms Hamburg gGmbH",
-    "location": "Hamburg, Hamburg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003469708-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-30",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.021659+00:00"
-  },
-  {
-    "id": "fbebba43a1a479b3645e",
-    "title": "Werkstudent Position Software Tooling (m/w/d)",
-    "company": "Rheinmetall AG",
-    "location": "Bremen, Bremen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-634140-7878-1457-S",
-    "description": "Ingenieur/in - Robotik, Autonome Systeme",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-06-24",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220201+00:00"
-  },
-  {
-    "id": "54507e882fd9e148a301",
-    "title": "Werkstudent Software Quality Assurance BMW Motorrad ConnectedRide (w/m/x)",
-    "company": "BMW AG",
-    "location": "München, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1584993-1-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-06-10",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.221283+00:00"
-  },
-  {
-    "id": "c62532c000312b166f4e",
-    "title": "Werkstudent Software Testing (all genders)",
-    "company": "MTU Aero Engines AG",
-    "location": "München, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-151ece43-4212-450f--S",
-    "description": "IT-Dispatcher/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-08",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220050+00:00"
+    "first_seen_at": "2026-08-04T12:02:02.132288+00:00"
   },
   {
     "id": "9250782d0ccfe004d396",
@@ -680,26 +160,6 @@
     "first_seen_at": "2026-07-31T15:47:32.023732+00:00"
   },
   {
-    "id": "e49bee639102c84389d7",
-    "title": "Werkstudent Softwareentwicklung (m/w/d)",
-    "company": "Computerra Hard- und Software GmbH",
-    "location": "Wiesbaden, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002246775-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2025-12-03",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220721+00:00"
-  },
-  {
     "id": "6ed39a3ce662b4f8936d",
     "title": "Werkstudent Softwaretests (m/w/d)",
     "company": "mbi GmbH",
@@ -720,30 +180,10 @@
     "first_seen_at": "2026-07-31T15:47:32.023861+00:00"
   },
   {
-    "id": "fe3226582ec901c34306",
-    "title": "Werkstudent Wirtschaftsinformatik (m/w/d)",
-    "company": "Dension Dental GmbH & Co. KG",
-    "location": "Offenbach am Main, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001984087-S",
-    "description": "Wirtschaftsinformatiker/in (Hochschule)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2025-10-13",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-02T19:37:32.748290+00:00"
-  },
-  {
     "id": "cf79d5f8d28a4df17a35",
     "title": "Werkstudent – ADAS Software & Testing Support (m/w/d), Vinfast Germany GmbH",
     "company": "Vinfast Germany GmbH",
-    "location": "Frankfurt am Main, Hessen, Deutschland",
+    "location": "Frankfurt Am Main, Hessen, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2256582-S",
     "description": "ADAS/AD Engineer",
     "source": "bundesagentur",
@@ -760,136 +200,16 @@
     "first_seen_at": "2026-07-31T15:47:32.222301+00:00"
   },
   {
-    "id": "9498a1dd014b13a81d2a",
-    "title": "Werkstudent*in KI-Anwendung in der Software-Entwicklung",
-    "company": "Mercedes-Benz Group AG",
-    "location": "Sindelfingen, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1596376-1-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-07",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220323+00:00"
-  },
-  {
-    "id": "fe0bb6dc4dd403ee8298",
-    "title": "Werkstudent*in Projektleitung & Data Analytics – Software Qualitätsmanagement Serie",
-    "company": "Mercedes-Benz Group AG",
-    "location": "Sindelfingen, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1602786-1-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-23",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.221229+00:00"
-  },
-  {
-    "id": "78d4c524ca55a818af83",
-    "title": "Werkstudent*in Prozessautomatisierung & Digitale Transformation Drive Systems - Software...",
-    "company": "Mercedes-Benz Group AG",
-    "location": "Sindelfingen, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1600787-1-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-17",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.221177+00:00"
-  },
-  {
-    "id": "5d6866d2ba42817b84f5",
-    "title": "Werkstudent*in Softwarearchitekturmodellierung",
-    "company": "Mercedes-Benz Group AG",
-    "location": "Sindelfingen, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1604561-1-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-28",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.022825+00:00"
-  },
-  {
-    "id": "f7b90f3a4109b4a48dc8",
-    "title": "Werkstudent*in Unterstützung Software Projektleitung für Getriebe (RD/ETS)",
-    "company": "Mercedes-Benz Group AG",
-    "location": "Sindelfingen, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1601081-1-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-20",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.220616+00:00"
-  },
-  {
-    "id": "42bc01da2fff5c43269f",
-    "title": "Werkstudent/in in der Welt der Informatik (m/w/d)",
-    "company": "Netzint GmbH",
-    "location": "Gütenbach, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003057521-S",
-    "description": "",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-05-11",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.021537+00:00"
-  },
-  {
-    "id": "554ac04fb3152999dddc",
-    "title": "Werkstudent/Praktikant Software-Developer JavaScript/TypeScript (m/w/d)",
-    "company": "snapAddy GmbH",
-    "location": "Würzburg, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-fb0c18f2_JB5197527-S",
+    "id": "98c0b88e766132e48717",
+    "title": "Werkstudent:in Softwareentwicklung (m/w/d)",
+    "company": "Spaceteams GmbH",
+    "location": "Hamburg, Hamburg, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002947770-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
     "role_type": "werkstudent",
     "remote": false,
-    "published_at": "2026-07-14",
+    "published_at": "2026-04-20",
     "score": 90,
     "reasons": [
       "Werkstudent role",
@@ -897,52 +217,52 @@
       "Student-friendly wording",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.220762+00:00"
+    "first_seen_at": "2026-08-04T12:02:02.132662+00:00"
   },
   {
-    "id": "b81defda30e57e9b0677",
-    "title": "Junior Software Developer – Graduate Programme - London, Bournemouth, Glasgow & Other UK Locations",
-    "company": "Mthreerecruitingportal",
-    "location": "Germany",
-    "url": "https://www.arbeitnow.co.uk/jobs/companies/mthreerecruitingportal/junior-software-developer-graduate-programme-london-bournemouth-glasgow-other-uk-locations-418193",
-    "description": "&lt;p&gt;&lt;strong&gt;Junior Software Developer – London, Bournemouth, Glasgow &amp;amp; Other UK Locations&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Start Your Career as a Java Developer with mthree!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Looking to kickstart your career in tech? The mthree Alumni Graduate Programme offers:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Graduate training tailored to industry needs.&lt;/li&gt; &lt;li&gt;Ongoing support throughout your career journey.&lt;/li&gt; &lt;li&gt;Opportunities with leading global employers.&lt;/li&gt; &lt;li&gt;And no hidden catches – no training bond, exit fees, or fine print.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;At mthree, we connect talented graduates with top-tier organizations, including leading investment banks and companies across insurance, healthcare, travel, and more. We currently have roles live with a leading Investment Bank based in various locations throughout the UK.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;New: Part-Time Technical Training Programme (3 Months, Self-Paced)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Alongside our full-time Academy pathways, candidates now have the option to join our self-paced, part-time technical training programme, designed to be completed over 3 months.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;This flexible pathway is perfect for individuals seeking to upskill while balancing other commitments. You’ll build practical skills in &lt;strong&gt;Software Engineering&lt;/strong&gt;, supported by expert-led modules and real-world case studies.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;On successful completion, you’ll have the opportunity to interview with mthree’s Corporate (Banking, Insurance, Healthcare, Aviation etc.) and Government clients throughout the UK, expanding your access to roles in high-demand technology areas.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You Will Do (Full-Time Graduate Pathway)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Software Developer with mthree, you will work in dynamic, global teams to build complex applications that solve real-world problems. You will:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;See your code come to life, making a tangible impact.&lt;/li&gt; &lt;li&gt;Continuously improve through collaboration and innovation.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;If you are enthusiastic about development and thrive on problem-solving, you’ll fit right in.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;How the Alumni Programme Works&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Apply:&lt;/strong&gt; Submit your application through this advert.&lt;br&gt;&lt;strong&gt;Assessment:&lt;/strong&gt; Complete our straightforward selection process.&lt;br&gt;&lt;strong&gt;Training:&lt;/strong&gt; Attend mthree Academy’s online training at your own pace, over the duration of 12 weeks, focusing on Java or other client-required languages.&lt;br&gt;&lt;strong&gt;Placement:&lt;/strong&gt; Join a global organization for 24 months.&lt;br&gt;&lt;strong&gt;Permanent Role:&lt;/strong&gt; Most graduates transition into permanent positions with their client post-programme.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You Will Learn at mthree Academy&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Full-stack application design, development, and testing.&lt;/li&gt; &lt;li&gt;Professional skills such as communication and teamwork.&lt;/li&gt; &lt;li&gt;Industry concepts delivered through real-world examples.&lt;/li&gt; &lt;li&gt;Monitoring, support, and troubleshooting fundamentals.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What We Are Looking For&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;A bachelor’s degree in computer science or a related field (2:1 or higher).&lt;/li&gt; &lt;li&gt;A solid foundation in software engineering principles.&lt;/li&gt; &lt;li&gt;Skills in troubleshooting, debugging, and test-driven development.&lt;/li&gt; &lt;li&gt;Knowledge of the software development lifecycle (SDLC).&lt;/li&gt; &lt;li&gt;The right to work in the UK without visa sponsorship.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You Will Get&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;A competitive graduate salary with an annual pay rise.&lt;/li&gt; &lt;li&gt;A flexible benefits package.&lt;/li&gt; &lt;li&gt;Ongoing training and mentorship.&lt;/li&gt; &lt;li&gt;Valuable industry experience and a pathway into a permanent role.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;How to Apply&lt;/strong&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Apply via the form below.&lt;/li&gt; &lt;li&gt;Complete our online assessment (sent via email).&lt;/li&gt; &lt;li&gt;Participate in phone and video interviews with our friendly talent team.&lt;/li&gt; &lt;li&gt;Interview with one or more of our client partners.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Relocation may be required, so we encourage flexibility to improve your opportunities.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Eligibility for British Government Roles&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;To be considered for a role with a British Government client through mthree, you must meet specific eligibility criteria and, if successful, complete the &lt;strong&gt;Baseline Personnel Security Standard (BPSS)&lt;/strong&gt; and, where required, &lt;strong&gt;Security Check (SC)&lt;/strong&gt; clearance.&lt;/p&gt; &lt;p&gt;&lt;br&gt;BPSS is the UK Government’s mandatory pre-employment screening standard and includes verification of your identity, right to work in the UK, a minimum three-year employment history check, and a basic criminal record check for unspent convictions.&lt;br&gt;Roles requiring access to classified information may additionally require &lt;strong&gt;SC clearance&lt;/strong&gt;, which involves more detailed vetting of personal, employment, financial, and security-related information, and typically requires at least &lt;strong&gt;five years of UK residency&lt;/strong&gt; to enable meaningful checks.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Diversity and Inclusion at mthree&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At mthree, we celebrate diversity and foster an environment where everyone can thrive. We value inclusion, equality, and the well-being of all employees, creating a culture that supports courageous teamwork, continuous learning, and meaningful impact.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+    "id": "915ada43a3e7666d6059",
+    "title": "Werkstudent/in Assistenz Functional Safety & Cyber Security",
+    "company": "TWK",
+    "location": "Wedel",
+    "url": "https://www.arbeitnow.com/jobs/companies/twk/werkstudent-in-assistenz-functional-safety-cyber-security-wedel-447658",
+    "description": "Sicherheit ist kein Zufall – sie entsteht durch Menschen, die genau hinschauen, strukturiert denken und Verantwortung übernehmen. Functional Safety und Cyber Security sind keine Randthemen mehr, sondern das Herzstück moderner technischer Systeme. Wenn du mitten im Studium schon verstehen willst, wie sicherheitskritische Produkte wirklich entstehen – nicht nur in der Theorie, sondern in der täglichen Praxis – dann bist du bei uns genau richtig. Bei TWK in Wedel arbeitest du direkt an den Themen, die die Industrie gerade am meisten beschäftigen. Kein Kaffeekochen, kein Ablage-Chaos – sondern echte Mitarbeit an Projekten, die zählen. Wir bei TWK entwickeln und produzieren seit über 60 Jahren im Wachstumsmarkt der Mess- und Automatisierungstechnik kundenspezifische Sensoren für den Anlagen- und Maschinenbau. Funktionale Sicherheit für Mensch und Maschine ist unser Anspruch – und der lässt sich nicht mit halbgaren Lösungen oder endlosen Abstimmungsschleifen erfüllen. Du willst nicht nur zuschauen, sondern mitgestalten? Dann pack deine Neugier ein und komm nach Wedel. Wir zeigen dir, wie aus Normen, Analysen und Anforderungen echte Sicherheit wird – und du zeigst uns, was in dir steckt. Aufgaben Du tauchst tief in die Welt der funktionalen Sicherheit und Cyber Security ein – und übernimmst dabei Aufgaben, die wirklich etwas bewegen: Pflege, Strukturierung und Nachverfolgung von Safety- und Cyber-Security-Artefakten Vorbereitung von Analysen, Reviews, Audits und Assessments Recherche zu relevanten Normen, Methoden, Werkzeugen und regulatorischen Anforderungen Aufbereitung von Informationen, Kennzahlen und Präsentationen für interne Abstimmungen Dokumentation von Anforderungen, Maßnahmen, Risiken und offenen Punkten Koordination von Terminen, Workshops und fachübergreifenden Abstimmungen Eigenverantwortliche Bearbeitung klar abgegrenzter Aufgabenpakete im Umfeld von Functional Safety und Cyber Security Qualifikation Du bringst technisches Verständnis mit, denkst strukturiert und willst mehr als nur Theorie – das passt zu uns: Immatrikuliert in einem technischen oder naturwissenschaftlichen Studiengang, z. B. Elektrotechnik, Informatik, Technische Informatik, Mechatronik, Fahrzeugtechnik oder vergleichbar Interesse an Functional Safety, Cyber Security, Systems Engineering oder sicherheitskritischen technischen Systemen Idealerweise erste Kenntnisse in einschlägigen Normen wie DIN EN 61508, DIN EN ISO 13849, DIN EN IEC 62443 oder in Risikoanalysen Solide Kenntnisse in Embedded Software (C) und elektronischer Hardware Sicherer Umgang mit Microsoft Office, insbesondere Excel und Word Strukturierte, sorgfältige und eigenständige Arbeitsweise Freude an der Zusammenarbeit mit unterschiedlichen Fachbereichen und gute Kommunikationsfähigkeit Gute Deutsch- und Englischkenntnisse in Wort und Schrift Benefits Wir sind ein familiengeführtes Unternehmen, das Wert auf kurze Entscheidungswege und eine „Open-Door-Mentalität\" legt. Unser Team profitiert von einer wertschätzenden Unternehmenskultur, in der die Vereinbarkeit von Familie und Beruf großgeschrieben wird. Neben abwechslungsreichen Aufgaben mit hoher Eigenverantwortung bieten wir unseren Mitarbeitenden zahlreiche Benefits: Bezuschusstes Deutschlandticket: Mobil in ganz Deutschland Persönliches Mentoring – schneller ankommen, schneller wachsen Option auf Abschlussarbeit und Übernahme – wir denken über den Campus hinaus Firmenevents – vernetzen, feiern, wachsen Firmenfitness über Wellhub – Zugang zu Partner-Studios, Online-Classes und Wellness, flexibel nutzbar Flexible Arbeitszeiten und Remote-Optionen – damit Studium und Job entspannt zusammenpassen Nach Eingang deiner Bewerbung bekommst du innerhalb einer Woche eine Antwort von Alina oder Betül. Das erste Kennenlerngespräch findet in der Regel online über MS-Teams statt. Im zweiten Schritt laden wir dich meist persönlich zu uns vor Ort ein. Ganz unkompliziert. Dein Interesse ist geweckt? Dann freuen wir uns darauf, dich kennenzulernen! Bewirb dich jetzt und werde Teil unseres dynamischen Teams. Bei uns erwartet dich ein motiviertes Team, spannende Herausforderungen und die Möglichkeit, dich beruflich weiterzuentwickeln. Du hast Fragen? Schreib uns direkt – wir melden uns. Find Jobs in Germany on Arbeitnow",
     "source": "arbeitnow",
-    "role_type": "entry-level",
+    "role_type": "werkstudent",
     "remote": false,
-    "published_at": "2026-08-03T09:55:46+00:00",
-    "score": 85,
+    "published_at": "2026-08-04T10:07:19+00:00",
+    "score": 86,
     "reasons": [
-      "Entry-level role",
+      "Werkstudent role",
       "Computer-science relevance",
-      "Located in Germany",
+      "Student-friendly wording",
       "English mentioned"
     ],
-    "first_seen_at": "2026-08-03T12:23:36.803727+00:00"
+    "first_seen_at": "2026-08-04T12:01:59.442584+00:00"
   },
   {
-    "id": "db7ac4cf17102a6651be",
-    "title": "(Junior) Embedded Software-Entwickler C++ (m/w/d)",
-    "company": "FERCHAU GmbH Niederlassung Heilbronn",
-    "location": "Heilbronn, Neckar, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-292456_JB5199615-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-17",
-    "score": 82,
+    "id": "a67593a17d93620d39e6",
+    "title": "Initiativbewerbung Werkstudent:in Softwareentwicklung (m/w/d) - Karlsruhe",
+    "company": "Knuddels GmbH & Co. KG",
+    "location": "Homeoffice",
+    "url": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/remote-initiativbewerbung-werkstudentin-softwareentwicklung-karlsruhe-482333",
+    "description": "Wir bei Knuddels haben uns das Ziel gesetzt, soziale Netzwerke wieder wirklich sozial zu machen - mit echter menschlicher Nähe statt bloßen Content-Konsums. In unserer Community soll jedes Mitglied 3 wichtige Menschen für sein echtes Leben finden: Jobtitel sind dir nicht wichtig und du möchtest dazu beitragen, unsere Vision zu erreichen? Wir wollen dich kennenlernen.&nbsp; Du bist der Ansicht, du könntest gut zu unserem Unternehmen und in unser Team passen? Dann bewirb dich mit deinen Unterlagen und wir finden gemeinsam heraus, wie und wo wir dich am besten einsetzen können.&nbsp; Was bieten wir dir? Wachstum nach deinen Vorstellungen - Ob Fach- oder Führungskarriere: bei uns gestaltest du deinen individuellen Entwicklungspfad mit. Team-Unterstützung durch Gespräche, Coaching, Feedback und Mentoring - Wir leben eine offene Kultur mit ehrlichem, konstruktivem Austausch und starkem Zusammenhalt. Flache Hierarchien und Mitsprache - Bei uns zählt jede Stimme: gestalte aktiv mit und bring deine Ideen ein. Flexibilität, die sich deinem Leben anpasst - Home Office, spontane Arzttermine oder kurzfristiger Urlaub: wir vertrauen auf Selbstorganisation. Büro in Top-Lage mit kostenlosem Frühstück und Mittagessen, Fitness, Mystery Lunch (zweiwöchentliches Mittagessen mit einem zufälligen Teammitglied), Workshops und wunderschöner Dachterrasse - Unsere Arbeitsumgebung bietet alles für Wohlbefinden und kreative Energie. Direktes Feedback von Endnutzern (B2C-Company) - Du siehst unmittelbar, wie dein Beitrag bei unseren Nutzer:innen ankommt. Fokus auf unser eigenes Produkt - Eine einzigartige Community-Plattform, die Menschen näher zusammenbringt, mit Sinn und Wirkung. alle Benefits findest auch nochmal unter jobs.knuddels.de Was bieten wir nicht? Staubige Konzernstrukturen Arbeiten an Geschäftskundenprojekten (Wir sind ein B2C-Unternehmen) Einen an den Haaren herbei gezogenen dritten Bullet Point, wenn uns nur zwei einfallen :) Du befindest dich mind. im 3. Semester in Informatik, Mathematik oder eines vergleichbaren Studiengangs oder du konntest anderweitig schon relevante Programmiererfahrung sammeln Idealerweise hast du Erfahrung mit einer oder mehreren der folgenden Technologien TypeScript React Java Svelte PostgreSQL Python Du hast Freude am analytischen Denken Du hast ein hohes Maß an Selbständigkeit, Selbstorganisation und Motivation Du hast großen Spaß an der Arbeit im Team Abhängig von deinen Fähigkeiten und Erfahrungen finden wir die passende Stelle für dich in unserem Team. Find Jobs in Germany on Arbeitnow",
+    "source": "arbeitnow",
+    "role_type": "werkstudent",
+    "remote": true,
+    "published_at": "2026-08-04T11:30:10+00:00",
+    "score": 83,
     "reasons": [
-      "Entry-level role",
+      "Werkstudent role",
       "Computer-science relevance",
-      "Located in Germany"
+      "Student-friendly wording"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.493193+00:00"
+    "first_seen_at": "2026-08-04T12:01:59.437350+00:00"
   },
   {
-    "id": "f14b89e3424e91532388",
+    "id": "501ba9f2f779c1072a3f",
     "title": "(Junior) Embedded Softwareentwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
-    "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
+    "location": "Karlsruhe, Baden, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445249_JB5212833-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -955,13 +275,13 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492405+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880309+00:00"
   },
   {
-    "id": "2f1b1fbb0c19249380e9",
+    "id": "0ca0815ff065cb649408",
     "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Heilbronn",
-    "location": "Heilbronn, Neckar, Baden-Württemberg, Deutschland",
+    "location": "Heilbronn, Neckar, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-487081_JB5205096-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -974,13 +294,13 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492707+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880475+00:00"
   },
   {
-    "id": "ada2a83a8896338a268a",
+    "id": "87d911da7c0875935cbb",
     "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
-    "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
+    "location": "Karlsruhe, Baden, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445036_JB5206325-S",
     "description": "Informatiker/in",
     "source": "bundesagentur",
@@ -993,70 +313,13 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492985+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880585+00:00"
   },
   {
-    "id": "a7e6e45c3802b5adb7c3",
-    "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
-    "company": "FERCHAU GmbH Niederlassung Giessen",
-    "location": "Gießen, Lahn, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-350605_JB5212718-S",
-    "description": "Embedded-Systems-Entwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-08-03",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493838+00:00"
-  },
-  {
-    "id": "c55d111ee64cf08394d1",
-    "title": "(Junior) Software Developer Java (m/w/d)",
-    "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
-    "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446413_JB5212919-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-08-03",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-03T09:49:08.344360+00:00"
-  },
-  {
-    "id": "0d5c0936ea245a690894",
-    "title": "(Junior) Software Developer Python (m/w/d)",
-    "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
-    "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446410_JB5212918-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-08-03",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-03T09:49:08.344380+00:00"
-  },
-  {
-    "id": "ad4d74e4da6058825098",
+    "id": "a47a810433fe442b72e8",
     "title": "(Junior) Softwareentwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Reutlingen",
-    "location": "Reutlingen, Baden-Württemberg, Deutschland",
+    "location": "Reutlingen, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-348880_JB5212685-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1069,7 +332,7 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492096+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880188+00:00"
   },
   {
     "id": "84980846b3e1ca5d3a0a",
@@ -1091,86 +354,10 @@
     "first_seen_at": "2026-07-31T15:47:32.492749+00:00"
   },
   {
-    "id": "a60671d758d7c241561d",
-    "title": "(Junior) Softwareentwickler (m/w/d) CTO Taskforce Team",
-    "company": "CHECK24 Services Personal GmbH",
-    "location": "München, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-63365f585a914d16a3a-S",
-    "description": "Fullstack-Entwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-06-01",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493150+00:00"
-  },
-  {
-    "id": "c9ec2132d5c200c93aab",
-    "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce",
-    "company": "CHECK24 Services Personal GmbH",
-    "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-d8218e57d5a24b309cc-S",
-    "description": "Fullstack-Entwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-06-01",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493570+00:00"
-  },
-  {
-    "id": "ffaab2cb739e942f9969",
-    "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce",
-    "company": "CHECK24 Services Personal GmbH",
-    "location": "Dresden, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-7a8126c58cf04f4eb8b-S",
-    "description": "Fullstack-Entwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-06-01",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493598+00:00"
-  },
-  {
-    "id": "3a614fdc9f38acecc105",
-    "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce",
-    "company": "CHECK24 Services Personal GmbH",
-    "location": "Erfurt, Thüringen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-5d238c32b7314919b9c-S",
-    "description": "Fullstack-Entwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-06-01",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493634+00:00"
-  },
-  {
-    "id": "c213c6015d5f127bb55b",
+    "id": "4820cf0ba50923361fc5",
     "title": "(Junior) Softwareentwickler (m/w/d) Sondermaschinenbau",
     "company": "FERCHAU GmbH Niederlassung Koblenz",
-    "location": "Koblenz am Rhein, Rheinland-Pfalz, Deutschland",
+    "location": "Koblenz Am Rhein, Rheinland Pfalz, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-402238_JB5195478-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1183,7 +370,7 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492188+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880275+00:00"
   },
   {
     "id": "2acf20a85fe037c1f47e",
@@ -1205,25 +392,6 @@
     "first_seen_at": "2026-07-31T15:47:32.492861+00:00"
   },
   {
-    "id": "8e191e56331b863a2dde",
-    "title": "(Junior) Softwareentwickler Java (all genders)",
-    "company": "msg nexinsure ag",
-    "location": "Ismaning, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002953806-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-04-21",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493540+00:00"
-  },
-  {
     "id": "f02c8c9eef796dbca3be",
     "title": "(Junior) Softwareentwickler Qt/C++, QML und Python (m/w/d)",
     "company": "Linseis Messgeräte GmbH",
@@ -1243,10 +411,10 @@
     "first_seen_at": "2026-07-31T15:47:32.492619+00:00"
   },
   {
-    "id": "761cbd884341fb4086b9",
+    "id": "fb89f8de53e685f9f7e6",
     "title": "(Junior) Softwareentwickler:in im Consulting",
     "company": "viadee Unternehmensberatung AG",
-    "location": "Münster, Westfalen, Nordrhein-Westfalen, Deutschland",
+    "location": "Münster, Westfalen, Nordrhein Westfalen, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002780818-S",
     "description": "Informatiker/in",
     "source": "bundesagentur",
@@ -1259,7 +427,7 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.493032+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880545+00:00"
   },
   {
     "id": "1029a2ccb71911661a83",
@@ -1338,67 +506,10 @@
     "first_seen_at": "2026-07-31T15:47:32.610320+00:00"
   },
   {
-    "id": "161807d09f1a28d9079f",
-    "title": "Junior (m/w/d) Salesforce Developer",
-    "company": "Scheidt & Bachmann GmbH",
-    "location": "Mönchengladbach, Nordrhein-Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20357-00004b02acb001-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-08",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493879+00:00"
-  },
-  {
-    "id": "c092e77d9db1f0ce6704",
-    "title": "Junior Embedded Softwareentwickler (m/w/d) Industrie",
-    "company": "FERCHAU GmbH Niederlassung Villingen-Schwenn.",
-    "location": "Konstanz, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002447090-S",
-    "description": "Ingenieur/in - Elektrotechnik",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-01-20",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493237+00:00"
-  },
-  {
-    "id": "1837d76106151f7bb5a6",
-    "title": "Junior Embedded Softwareentwickler Linux (m/w/d) – C/C++ & Qt",
-    "company": "INGSERV GmbH",
-    "location": "Kassel, Hessen, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11943-7XTF8FR9QBT2Z2G6-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-31",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493287+00:00"
-  },
-  {
-    "id": "91622b64444aa91bbd5d",
+    "id": "39aea06ba95b3a925a40",
     "title": "Junior Informatiker / Softwareentwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Ulm",
-    "location": "Ulm, Donau, Baden-Württemberg, Deutschland",
+    "location": "Ulm, Donau, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-19682_JB5199616-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1411,51 +522,13 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492363+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880371+00:00"
   },
   {
-    "id": "42346f7efdc2da90c141",
-    "title": "Junior IT-Admin / Softwareentwickler C# (m/w/d)",
-    "company": "FERCHAU GmbH Niederlassung Kassel",
-    "location": "Korbach, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-505729_JB5194360-S",
-    "description": "IT-Systemadministrator/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-10",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493666+00:00"
-  },
-  {
-    "id": "39b88f85c311bdc6a9db",
-    "title": "Junior Java Software-Entwickler (m/w/d)",
-    "company": "Clausohm-Software",
-    "location": "Neverin, Mecklenburg-Vorpommern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-54089-S",
-    "description": "Anwendungsprogrammierer/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-03",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493974+00:00"
-  },
-  {
-    "id": "76139dd0479f48d8ef4f",
+    "id": "2b5fbf44c56e6192a42a",
     "title": "Junior Java Softwareentwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Ulm",
-    "location": "Ulm, Donau, Baden-Württemberg, Deutschland",
+    "location": "Ulm, Donau, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-17344_JB5199592-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1468,13 +541,13 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492320+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880356+00:00"
   },
   {
-    "id": "7b66afa7deab0c29e883",
+    "id": "6dfbf736cc3de60ddc4e",
     "title": "Junior Software Entwickler (w/m/d)",
     "company": "Bechtle AG",
-    "location": "Neckarsulm, Baden-Württemberg, Deutschland",
+    "location": "Neckarsulm, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44303341-79-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1487,26 +560,7 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492531+00:00"
-  },
-  {
-    "id": "ee701f26fadcfceef40b",
-    "title": "Junior Software-Entwickler (m/w/d) für den Berufseinstieg",
-    "company": "isacon",
-    "location": "Stuttgart, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-306695-S",
-    "description": "Anwendungsprogrammierer/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-03",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.494004+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880400+00:00"
   },
   {
     "id": "2fefabeea89e3307f355",
@@ -1528,10 +582,10 @@
     "first_seen_at": "2026-07-31T15:47:32.492018+00:00"
   },
   {
-    "id": "c54c8b1359a520b3ee77",
+    "id": "1296dfecfb32876e1ce8",
     "title": "Junior Softwareentwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Freiburg",
-    "location": "Freiburg im Breisgau, Baden-Württemberg, Deutschland",
+    "location": "Freiburg Im Breisgau, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1195814746-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1544,13 +598,13 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492144+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880258+00:00"
   },
   {
-    "id": "ac8e2b34093da726655e",
+    "id": "436be58f574785d4176e",
     "title": "Junior Softwareentwickler (m/w/d)",
     "company": "eurosimtec",
-    "location": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+    "location": "Düsseldorf, Nordrhein Westfalen, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-193865-S",
     "description": "Anwendungsprogrammierer/in",
     "source": "bundesagentur",
@@ -1563,13 +617,13 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492446+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880386+00:00"
   },
   {
-    "id": "32e4efec305d05f548db",
+    "id": "a43f1940069c6f21d365",
     "title": "Junior Softwareentwickler (m/w/d) Embedded Systems",
     "company": "FERCHAU GmbH Niederlassung Freiburg",
-    "location": "Lörrach, Baden-Württemberg, Deutschland",
+    "location": "Lörrach, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001766565-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1582,13 +636,13 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492276+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880325+00:00"
   },
   {
-    "id": "c6ac361904f1f1d15a72",
+    "id": "09d36fc95a5db1d43f14",
     "title": "JUNIOR SOFTWAREENTWICKLER (W/M/D)",
     "company": "Sebastian Gerecke",
-    "location": "Nordhausen, Thüringen, Thüringen, Deutschland",
+    "location": "Nordhausen, Thüringen, Thueringen, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1199007754-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1601,7 +655,7 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492232+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880292+00:00"
   },
   {
     "id": "f9c5d61048b5035c6b7b",
@@ -1623,25 +677,6 @@
     "first_seen_at": "2026-07-31T15:47:32.492903+00:00"
   },
   {
-    "id": "068dee486278da3429af",
-    "title": "Junior Softwareentwickler C#.NET (m/w/d) - Standort Dresden, Dresden",
-    "company": "DAKO GmbH",
-    "location": "Dresden, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2305438-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-31",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493500+00:00"
-  },
-  {
     "id": "5fc2f4ea22a08a228dcc",
     "title": "Junior Softwareentwickler Embedded C / C++ / C# (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Kassel",
@@ -1661,10 +696,10 @@
     "first_seen_at": "2026-07-31T15:47:32.492488+00:00"
   },
   {
-    "id": "dc7856866e971d696f30",
+    "id": "bd096fddf38cec7d31d9",
     "title": "Junior Softwareentwickler*in (m/w/d) Erforschung KI-Anwendungen",
     "company": "Lovion GmbH",
-    "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
+    "location": "Dortmund, Nordrhein Westfalen, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003405582-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1677,13 +712,13 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492572+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880414+00:00"
   },
   {
-    "id": "ab9f1292318bf5b4b10d",
+    "id": "781de741b496f42d76ba",
     "title": "Junior-Softwareentwickler C# m/w/d",
     "company": "Winkhardt + Spinder GmbH & Co. KG",
-    "location": "Stuttgart, Baden-Württemberg, Deutschland",
+    "location": "Stuttgart, Baden Wuerttemberg, Deutschland",
     "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003442946-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
@@ -1696,7 +731,7 @@
       "Computer-science relevance",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.492666+00:00"
+    "first_seen_at": "2026-08-04T12:02:06.880446+00:00"
   },
   {
     "id": "f4e46634fb8f2711796b",
@@ -1716,24 +751,5 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-07-31T15:47:32.492944+00:00"
-  },
-  {
-    "id": "e65615fe7bd273088be9",
-    "title": "Softwareentwickler:in Java/C# - Junior (m/w/d)",
-    "company": "ABOSCO GmbH",
-    "location": "Bötzingen, Baden-Württemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205526881-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-02-17",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.493108+00:00"
   }
 ]
