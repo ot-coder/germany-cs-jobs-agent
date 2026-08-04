@@ -61,7 +61,7 @@ jobs:
           mkdir -p .out
           printf '%s\n' "✅ Cloud workflow test: Germany CS Jobs Agent can send Telegram notifications from GitHub Actions." > .out/telegram.txt
 
-      - name: Send Telegram update when new jobs exist
+      - name: Send Telegram daily update
         if: steps.gate.outputs.run == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -70,9 +70,9 @@ jobs:
           if [ -s .out/telegram.txt ] && [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
             python -m jobs_agent.telegram
           elif [ -s .out/telegram.txt ]; then
-            echo "New jobs found, but Telegram secrets are not configured yet."
+            echo "Telegram update is ready, but Telegram secrets are not configured yet."
           else
-            echo "No new jobs; notification skipped."
+            echo "No Telegram update was generated; notification skipped."
           fi
 
       - name: Commit refreshed job data

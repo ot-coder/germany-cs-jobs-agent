@@ -42,8 +42,12 @@ class PublishTests(unittest.TestCase):
         self.assertIn("Working Student Backend", message)
         self.assertIn("Open dashboard", message)
 
-    def test_telegram_message_is_empty_without_new_jobs(self):
-        self.assertEqual(telegram_message([], "https://example.test"), "")
+    def test_telegram_message_reports_daily_scan_without_new_jobs(self):
+        message = telegram_message([], "https://example.test", total_jobs=42)
+        self.assertIn("Daily scan complete", message)
+        self.assertIn("No new suitable roles today", message)
+        self.assertIn("42 live matches", message)
+        self.assertIn("https://example.test", message)
 
 
 if __name__ == "__main__":

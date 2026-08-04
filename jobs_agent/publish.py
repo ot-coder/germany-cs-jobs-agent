@@ -68,9 +68,16 @@ def publish_jobs(jobs: list[Job], docs_dir: str | Path) -> list[Job]:
     return new_jobs
 
 
-def telegram_message(new_jobs: list[Job], site_url: str, limit: int = 8) -> str:
+def telegram_message(
+    new_jobs: list[Job], site_url: str, limit: int = 8, total_jobs: int | None = None
+) -> str:
     if not new_jobs:
-        return ""
+        lines = ["✅ Germany CS Jobs: Daily scan complete", "", "No new suitable roles today."]
+        if total_jobs is not None:
+            noun = "match" if total_jobs == 1 else "matches"
+            lines.append(f"The dashboard currently has {total_jobs} live {noun}.")
+        lines.extend(["", f"Open dashboard: {site_url}"])
+        return "\n".join(lines)
     noun = "role" if len(new_jobs) == 1 else "roles"
     lines = [f"Germany CS Jobs: {len(new_jobs)} new suitable {noun}", ""]
     for job in new_jobs[:limit]:

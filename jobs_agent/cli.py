@@ -28,7 +28,9 @@ def run_publish(
     jobs = fetcher()
     new_jobs = publish_jobs(jobs, docs_dir)
     message_path.parent.mkdir(parents=True, exist_ok=True)
-    message_path.write_text(telegram_message(new_jobs, site_url), encoding="utf-8")
+    message_path.write_text(
+        telegram_message(new_jobs, site_url, total_jobs=len(jobs)), encoding="utf-8"
+    )
     return len(new_jobs)
 
 

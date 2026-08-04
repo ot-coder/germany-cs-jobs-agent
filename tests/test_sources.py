@@ -1,6 +1,6 @@
 import unittest
 
-from jobs_agent.sources import fetch_all, normalize_arbeitnow, normalize_ba
+from jobs_agent.sources import _parse_ba_search_html, fetch_all, normalize_arbeitnow, normalize_ba
 
 
 class SourceTests(unittest.TestCase):
@@ -33,6 +33,32 @@ class SourceTests(unittest.TestCase):
         self.assertIn("10001-ABC-S", job.url)
         self.assertGreaterEqual(job.score, 70)
 
+    def test_normalizes_current_bundesagentur_ssr_job(self):
+        raw = {
+            "stellenangebotsTitel": "Werkstudent Softwareentwicklung (m/w/d)",
+            "firma": "Example GmbH",
+            "referenznummer": "10000-SSR-S",
+            "stellenlokationen": [{"adresse": {
+                "ort": "Berlin", "region": "BERLIN", "land": "DEUTSCHLAND"
+            }}],
+            "hauptberuf": "Softwareentwickler/in",
+            "datumErsteVeroeffentlichung": "2026-08-04",
+        }
+        job = normalize_ba(raw)
+        self.assertEqual(job.company, "Example GmbH")
+        self.assertEqual(job.location, "Berlin, Berlin, Deutschland")
+        self.assertIn("10000-SSR-S", job.url)
+        self.assertGreaterEqual(job.score, 70)
+
+    def test_parses_bundesagentur_ssr_search_state(self):
+        html = '''<html><script id="ng-state" type="application/json">{
+          "suchergebnis": {"ergebnisliste": [{"referenznummer": "SSR-1"}]}
+        }</script></html>'''
+        self.assertEqual(
+            _parse_ba_search_html(html),
+            {"stellenangebote": [{"referenznummer": "SSR-1"}]},
+        )
+
     def test_fetch_all_keeps_only_suitable_roles_and_deduplicates(self):
         def fake_fetch(url):
             if "arbeitnow" in url:
@@ -51,6 +77,30 @@ class SourceTests(unittest.TestCase):
 
         jobs = fetch_all(fetch_json=fake_fetch, min_score=60)
         self.assertEqual({job.title for job in jobs}, {"Werkstudent Software Engineer", "Werkstudent Informatik", "Junior Data Analyst"})
+
+    def test_fetch_all_continues_when_bundesagentur_is_unavailable(self):
+        def fake_fetch(url):
+            if "arbeitnow" in url:
+                return {"data": [{
+                    "title": "Werkstudent Python Developer",
+                    "company_name": "Acme",
+                    "location": "Berlin",
+                    "url": "https://example.test/job",
+                    "description": "Computer science student Python",
+                }]}
+            if "remotive" in url:
+                return {"jobs": []}
+            raise OSError("404 Not Found")
+
+        jobs = fetch_all(fetch_json=fake_fetch, min_score=60)
+        self.assertEqual([job.title for job in jobs], ["Werkstudent Python Developer"])
+
+    def test_fetch_all_fails_if_every_internet_source_is_unavailable(self):
+        def failing_fetch(url):
+            raise OSError("503 Unavailable")
+
+        with self.assertRaisesRegex(RuntimeError, "All job sources failed"):
+            fetch_all(fetch_json=failing_fetch)
 
 
 if __name__ == "__main__":
