@@ -1,67 +1,5 @@
 [
   {
-    "id": "f4ca3af4292b49225813",
-    "title": "AI Quality Engineer - Working Student (f/m/d)",
-    "company": "Manex AI GmbH",
-    "location": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/manex-ai-gmbh/ai-quality-engineer-working-student-munich-54039",
-    "description": "AI Quality Engineer - Working Student (f/m/d) About Us Manex AI is on a mission to enable autonomy for the world's leading organizations, currently building the production system for the era of autonomous manufacturing. With our Seed Round raised from Lightspeed and BlueYard and leading manufacturing enterprises relying on our systems, we are now scaling fast. For our world-class team, we are looking for exceptionally driven students who want real ownership early. Your Role Testing conventional software is a solved problem. Testing AI systems is not. Classic assertions stop working when a system can answer correctly in five different ways, and the industry is still writing the playbook for what comes next. You define what good looks like for AI features that run in customer production environments. Kosmos, our platform, is live at industry leaders such as BMW, Audi, BSH, Stellantis, Still, and TDK Electronics. The job comes with two main responsibilities. The first is evals: building the datasets and scoring methods that turn a vague impression of quality into a number the team can act on. The second is classic engineering rigor: automated end-to-end tests, regression suites, CI that catches issues while a feature is still a branch, and experiments that show where performance and scalability stand. The mindset we hire for is adversarial. Your job is to find the edge cases nobody thought of and the prompt nobody expected, and then to prove exactly what happened and why. For working students who deliver, this is the fastest path into a full-time engineering role. Your Responsibilities Design and run evals for our AI features, including datasets, scoring and regression tracking over time Investigate performance and scalability bottlenecks, then design experiments to show the impact of the fix Extend our CI pipeline so quality signals reach engineers early Do exploratory and edge case testing on new features before they reach customer environments Document and present findings precisely such that an engineer can act on them Your Profile Currently studying Computer Science, Information Systems, or similar Available 16 to 20 hours per week during the semester, with the option to work more during semester breaks Strong hands-on coding ability in Python, TypeScript or similar, proven via own projects, ventures, or open-source work Curiosity about how LLM-based systems behave and how to measure them, whether from coursework, side projects, or reading Enjoying breaking systems, and even more finding the root cause An ownership mindset: taking initiative, moving fast, and finishing what you start Fluent in English and ideally in German as well Based in Munich, hybrid, with regular time on-site with the team Ideally experience with Playwright, Cypress or Selenium, API testing, Docker, and CI/CD We appreciate your application even if you don't tick all the boxes. What We Offer Real ownership from day one, including how quality and evals work here Direct mentorship from senior engineers and direct access to founders Hands-on experience with real customers, real production systems, and frontier AI Hours that flex around lectures and exam periods A fast-paced environment backed by the world's best investors, with the world's leading organizations as customers Curious? Apply now. Find Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-08-05T02:40:35+00:00",
-    "score": 93,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-05T08:38:22.378670+00:00"
-  },
-  {
-    "id": "3fbf10cefed39fe2a39e",
-    "title": "Working Student-Real Estate Software & Data Integration",
-    "company": "Gus Germany",
-    "location": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/gus-germany/working-student-real-estate-software-data-integration-berlin-237844",
-    "description": "Deine Aufgaben Help bring our real estate portfolio into the connected, smart and AI-driven, era! We are rolling out a Real estate software platform, and need a driven, detail-oriented tech enthusiast to ensure a smooth transition. You will not be coding or building software from scratch; instead, you will be the master of our new platform. You will be responsible for gathering and populating it with accurate data and virtually connecting all different aspect of Real Estate management to a centralized digital hub. If you want hands-on experience in software implementation and real estate operations on a global scale, this is the perfect role for you. Your primary objective is to take our raw property data and successfully migrate it into our already established software, ensuring the platform is ready for our team to use. Populate the Platform: Collect, clean, and migrate massive amounts of property data from legacy spreadsheets into our new software system Map the Portfolio: Use the software's built-in tools to digitally structure our portfolio, ensuring every building, unit, and lease is perfectly linked and organized. Configure &amp; Optimize: Help set up the system's workflows, dashboards, and reporting tools to match how our managers work. Data Detective Work: Track down missing property details, standardize naming conventions, and guarantee that the data feeding the software is 100% accurate. Management Reporting: create dashboard and present regular updates to leadership, translating raw data into clear, actionable updates User Testing &amp; Support: Learn the new software inside and out, test its features before the official rollout, and help create \"how-to\" guides for the rest of the team. Dein Profil Your Background &amp; Studies We are looking for someone who understands how to manage large datasets and is eager to learn how commercial software is deployed in a business environment. You should be studying or recently graduated in: PropTech or Digital Real Estate Information Systems / Business Informatics · Data Analytics / Data Science · Real Estate Management / Facility Management (with a strong interest in digital tools) · Business Administration (with a focus on real estate, operations, IT, or project management) What You Bring to the Table The Mind of a Builder: You think in systems. You enjoy figuring out how different pieces of information relate to one another. Extreme Attention to Detail: You know that a system is only as good as the data inside it. You spot errors before they become problems. Tech-Savvy Adaptability: You learn new software platforms quickly and aren't afraid to click around to see how things work. Excel/Database Proficiency: You are highly comfortable with spreadsheets, data extraction, and data manipulation. Proactive Problem Solving: If you don't have a piece of property data, you are not afraid to proactively figure out how to get it. Great Communicator: You are not afraid to pick up the phone or ping a senior manager to track down the exact square footage or missing compliance document you need. Language Skills: English proficiency is mandatory. Any German language skill is a plus. Warum wir? You will be directly responsible with our team for the successful launch of a major tech initiative on a global scale. Gain hands-on experience in PropTech, one of the fastest-growing sectors in the global economy. Work side-by-side with industry experts in both real estate and software implementation. Opportunity to work with a great team in a dynamic and international environment 30 days of vacation After successfully passing the probationary period, we offer subsidies for employees’ well-being through our health budget with preventive and aftercare services Various online language courses and opportunities to participate in online collaboration courses Numerous campus events from the fields of art, culture, business and science Opportunity to develop and implement new ideas and concept Find Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-08-05T02:09:15+00:00",
-    "score": 93,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-05T08:38:22.380455+00:00"
-  },
-  {
-    "id": "0b89f0e28fa5562bdb60",
-    "title": "Werkstudent (m/w/d) - Software Development & AI",
-    "company": "PROMOS consult",
-    "location": "Berlin, Berlin, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11971-1001905152457634-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-07-09",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.219961+00:00"
-  },
-  {
     "id": "95dd742fe93ec0eb063a",
     "title": "Werkstudent (m/w/d) Engineering & Arbeitsvorbereitung",
     "company": "HEICO Holding GmbH",
@@ -262,66 +200,6 @@
     "first_seen_at": "2026-08-04T12:02:02.132662+00:00"
   },
   {
-    "id": "95a3dbd1f6b0f1baeaa1",
-    "title": "Working Student – Legal Operations & AI Automation",
-    "company": "Lovehoney Group",
-    "location": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/lovehoney-group/working-student-legal-operations-ai-automation-berlin-406692",
-    "description": "Lovehoney&nbsp;Group is the world’s leading sexual&nbsp;wellbeing company, with the&nbsp;mission to elevate pleasure through innovative technologies, a data-driven approach, and&nbsp;foster creative and fresh perspectives on intimacy.&nbsp;We offer&nbsp;exciting&nbsp;brands with innovative, high-quality sex toys,&nbsp;lingerie,&nbsp;and&nbsp;accessories&nbsp;in a&nbsp;streamlined&nbsp;online shopping experience. &nbsp; At Lovehoney, we employ over 800 passionate and progressive individuals across 11 global offices, each person contributing a unique blend of talents to our diverse workforce. We are proud to be a company that thrives by doing things differently, challenging expectations and stereotypes while making a positive impact on our customers’ lives. &nbsp; Join us at&nbsp;Lovehoney, where pleasure&nbsp;combines&nbsp;with&nbsp;creativity, data,&nbsp;and innovation! &nbsp; We are currently looking for a&nbsp; Working Student – Legal Operations &amp; AI Automation (m/f/d) &nbsp; who will be integral to driving efficient and scalable legal processes across&nbsp;Lovehoney&nbsp;Group. Partnering directly with the Legal team, your focus will be on supporting and improving our contract review workflows and helping to shape AI-driven solutions for legal operations. &nbsp; In this role, you will combine your appreciation for technology and process efficiency with your capacity for creative problem-solving. You will develop skills crucial to advancing in a competitive, fast-paced retail environment, all within a company that values initiative, innovation, and results. &nbsp; What you will do Manage administrative aspects of the contract review process (e.g. ticket creation, e-signatures, filing, deadline tracking). Support the development and improvement of AI-based automation for legal and contract workflows. Collaborate with Legal, IT and other teams to identify and implement practical, scalable solutions. Provide ad hoc administrative support to the Legal team. What you should bring Enrollment at a university for the full duration of the contract (minimum 6 months). Strong interest in AI tools and automation, including hands-on experience with prompting. &nbsp; Affinity for digital tools and structured, detail-oriented working style. &nbsp; Problem-solving mindset with a proactive and curious approach. &nbsp; Good communication skills and ability to work with different teams.&nbsp; &nbsp; Experience in admin, tech, operations or legal is a plus (but not required). &nbsp; What we can offer you A welcoming workplace full of drinks, snacks, friendly faces and fun team-building events. Access to unique discounts at high street retailers, hotels, and service providers, in addition to a 50% discount on all Lovehoney products to explore and discover new ways to have fun. Access to customized training opportunities to support your unique learning journey, complemented by biannual feedback cycles, offering valuable insights into your performance and growth areas, enhancing your development within the company. &nbsp; Recognising the significance of&nbsp;physical and mental&nbsp;health, we proudly provide gym benefits&nbsp;in addition to a mental wellbeing platform, to ensure our employees thrive both professionally and personally.&nbsp; &nbsp; Stay secure at work and at home with a complimentary 1Password Family account. All&nbsp;Lovehoney&nbsp;Group employees can invite up to five family members to join, offering your household a safe and&nbsp;simple way&nbsp;to manage passwords and sensitive information safely and easily. &nbsp; Our interview process CV review &nbsp; Interview with one of Talent Acquisition Team Members &nbsp; Hiring Manager Interview&nbsp; &nbsp; Lovehoney Group is an equal opportunities employer. We promise that every qualified person will be evaluated according to skills regardless of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, or sexual orientation. If you require accommodations during the interview process due to a disability, please inform your Talent Acquisition Specialist so that we can ensure a smooth and inclusive experience for all candidates. At Lovehoney Group, we embrace innovative technologies to enhance our recruitment process. We leverage artificial intelligence during screening interviews for CV reviews and note-taking. We prioritize transparency and respect your preferences, so you'll have the option to opt out of recording and AI-driven note-taking while still receiving full and fair consideration for the role. If we sparked your interest and you are open to embarking on your professional path with us, please visit our Lovehoney careers page to apply:&nbsp; https://jobs.eu.lever.co/lovehoneygroup Our privacy policy is available here: https://www.lovehoneygroup.com/privacy-policy/ Find Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "remote": false,
-    "published_at": "2026-08-05T05:05:25+00:00",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-05T08:38:22.371241+00:00"
-  },
-  {
-    "id": "e043ce7e835404451710",
-    "title": "Junior Software Engineer (Flutter/Python)",
-    "company": "Bloom Future",
-    "location": "Heilbronn",
-    "url": "https://www.arbeitnow.com/jobs/companies/bloom-future/junior-software-engineer-flutter-python-heilbronn-349262",
-    "description": "Bloom Future is a startup building a digital career-orientation app for students, schools, and employers. Based at Campus Founders in Heilbronn, we help young people make more informed decisions about their professional future. We are hiring a product-minded engineer to help build the mobile experiences and technical systems behind it. Tasks You will work across our Flutter application and FastAPI backend, taking features from problem definition through implementation and release. We are looking for strong engineering fundamentals, evidence that you can ship working software, and the judgment to make sensible product and technical decisions. You should be effective in at least one area of the stack and capable of becoming productive across both. This is a hands-on role with meaningful responsibility. You will be expected to investigate problems independently, form clear opinions, and take responsibility for the quality of your work. What you'll do Build end-to-end product features across our Flutter app, APIs, and database. Improve interactive career-exploration, profile, and recommendation experiences. Design and maintain APIs, data models, and external integrations. Diagnose problems across mobile, backend, data, and infrastructure. Propose and implement improvements to UX, architecture, reliability, and performance. Write tests, review code, and support the release of production changes. Requirements Our Stack: Mobile: Flutter and Dart Backend: Python and FastAPI Data: PostgreSQL and Supabase Infrastructure: Docker and cloud services Interfaces: REST APIs, WebSockets, and external integrations What we’re looking for Strong fundamentals in at least one modern programming language. Evidence that you have built and completed a substantial application or software project. Practical understanding of REST APIs, relational databases, testing, and Git. Strong debugging skills and the ability to understand unfamiliar systems. Attention to product behaviour, usability, and interaction details. Ability to evaluate alternatives and explain your decisions clearly. Initiative, good judgment, and willingness to raise problems early. Good English for technical collaboration. German is a plus. This is an early-career role, typically suited to someone with around one to two years of experience. Substantial internship, working-student, open-source, university, or independent project experience may also qualify. Nice-to-have Flutter or another mobile framework. FastAPI or another backend framework. PostgreSQL or Supabase. Automated testing, CI/CD, Docker, or cloud deployment. AI-powered, data-driven or user-facing products. Benefits What we offer Ownership of work that reaches real users. Influence over both product and technical decisions. Close collaboration and short decision-making paths. Hybrid working at Campus Founders in Heilbronn. A motivated, international team working on a meaningful product. Send us your CV or LinkedIn profile and a project or portfolio you are proud of. Briefly explain: What you built and your contribution. One important technical or product decision you made. What you would do differently now. We are interested in the quality of your work and reasoning, not a checklist of technologies. Find Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-08-05T05:27:52+00:00",
-    "score": 86,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-05T08:38:22.369097+00:00"
-  },
-  {
-    "id": "d1bb6aa2b54ed9531aec",
-    "title": "Junior Applications Engineer",
-    "company": "Rhoda Ai",
-    "location": "Munich, Germany",
-    "url": "https://www.arbeitnow.com/jobs/companies/rhoda-ai/junior-applications-engineer-munich-germany-224341",
-    "description": "At Rhoda AI, we’re building the next generation of generalist intelligent robots. We own the full robotics stack from high-performance hardware and robot systems to the infrastructure and state-of-the-art foundation world models that control our robots. Our robots are designed to be generalists capable of operating in complex, real-world environments and handling long-tail edge cases, made possible by our cutting edge research and end-to-end system design. We've raised over $450M and are investing aggressively in model research, infrastructure, hardware development, and manufacturing scale-up to make generalist robotics a reality. The Role As Junior Application Engineer, you will work hands-on in the field alongside our Senior AE to execute Proof-of-Principle (POP), POC engagements and RaaS deplouments with Rhoda's European strategic partners. This is a practical, execution-focused role: you will be on-site at partner facilities, setting up and integrating Rhoda's robot platform, running test programmes, capturing data, and documenting results. You will develop rapidly. Working alongside a Senior AE on complex, real-world deployments is one of the fastest paths to deep robotics systems competence. We expect you to grow into an increasingly autonomous AE over 12–18 months. What You'll Do Field Deployment &amp; POC Execution Support POP and POC execution, as well as RaaS engagements under Senior AE guidance: design solutions, system setup, sensor bring-up, test execution, and data collection at partner sites Integrate and calibrate sensors (cameras, LiDAR, IMUs, depth sensors) with Rhoda's robot platform Execute test plans defined by the Senior AE; record and validate results methodically Maintain and transport robot platforms, peripherals, and field test kits in good working order Troubleshooting &amp; Documentation Assist with field troubleshooting — collect logs, reproduce issues, support root cause analysis under Senior AE direction Write clear, structured technical documentation: test logs, configuration notes, sensor calibration reports, and integration guides Contribute to test reports and partner-facing summaries; develop your ability to communicate technical findings clearly Software &amp; Tooling Operate and monitor Rhoda's onboard software stack in the field; diagnose and resolve common software-side issues Write Python scripts for test automation, data processing, and light tooling tasks Develop proficiency with industrial communication protocols (EtherCAT, CAN) through field exposure Learning &amp; Development Actively develop expertise in EU functional safety concepts (ISO 26262, IEC 61508, EN ISO 13849) — formal training supported Participate in HQ Engineering knowledge-sharing sessions and apply learnings to field work Take increasing ownership of defined sub-tasks within POC engagements as competence grows What We're Looking For Must-Have Bachelor's degree in Mechanical Engineering, Electrical Engineering, Robotics, Mechatronics, or a related field 0–3 years of experience with robotic systems; a strong final-year thesis or research project in robotics or mechatronics is fully acceptable Hands-on experience with ROS or ROS2 — you have launched nodes, debugged topics, and understood how a robot software stack fits together Working knowledge of Linux; comfortable at the command line Python scripting ability: you can write a data-analysis or test-automation script independently Structured, thorough approach to testing and documentation — you write it down, you double-check, you close the loop Willingness and ability to travel ~40% across Europe English fluency; German at working level Nice-to-Have Hands-on experience with robot policy training, model fine-tuning, or deployment Experience with teleoperation systems or remote robot control workflows Hands-on experience integrating or calibrating sensors (cameras, LiDAR, IMU, depth) Exposure to functional safety concepts (ISO 26262, IEC 61508) — even at a conceptual or coursework level Experience with EtherCAT or CAN protocols Embedded Linux, C, or Rust — even at a beginner level MATLAB or Simulink familiarity Why This Role Rare early-career opportunity to work on real humanoid robot deployments in customer environments — not lab demonstrations Direct mentorship from a Senior AE with deep field and functional safety expertise High ownership from the start: you own your tasks, your documentation, and your learning path Join at founding team stage — contribute to how Application Engineering is built at Rhoda Europe Find Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-08-05T03:01:00+00:00",
-    "score": 85,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-05T08:38:22.372708+00:00"
-  },
-  {
     "id": "501ba9f2f779c1072a3f",
     "title": "(Junior) Embedded Softwareentwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
@@ -358,25 +236,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-04T12:02:06.880475+00:00"
-  },
-  {
-    "id": "87d911da7c0875935cbb",
-    "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
-    "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
-    "location": "Karlsruhe, Baden, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445036_JB5206325-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-07-27",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-04T12:02:06.880585+00:00"
   },
   {
     "id": "a47a810433fe442b72e8",
@@ -814,5 +673,24 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-07-31T15:47:32.492944+00:00"
+  },
+  {
+    "id": "c9b4d0e38f0039223395",
+    "title": "Softwareentwickler:in Java/C# - Junior (m/w/d)",
+    "company": "ABOSCO GmbH",
+    "location": "Bötzingen, Baden Wuerttemberg, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205526881-S",
+    "description": "Informatiker/in",
+    "source": "bundesagentur",
+    "role_type": "entry-level",
+    "remote": false,
+    "published_at": "2026-02-17",
+    "score": 82,
+    "reasons": [
+      "Entry-level role",
+      "Computer-science relevance",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-06T08:38:24.830637+00:00"
   }
 ]
