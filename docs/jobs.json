@@ -1,5 +1,26 @@
 [
   {
+    "id": "3063125c6cc4be40d9cc",
+    "title": "Ecosystem Engineer Working Student",
+    "company": "Tulip Interfaces",
+    "location": "Munich, Bavaria, Germany",
+    "url": "https://www.arbeitnow.com/jobs/companies/tulip-interfaces/ecosystem-engineer-working-student-munich-334678",
+    "description": "This role is located in Munich, Germany - We are a hybrid work environment and are in the office 3+ days/per week. Tulip , the leader in AI-native frontline operations, is helping companies around the world equip their workforce with composable, connected apps, leading to higher quality work, improved efficiency, and end-to-end traceability across operations. Tulip's cloud-native, no-code platform, powered by embedded AI, is driving the digital transformation of industrial environments through composable, human-centric solutions that go beyond disrupting the Manufacturing Execution System (MES) category. A spinoff out of MIT, Tulip is headquartered in Somerville, MA, with offices in Germany, Hungary, Singapore, Israel and Japan. Tulip has been recognized as a World Economic Forum Global Innovator, a 2024 Deloitte Technology Fast award winner, one of Energage's Top Workplaces USA, and one of Built In Boston's \"Best Places to Work\" and \"Best Midsize Places to Work.\" About You You are a curious, creative problem-solver who is energized by building things that help people understand and connect with technology. You bring a willingness to learn, a collaborative spirit, and genuine enthusiasm for translating complex platform capabilities into compelling demo experiences. You're ready to contribute from day one — taking direction, growing your craft, and making a real impact on how customers see the value of Tulip. What skills do I need? Currently a student of engineering, computer science, or a related field Fluency in English; proficiency in German Hands-on experience with AI-powered code development tools (e.g., using AI to refactor, debug, or generate code) and familiarity with modern development practices&nbsp; Comfortable working hands-on with hardware — assembling stations, connecting devices/sensors, and basic troubleshooting (networking, IP/DHCP, cabling)&nbsp; Ability to create technical demos or content that communicates product value clearly Strong written and verbal communication skills with an eye for clear, compelling storytelling Excited to build on a no-code/low-code platform (no prior Tulip experience needed)&nbsp; Familiarity or interest in manufacturing environments is a plus Key Responsibilities Demo Development &amp; Content Creation Create demo concepts and AI-centric tools based on guidance, customer needs, and platform capabilities Support the development and implementation of demos that showcase Tulip's product value Set up and troubleshoot demo hardware and partner integrations so demos run reliably&nbsp; Develop documentation, step-by-step walkthroughs, and supporting materials for demo environments Contribute to video content that communicates product capabilities in an accessible, engaging way Learn and apply technical best practices from senior team members to continuously improve output quality Project Coordination &amp; Collaboration Help manage relationships with internal stakeholders during demo planning and execution Coordinate assigned tasks across concurrent projects, keeping deliverables on track Partner with Marketing, Solutions, Sales Engineering, Sales, Product Education, Product, and Customer Success teams to deliver against demo needs Maintain organized records of demo assets, versions, and documentation to support team-wide accessibility Key Collaborators Marketing, Solutions Engineering, Sales, and Product Education teams Ecosystem team members and senior content leads Product and Customer Success as cross-functional partners Working At Tulip We know even great candidates experience imposter syndrome. Even if you don't match every requirement, applying gives you the opportunity to be considered. We're building a strong, diverse team that values hard work, families, and personal well-being. Benefits of working with us include: Direct impact on product and culture Flexible work schedule Virtual company events and happy hours In-office catered lunches and stocked kitchens We are an equal-opportunity employer. At Tulip, we celebrate all. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Help us build an inclusive community that will transform frontline operations.&nbsp; It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Please note that we may use AI-based tools to support parts of our hiring process. All data processing is carried out in compliance with local data protection laws, ensuring all personal candidate information is handled securely and ethically. Find Jobs in Germany on Arbeitnow",
+    "source": "arbeitnow",
+    "role_type": "werkstudent",
+    "remote": false,
+    "published_at": "2026-08-06T23:45:26+00:00",
+    "score": 93,
+    "reasons": [
+      "Werkstudent role",
+      "Computer-science relevance",
+      "Student-friendly wording",
+      "Located in Germany",
+      "English mentioned"
+    ],
+    "first_seen_at": "2026-08-07T07:18:05.716756+00:00"
+  },
+  {
     "id": "95dd742fe93ec0eb063a",
     "title": "Werkstudent (m/w/d) Engineering & Arbeitsvorbereitung",
     "company": "HEICO Holding GmbH",
@@ -238,6 +259,25 @@
     "first_seen_at": "2026-08-04T12:02:06.880475+00:00"
   },
   {
+    "id": "87d911da7c0875935cbb",
+    "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
+    "company": "FERCHAU GmbH Niederlassung Karlsruhe City",
+    "location": "Karlsruhe, Baden, Baden Wuerttemberg, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445036_JB5206325-S",
+    "description": "Informatiker/in",
+    "source": "bundesagentur",
+    "role_type": "entry-level",
+    "remote": false,
+    "published_at": "2026-07-27",
+    "score": 82,
+    "reasons": [
+      "Entry-level role",
+      "Computer-science relevance",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-07T07:18:12.593844+00:00"
+  },
+  {
     "id": "a47a810433fe442b72e8",
     "title": "(Junior) Softwareentwickler (m/w/d)",
     "company": "FERCHAU GmbH Niederlassung Reutlingen",
@@ -280,12 +320,12 @@
     "title": "(Junior) Softwareentwickler (m/w/d) Sondermaschinenbau",
     "company": "FERCHAU GmbH Niederlassung Koblenz",
     "location": "Koblenz Am Rhein, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-402238_JB5195478-S",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-402238_JB5216671-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
     "role_type": "entry-level",
     "remote": false,
-    "published_at": "2026-07-13",
+    "published_at": "2026-08-07",
     "score": 82,
     "reasons": [
       "Entry-level role",
@@ -312,25 +352,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-07-31T15:47:32.492861+00:00"
-  },
-  {
-    "id": "f02c8c9eef796dbca3be",
-    "title": "(Junior) Softwareentwickler Qt/C++, QML und Python (m/w/d)",
-    "company": "Linseis Messgeräte GmbH",
-    "location": "Selb, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003019058-S",
-    "description": "Fachinformatiker/in - Anwendungsentwicklung",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "remote": false,
-    "published_at": "2026-05-04",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.492619+00:00"
   },
   {
     "id": "fb89f8de53e685f9f7e6",
