@@ -924,1612 +924,72 @@
     "first_seen_at": "2026-07-31T15:47:32.492944+00:00"
   },
   {
-    "id": "d601ec2f5dc0c1659eb2",
-    "title": "Helfer (m/w/d) - Studentenjob",
-    "company": "TimePartner Personalmanagement GmbH",
-    "location": "Dormagen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11852-962898290-S",
-    "description": "Helfer/in - Lagerwirtschaft, Transport",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603533+00:00"
-  },
-  {
-    "id": "6b74d086de4e35268911",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Randstad Deutschland",
-    "location": "Hannover, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4897199457-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-07",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603157+00:00"
-  },
-  {
-    "id": "7de7d07c5ea656b9b0d6",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Randstad Deutschland",
-    "location": "Rastatt, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4890390497-S",
-    "description": "Montierer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-03",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603208+00:00"
-  },
-  {
-    "id": "f4e213e6e3832b55ae4c",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Randstad Deutschland",
-    "location": "Köln, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4904258378-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-04",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603240+00:00"
-  },
-  {
-    "id": "f44ad07b75698fc3591a",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Tempton Personaldienstleistungen GmbH NL Emsdetten",
-    "location": "Emsdetten, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-373A115887-S",
-    "description": "Helfer/in - Kunststoff, Kautschuk",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-03",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603293+00:00"
-  },
-  {
-    "id": "a6aac5920bdd11ac1a00",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Randstad Deutschland",
-    "location": "Gerstungen, Thueringen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4870527387-S",
-    "description": "Montierer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-30",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603316+00:00"
-  },
-  {
-    "id": "b08710281e7c9b0a92c4",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Randstad Deutschland",
-    "location": "Düsseldorf, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4880733888-S",
+    "id": "ef8a11e9894b6a938407",
+    "title": "Aushilfe / Studentenjob in Teilzeit (m/w/d)",
+    "company": "Kaufland Dienstleistung GmbH & Co. KG",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-45cea810948f9833-S",
     "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-22",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603361+00:00"
-  },
-  {
-    "id": "e7ed410d337b5c2cb141",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Randstad Deutschland",
-    "location": "Frankfurt Am Main, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4880736706-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-22",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603384+00:00"
-  },
-  {
-    "id": "4ae4cdb656150ffa5246",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Piening GmbH (Gießen)",
-    "location": "Fulda, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12826-SA0142573_JB5211907-S",
-    "description": "Helfer/in - Kunststoff, Kautschuk",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-03",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603420+00:00"
-  },
-  {
-    "id": "d5ff5d484af083625f0d",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Piening GmbH (Gießen)",
-    "location": "Steinau An Der Straße, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12826-SA0142576_JB5211910-S",
-    "description": "Helfer/in - Kunststoff, Kautschuk",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-03",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603443+00:00"
-  },
-  {
-    "id": "167d69cffcc4bf0986ed",
-    "title": "Studentenjob (m/w/d)",
-    "company": "Randstad Deutschland",
-    "location": "Bremen, Bremen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4908835681-S",
-    "description": "Helfer/in - Fahrzeugbau und -instandhaltung",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-04",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603465+00:00"
-  },
-  {
-    "id": "ce1eb934bf23e590fb88",
-    "title": "Studentenjob Logistikzentrum (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Mörfelden-Walldorf, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44360685-85-S",
-    "description": "Logistiker/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-06",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603561+00:00"
-  },
-  {
-    "id": "9d0594b1a8b60e71318a",
-    "title": "Studentenjob Verkauf (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Kuppenheim, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44366460-87-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-08",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603587+00:00"
-  },
-  {
-    "id": "edf9e941f71e4d3234f8",
-    "title": "Studentenjob Verkauf (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Kandel, Pfalz, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44366456-87-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-08",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603611+00:00"
-  },
-  {
-    "id": "6d733b74b3d0aca95753",
-    "title": "Studentenjob Verkauf (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Wörth Am Rhein, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44366453-87-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-08",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603635+00:00"
-  },
-  {
-    "id": "ac93b99961236cb93c86",
-    "title": "Studentenjob Verkauf (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Oppenheim, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44365719-87-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-08",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603658+00:00"
-  },
-  {
-    "id": "bb358036ddbbe6d097e5",
-    "title": "Studentenjob Verkauf (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Nieder-Olm, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44365696-87-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-08",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603680+00:00"
-  },
-  {
-    "id": "5f783d681cfbd728c402",
-    "title": "Studentenjob Verkauf (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Wörrstadt, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44365541-87-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-08",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603703+00:00"
-  },
-  {
-    "id": "e0740950bbd3c61f970a",
-    "title": "Studentenjob Verkauf (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Rohrbach, Pfalz, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44363770-86-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-07",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603726+00:00"
-  },
-  {
-    "id": "ba3b875e09c6e053cd3f",
-    "title": "Studentenjob Verkauf (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Esslingen Am Neckar, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44363762-86-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-07",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603749+00:00"
-  },
-  {
-    "id": "6ac0c5bea216b25c69ad",
-    "title": "Studentenjob Verkauf (m/w/d)",
-    "company": "ALDI SÜD Dienstleistungs- SE & Co. oHG",
-    "location": "Grafenberg, Württemberg, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17907-44363729-86-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-07",
-    "score": 75,
-    "reasons": [
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:28.603773+00:00"
-  },
-  {
-    "id": "1678642ea5647515b2d8",
-    "title": "Digital Ecosystem Working Student (m/w/d)",
-    "company": "Trusteq Gmbh",
-    "location": "München",
-    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/digital-ecosystem-working-student-munchen-54862",
-    "description": "DEINE AUFGABEN Du unterstützt unsere Projektteams in der Beratung im Hinblick auf ganzheitliche digitale Ökosysteme für den Einsatz künstlicher Intelligenz (KI) und Technologien Du erstellst Konzepte, Machbarkeitsstudien und ggf. Prototypen in enger Abstimmung mit deinem Projektteam Du führst erste eigenständige Marktanalysen, strategische Reviews und Synergie-Assessments durch Du prüfst regulatorische Vorgaben und leitest Vorschläge zur Einhaltung gesetzlicher Bestimmungen (z.B. eIDAS 2.0 oder EU AI Act) ab Du arbeitest eng mit Kunden und Projektteams zusammen und sammelst erste Erfahrung in der Präsentation komplexer Sachverhalte DEIN PROFIL Du bist immatrikuliert in einem (Master-)Studium in Wirtschaftswissenschaften, (Wirtschafts-)Informatik, einer technischen, naturwissenschaftlichen, mathematischen oder verwandten Disziplin Du bringst für die Rolle erste relevante Berufserfahrung (Praktika oder Werksstudium), idealerweise im Beratungsumfeld mit Du interessierst dich für die IT-nahe Managementberatung sowie die Tätigkeit als IT-Unternehmensberater Du hast Interesse an regulatorischen Rahmenbedingungen oder idealerweise bereits erste relevante Erfahrung in diesem Bereich (z.B. eIDAS 2.0, EU AI Act, FiDA) gesammelt Du bist teamfähig, leistungsbereit, flexibel, kommunikativ und eigeninitiativ Du verfügst über sehr gute Deutsch- und Englischkenntnisse (mind. C1 in beiden Sprachen) DEINE BENEFITS Unterstützende Teamkultur : Teamzusammenhalt ist uns wichtig - wir unterstützen uns gegenseitig und pflegen eine gesunde Officekultur. Unser Eventteam plant regelmäßige Afterworks und sorgt für einen Austausch außerhalb des Arbeitsplatzes. Schnelle Verantwortungsübernahme: Du übernimmst ab Tag 1 spannende Aufgaben mit eigener Verantwortung - egal ob auf deinem Projekt oder bei der Einbringung in interne Aufgabe - du gestaltest mit! Klare Karrieremöglichkeiten: Bei uns findest du ein Umfeld, das dich fördert, fordert und weiterbringt. Wir haben klar definierte Karrieremöglichkeiten und ein transparentes Anforderungsmanagement and jedes Level. Kreativer Arbeitsplatz: Wir geben dir die Freiheit und Zeit, kreative Lösungen zu entwickeln und bieten dir dafür die beste und modernste Hardware an (Apple oder Windows). Attraktive Urlaubsregelung: Arbeite remote und passe deine Arbeitszeiten flexibel an dein Studium an. Find Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10T14:09:55+00:00",
-    "score": 68,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-10T19:42:13.789968+00:00"
-  },
-  {
-    "id": "0f28aaa999ea0d52f0e8",
-    "title": "HR Management Intern / Working Student (m/w/d)",
-    "company": "Trusteq Gmbh",
-    "location": "München",
-    "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/hr-management-intern-working-student-munchen-287313",
-    "description": "DEINE AUFGABEN Du unterstützt unser HR-Team im operativen Tagesgeschäft entlang des gesamten Mitarbeiter-Lebenszyklus - vom Onboarding über Vertragsänderungen bis hin zum Offboarding. Du arbeitest mit dem Team an der Weiterentwicklung und Digitalisierung unserer HR-Prozesse und digitalen Personalakten mit Dabei unterstützt Du uns, Abläufe effizienter, transparenter, nutzerfreundlicher und skalierbarer zu gestalten. Du hilfst uns dabei, alle HR-relevanten Daten in unseres digitalen HR-Tools zu erfassen und strukturiert aufzubereiten Du übernimmst außerdem kleineren eigene Projekte (z.B. Auswertung von Mitarbeitenden-Umfragen oder Organisation von Trainings oder internen Feiern, Überarbeitung der bAVs und Benefits) DEIN PROFIL Du bist Student:in im Bereich Personalmanagement, Wirtschaftspsychologie, Sozialwissenschaften, Arbeitsrecht oder einem vergleichbaren Studiengang. Du haast Interesse an Menschen, operativem HR-Management, Employee Experience und Digitalisierung. Du bringst gerne auch schon erste Erfahrungen im HR-Bereich mit, zum Beispiel durch Praktika, Werkstudententätigkeiten oder studentische Initiativen. Du arbeitest strukturiert, sorgfältig und zuverlässig und behältst auch bei mehreren parallelen Aufgaben den Überblick. Du gehst verantwortungsbewusst und diskret mit sensiblen Informationen um. Du hast gute Kenntnisse in MS Office oder Google Workspace, und idealerweise erste Erfahrung mit HR-Tools wie Personio oder vergleichbaren Systemen. Du nutzt gerne die KI als \"Kollegin\", vergisst aber nicht, die Ergebnisse zu hinterfragen. Du verfügst über sehr gute Deutsch- und Englischkenntnisse (mind. C1 in beiden Sprachen) DEINE BENEFITS Unterstützende Teamkultur : Teamzusammenhalt ist uns wichtig - wir unterstützen uns gegenseitig und pflegen eine gesunde Officekultur. Unser Eventteam plant regelmäßige Afterworks und sorgt für einen Austausch außerhalb des Arbeitsplatzes. Schnelle Verantwortungsübernahme: Du übernimmst ab Tag 1 spannende Aufgaben mit eigener Verantwortung - egal ob auf deinem Projekt oder bei der Einbringung in interne Aufgabe - du gestaltest mit! Entwicklungsmöglichkeiten: Bei uns findest du ein Umfeld, das dich fördert, fordert und weiterbringt. Kreativer Arbeitsplatz: Wir geben dir die Freiheit und Zeit, kreative Lösungen zu entwickeln und bieten dir dafür die beste und modernste Hardware an (Apple oder Windows). Attraktive Urlaubsregelung: Arbeite remote und passe deine Arbeitszeiten flexibel an dein Studium an. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10T14:09:55+00:00",
-    "score": 68,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-10T19:42:13.789809+00:00"
-  },
-  {
-    "id": "f9cc4ad9a48ea6e508be",
-    "title": "Robotics Working Student / Internship - Application of Robot Foundation Models",
-    "company": "Stealth Robotics Startup",
-    "location": "München",
-    "url": "https://www.arbeitnow.com/jobs/companies/stealth-robotics-startup/robotics-working-student-internship-application-of-robot-foundation-models-munchen-274616",
-    "description": "We're an early-stage robotics startup founded out of TUM MIRMI and backed by €1M+ in pre-seed funding from a leading European VC. Our mission is to bring frontier Robot Learning and Physical AI research to industrial readiness. We are looking for ambitious robotics students to support our research lab in developing new applications of Foundation Model Robotics. Tasks Develop and improve our teleoperation stack, data collection platform and model-fine tuning of robot foundation models. Design and develop your own application on our dual arm setup for customer demonstrations and fairs Contribute to building our software stack and data platform Requirements Currently enrolled in a master's program in robotics, electrical engineering, computer science or mechatronics of a leading university Excellent academic performance Strong interest and basic knowledge in robotics and automation technologies. Proficiency in programming languages such as Python or C++. Motivation to take ownership and drive projects independently Excellent communication skills in English and German Benefits Take Ownership: Join an early-stage startup where your ideas have a direct impact on the company, product, and technology. State-of-the-Art Hardware: Work hands-on with the latest robotics platforms, hardware, GPUs, lab equipment, and AI tools. Build from Day One: Work closely with the founder and help shape the company, technology, and culture from the ground up. Accelerate Your Growth: Take on challenging problems, learn quickly, and grow faster than in almost any other environment. Freedom &#x26; Responsibility: Shape your role around your strengths and interests with a high degree of ownership and autonomy. Great Perks: Free dinners, gym membership, team events, and other startup perks. The right mindset and an open eye for where the technology is headed is more important for us than research papers that will never leave the lab. If you’re passionate about robotics and want to build the technology that will shape the future of manufacturing, we’d love to hear from you! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10T17:00:23+00:00",
-    "score": 68,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-10T19:42:13.780824+00:00"
-  },
-  {
-    "id": "f77106159cf0259b1379",
-    "title": "Werkstudent in E-Commerce (m/w/d)",
-    "company": "Dedicom",
-    "location": "München",
-    "url": "https://www.arbeitnow.com/jobs/companies/dedicom/werkstudent-in-e-commerce-munchen-9390",
-    "description": "Die dedicom - Das sind wir Denkst du auch, dass die größten Ideen oftmals im Tun entstehen? Dass Bewegung besser ist als Stillstand? Dass die Lust auf Verantwortung eine Tugend ist und Teilhabe Voraussetzung für eine gerechtere Gesellschaft? Dann bist du genau richtig bei uns. Unser Fokus liegt darauf, niederschwelligen Zugang zu Technologie zu schaffen: über Unternehmen für deren Mitarbeitende und ihre Familien, um ihre Arbeits- und Lebenswelt optimal zu unterstützen und Innovation zu fördern. Wir möchten Menschen inspirieren und motivieren, indem wir an Zielen arbeiten, die über den finanziellen Gewinn hinausgehen. Teilhabe in allen Facetten ist uns ein echtes Anliegen. Als agiles Unternehmen vertrauen wir dabei in die selbständige und eigenverantwortliche Arbeitsweise unserer Mitarbeitenden, legen Wert auf eine Kommunikation auf Augenhöhe und die Lust daran, sich selbst und die Organisation weiterzuentwickeln. Wenn du Teil eines engagierten Teams werden möchtest, und mit uns die Zukunft gestalten willst - dann: Herzlich Willkommen bei der dedicom. Welche Aufgaben dich erwarten Unterstützung in der Datenpflege (z.B. Stammdatenpflege der Mitarbeitenden/Arbeitgeber im Shopsystem) Unterstützung im Qualitätsmanagement (z.B. Quality Checks unserer Bestellshops, etc.) Unterstützung bei der Dokumentation unserer Prozesse Was du mitbringst Du bist immatrikulierter Student (m/w/d) im Bereich E-Commerce-Management, Wirtschaftswissenschaften, Betriebswirtschaft mit Schwerpunkt E-Commerce, Medienmanagement, Kommunikationsmanagement oder einem anderen Studiengang Du hast eine Affinität, was Shopsysteme angeht und deren technische Einstellungen Erste Erfahrungen mit CMS-Systemen und HTML/CSS sind von Vorteil Du bist sicher im Umgang mit den gängigen MS-Office Programmen Du hast eine eigenverantwortliche, eigenständige und strukturierte Arbeitsweise Ein hohes Maß an Diskretion, Integrität und Zuverlässigkeit ist für dich selbstverständlich Du hast Teamgeist Sehr gute Deutschkenntnisse in Wort und Schrift sind Voraussetzung Was wir dir bieten Benefits - was dich bei uns erwartet und Du möchtest mehr über das Arbeiten bei dedicom erfahren? Was dich bei uns erwartet Flexibles Arbeiten – perfekt fürs Studium hybrides flexibles Arbeitsmodell (Activity Based Working) ermöglicht dir eine ausgewogene Mischung aus Remote Work und ein bis zwei flexiblen Office-Präsenz-Tagen Gesundheit &amp; Vorsorge Hidden Gym - Trainiere im firmeneigenen Fitnessraum Physio - Buche dir bis zu 10 x im Jahr einen Termin bei unserem Physiotherapeuten in unserem Office Familie &amp; Alltag Mobilitäts-Zuschuss - Nutze dein ÖPNV-Ticket um ins Office zu kommen und am Wochenende kannst du damit in die Berge fahren 50 € monatlicher Sachbezug - nutzbar für Urban Sports oder diverse Gutscheine deiner Wahl sowie vielfältige MA-Rabatte Unser Benefit-IT-Programm - mehr als nur ein Extra Abverkauf von IT-Geräten - vergünstigte IT-Produkte für dich und deine Familie. Mitananda Wir haben viele kleine Goodies direkt vor Ort, damit du dich bei uns rundum wohlfühlst: Inspirierendes Arbeitsumfeld im nachhaltigsten Gebäude Münchens #aer Regelmäßige Team-Events, Firmen Events &amp; Aktionstage vor Ort Genieße täglich frische und vielfältige Gerichte in unserer Kantine im #aer Dachterrasse mit Alpenblick und Grillmöglichkeit Barista-Kaffeemaschine, Obstkorb, Kicker und Tischtennisplatte haben wir selbstverständlich auch. Du möchtest mehr über das Arbeiten bei dedicom erfahren? Gestaltungsspielraum &amp; Verantwortung Du arbeitest eigenverantwortlich an spannenden Projekten und kannst deine Ideen aktiv einbringen. Onboarding &amp; persönlicher Support Wir sorgen für einen reibungslosen Einstieg: Mit einem persönlichen Buddy, regelmäßigen Feedbackgesprächen und einem offenen Austausch, damit du dich schnell zurechtfindest und wohlfühlst. Besuche gerne unsere Homepage für weitere Infos: Die dedicom – das sind wir! Klingt nach deinem nächsten Schritt? Werde Teil unseres Teams und gestalte mit uns die Zukunft unseres attraktiven IT-Benefits-Programms. Wir freuen uns auf deine Bewerbung und darauf, dich kennenzulernen. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10T14:09:44+00:00",
-    "score": 68,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-10T19:42:13.794016+00:00"
-  },
-  {
-    "id": "7b276245b4c3216b320f",
-    "title": "Werkstudent People & Culture und Office Management (gn)",
-    "company": "Hygh",
-    "location": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/hygh/werkstudent-people-culture-und-office-management-gn-berlin-192394",
-    "description": "Über uns Bei HYGH bringen wir digitale Außenwerbung auf das nächste Level. Sekundenschnelle, flexible Kampagnenschaltung – 100 % bewegt, überall in der Stadt. Bereits in den Top 12 Städten Deutschlands präsent, ermöglicht unser HYGH Display Netzwerk Unternehmen jeder Größe lokale Sichtbarkeit. Wir schaffen digitale Hubs, die mit dem Times Square oder dem Piccadilly Circus mithalten können. Inmitten des kreativen Puls von Berlin Mitte arbeitet unser herausragendes Team täglich daran, die Werbewelt smarter zu gestalten. Du bist ein Talent auf der Suche nach einer außergewöhnlichen Karriere? Hier ist deine Chance! Besuche jetzt unsere Karriereseite und werde Teil des HYGH-Erfolgs. Work less ordinary. Join HYGH. Was Deine Aufgaben sind: Du möchtest praktische Erfahrungen im Personalwesen und Office Management sammeln und dabei in einem abwechslungsreichen Arbeitsumfeld mitwirken? Dann werde Teil unseres Teams und unterstütze uns im Tagesgeschäft sowie bei spannenden Projekten. Unterstützung des People &amp; Culture- und Office-Management-Teams im operativen Tagesgeschäft Übernahme allgemeiner administrativer Tätigkeiten Erstellung, Ablage und Aktualisierung von Personaldaten, Dokumenten und digitalen Personalakten sowie regelmäßiger Abgleich von Übersichten Unterstützung im Recruiting Mitarbeit bei organisatorischen Aufgaben im Office Management Unterstützung bei der Planung, Koordination und Umsetzung interner Projekte (z. B. Teamevents, Implementierung von digitalen Prozessen) Durchführung von Recherchen sowie Aufbereitung von Informationen Koordination von Terminen sowie Unterstützung bei internen Meetings Allgemeine Korrespondenz und organisatorische Unterstützung des Teams Was Du mitbringst: Laufendes Studium, idealerweise im Bereich Wirtschaft, Personalmanagement, Betriebswirtschaft, Psychologie oder einer vergleichbaren Fachrichtung Interesse an den Themen Human Resources und Office Management Strukturierte, sorgfältige und selbstständige Arbeitsweise Organisationstalent sowie eine hohe Zuverlässigkeit Sicherer Umgang mit den gängigen MS-Office-Anwendungen (insbesondere Excel, Word und PowerPoint) Erste Erfahrungen mit Personio oder anderen HR-Systemen sind von Vorteil, aber keine Voraussetzung Erste Erfahrungen im Umgang mit KI-Tools (z. B. ChatGPT oder Claude) sowie Interesse daran Exzellente Deutschkenntnisse in Wort und Schrift; Englischkenntnisse sind von Vorteil Teamfähigkeit, Kommunikationsstärke und eine proaktive Arbeitsweise Diskretion und ein verantwortungsvoller Umgang mit vertraulichen Informationen Was wir Dir bieten: Moderne Arbeitsweise, flexible Arbeitsmodelle, motiviertes Team Offener Austausch, Transparenz und Kommunikation auf Augenhöhe Exklusives und modernes Büro im Herzen Berlins Gemeinsames Teamfrühstück und spannende Mitarbeiterevents Faire Vergütung Betriebliche Altersvorsorge (bAV) mit erheblichen Arbeitgeberleistungen bei Festanstellung Gympass über Urban Sports Mitarbeiterrabatte für attraktive Marken Mitarbeiterempfehlungsprogramm Für Vitamine und Getränke im Office ist stets gesorgt Wenn du eine neue Herausforderung suchst und dich angesprochen fühlst, ist es Zeit, dich kennen zu lernen. Wir freuen uns auf deine Bewerbung. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10T14:09:48+00:00",
-    "score": 68,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-10T19:42:13.793669+00:00"
-  },
-  {
-    "id": "09cf69173f08fccdea7e",
-    "title": "Werkstudent:in (m/w/d) Legal (20h/Woche, Berlin)",
-    "company": "Mamahealth",
-    "location": "Berlin",
-    "url": "https://www.arbeitnow.com/jobs/companies/mamahealth/werkstudentin-legal-20h-woche-berlin-146137",
-    "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10T14:09:48+00:00",
-    "score": 68,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-10T19:42:13.793762+00:00"
-  },
-  {
-    "id": "3319c5cf616cbb964087",
-    "title": "Werkstudent:in Content Creation & Social Media (m/w/d)",
-    "company": "HACOY",
-    "location": "Munich",
-    "url": "https://www.arbeitnow.com/jobs/companies/hacoy/werkstudentin-content-creation-social-media-munich-246493",
-    "description": "HACOY ist ein junges Slow Luxury Modelabel, entworfen in Rom und zuhause in München. Wir stehen für HAppiness, Comfort und jOY, spürbar in jedem Stück und in jedem Paket, das rausgeht. Für unseren Showroom in München suchen wir einen Menschen, der unsere Marke sichtbar macht und gleichzeitig mit anpackt. Aufgaben Du erstellst Content für unsere Social Media Kanäle, vor und hinter der Kamera Du entwickelst eigene Ideen und hast ein Auge dafür, was gerade passiert Du kommissionierst und verpackst unsere lokalen Bestellungen schön und zuverlässig Qualifikation Du bist als Student:in eingeschrieben und wohnst in München Du sprichst Deutsch und Englisch sicher Du stehst gerne vor der Kamera und wirkst dabei natürlich Du hast ein gutes Auge für Ästhetik und Storytelling Zuverlässigkeit und Sorgfalt, gerade beim Verpacken Erste Erfahrung mit Content Creation ist ein Plus, aber kein Muss Benefits 16 € pro Stunde in einem fairen, planbaren Rahmen Rund 10 Stunden pro Woche, Samstag als Wunschtag plus ein Wochentag nach Absprache, flexibel um dein Studium herum Viel Raum für eigene Ideen und deine Handschrift im Content Ein Team, in dem deine Arbeit sichtbar ist und zählt Am liebsten mit einem kurzen Video von 30 Sekunden: wer du bist, was du bisher gemacht hast und warum HACOY. Ein Lebenslauf reicht uns auch, das Video macht aber den Unterschied. Wir freuen uns auf dich. Find more English Speaking Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10T17:30:25+00:00",
-    "score": 68,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-10T19:42:13.778215+00:00"
-  },
-  {
-    "id": "a41d64ae7e9248b83b05",
-    "title": "***Minijob***",
-    "company": "Duran Gastro GmbH",
-    "location": "Mülheim An Der Ruhr, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001357598-S",
-    "description": "Polsterer/Polsterin",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2025-04-16",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426308+00:00"
-  },
-  {
-    "id": "b53f8b944dd5c7a1d4d2",
-    "title": "*MINIJOB* Aushilfe (m/w/d) für Restaurant-Küche gesucht!",
-    "company": "Gasthof Zum Schwan Eva Maria Heeg",
-    "location": "Kürnach, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1197511615-S",
-    "description": "Helfer/in - Küche",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2024-01-17",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.318068+00:00"
-  },
-  {
-    "id": "b9072d2d1329f52c5ae1",
-    "title": "Aushilfe",
-    "company": "SPORTIVO Sport- und Gesundheitszentrum GmbH",
-    "location": "Heilbronn, Neckar, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003010915-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-04-30",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274205+00:00"
-  },
-  {
-    "id": "c49b98f222c89513b470",
-    "title": "Aushilfe (m/w/d)",
-    "company": "MERKUR CLUB GmbH",
-    "location": "Merzig, Saarland, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14820-0066642103-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274102+00:00"
-  },
-  {
-    "id": "621be24ede3daf70164b",
-    "title": "Aushilfe (m/w/d)",
-    "company": "MERKUR CLUB GmbH",
-    "location": "Viersen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14820-0065082988-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-02",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274183+00:00"
-  },
-  {
-    "id": "973af3ae8ea8f36a0a50",
-    "title": "Aushilfe (m/w/d) für den Service",
-    "company": "Damiano Ligori Damiano's Restaurant",
-    "location": "Herscheid, Westfalen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207452567-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-06",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274290+00:00"
-  },
-  {
-    "id": "f80bceb11f184c206f64",
-    "title": "Aushilfe (m/w/d) für die Küche",
-    "company": "Damiano Ligori Damiano's Restaurant",
-    "location": "Herscheid, Westfalen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207452054-S",
-    "description": "Helfer/in - Küche",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-06",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.317928+00:00"
-  },
-  {
-    "id": "5983f4754398f5564fa3",
-    "title": "Aushilfe (m/w/d) für Restaurant dringend gesucht! - MINIJOB",
-    "company": "Cafe am Schlosspark Birgit Hecker",
-    "location": "Weimar, Thüringen, Thueringen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206908013-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-22",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.317960+00:00"
-  },
-  {
-    "id": "cb92929c9be98129b203",
-    "title": "Aushilfe (m/w/d) im Lager",
-    "company": "GIMA GmbH & Co. KG",
-    "location": "Kißlegg, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12688-29139467-RJA-S",
-    "description": "Helfer/in - Lagerwirtschaft, Transport",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503773+00:00"
-  },
-  {
-    "id": "6abc9cbbc25ecad35552",
-    "title": "Aushilfe (m/w/d) in der Küche",
-    "company": "Restaurant Steuer Guido Steuer",
-    "location": "Allenbach, Hunsrück, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002842665-S",
-    "description": "Helfer/in - Küche",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-03-27",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.318036+00:00"
-  },
-  {
-    "id": "fdcfa029b5ae3a421445",
-    "title": "Aushilfe (m/w/d) Lager",
-    "company": "Dachser SE Head Office",
-    "location": "Erlensee, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15112-44125582-423-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-04-24",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503823+00:00"
-  },
-  {
-    "id": "d3a5ea6b0add59a61084",
-    "title": "Aushilfe (w/m/d) in der Gastronomie gesucht - Minijob",
-    "company": "Liebevoll! in der Auermuehle GmbH",
-    "location": "Ratingen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205204005-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-01-21",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274156+00:00"
-  },
-  {
-    "id": "0dcb6f640db66bc5d356",
-    "title": "Aushilfe / Minijob / 603€-Basis im Restaurant / Gastronomie (m/w/d)",
-    "company": "XXXL-Zentralverwaltungs- GmbH & Co. KG",
-    "location": "Regensburg, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003424457-S",
-    "description": "Helfer/in - Küche",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-22",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274417+00:00"
-  },
-  {
-    "id": "761d7e244e6f35c86429",
-    "title": "Aushilfe / Minijob / 603€-Basis im Restaurant / Gastronomie (m/w/d)",
-    "company": "XXXLutz Deutschland",
-    "location": "Regensburg, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-97b90405-c8e8-49c5--S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274542+00:00"
-  },
-  {
-    "id": "1ddb1ec1fbdc8feae255",
-    "title": "Aushilfe / Minijob / 603€-Basis im Restaurant / Gastronomie (m/w/d)",
-    "company": "XXXLutz Deutschland",
-    "location": "Ottersberg Bei Bremen, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-c08f67ce-769c-47f9--S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274578+00:00"
-  },
-  {
-    "id": "6db38e4f68a00a0cfc03",
-    "title": "Aushilfe / Minijob / 603€-Basis im Restaurant / Gastronomie (m/w/d)",
-    "company": "XXXLutz Deutschland",
-    "location": "Würzburg, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-c2a26dbb-69b9-4cb4--S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-19",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274650+00:00"
-  },
-  {
-    "id": "3037e74b94d77b3b6b1e",
-    "title": "Aushilfe / Minijob Gastronomie (m/w/d)",
-    "company": "Mömax Deutschland GmbH & Co. KG",
-    "location": "Baden-Baden, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000586999-S",
-    "description": "Helfer/in - Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2024-08-23",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.273954+00:00"
-  },
-  {
-    "id": "cdb20388458943507dbc",
-    "title": "Aushilfe / Nebenjob in unserem Restaurant (Frühstück)",
-    "company": "Rhine Stuttgart Bristol Opco GmbH - Mercure Sindelfingen an der Messe",
-    "location": "Sindelfingen, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-EW5D6B-1AN-S",
-    "description": "Restaurantfachmann/-frau",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-01",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.317754+00:00"
-  },
-  {
-    "id": "da796c381ca147c36b68",
-    "title": "Aushilfe ? (w/m/d) ? Stadion-Gastronomie",
-    "company": "BUHL Personal GmbH - Niederlassung Hamburg",
-    "location": "Hamburg, Hamburg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-VYPIE8-UCP-S",
-    "description": "Restaurantfachmann/-frau",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-01",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274047+00:00"
-  },
-  {
-    "id": "587eb42171c0438c82f2",
-    "title": "Aushilfe für den Frühstücksservice (m/w/d)",
-    "company": "Hotel Schneider",
-    "location": "Winterberg, Westfalen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16334-u2tib4119dwiou1vv9-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-30",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274481+00:00"
-  },
-  {
-    "id": "fa5261f581e940880383",
-    "title": "Aushilfe für Lager & Versand (m/w/d)",
-    "company": "SafetyConsult GmbH",
-    "location": "Glashütten, Taunus, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003140398-S",
-    "description": "Fachlagerist/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-05-28",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503932+00:00"
-  },
-  {
-    "id": "4500b3963ba1c2aa99f8",
-    "title": "Aushilfe Gastronomie (m/w/d/k.A.)",
-    "company": "Phantasialand Gastronomie GmbH",
-    "location": "Brühl, Rheinland, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003160302-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-02",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.273919+00:00"
-  },
-  {
-    "id": "d2d830fca16433e09726",
-    "title": "Aushilfe Gastronomie (m/w/d/k.A.)",
-    "company": "Phantasialand Schmidt-Löffelhardt GmbH & Co. KG",
-    "location": "Brühl, Rheinland, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-6L0D3Y-PDW-S",
-    "description": "Restaurantfachmann/-frau",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-01",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274076+00:00"
-  },
-  {
-    "id": "dccccaa801e3097580ab",
-    "title": "Aushilfe Gastronomie | Servicekraft (m/w/d) Vollzeit | Laupheim",
-    "company": "WISAG Job & Karriere GmbH & Co. KG",
-    "location": "Laupheim, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13465-00021a66103001-S",
-    "description": "Fachkraft - Küche",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-30",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274019+00:00"
-  },
-  {
-    "id": "88bd920262692421fe61",
-    "title": "Aushilfe Gästeempfang (m/w/d)",
-    "company": "Konrad's Restaurant",
-    "location": "Bonn, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-HKAQTH-DNW-S",
-    "description": "Empfangsmitarbeiter/in (Hotel)",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-05",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.317786+00:00"
-  },
-  {
-    "id": "4d2044046cf5ec1ba6d7",
-    "title": "Aushilfe Housekeeping (m/w/d)",
-    "company": "Mausefalle Cafe-Restaurant Christiane Weides",
-    "location": "Neroth, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003143692-S",
-    "description": "Helfer/in - Hotel",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-05-28",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.318310+00:00"
-  },
-  {
-    "id": "89784c81fe4c1b6c7de9",
-    "title": "Aushilfe im Lager",
-    "company": "Engbers GmbH & Co KG",
-    "location": "Gronau (Westfalen), Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003129062-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-05-27",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.504010+00:00"
-  },
-  {
-    "id": "5befa39553d658b9df16",
-    "title": "Aushilfe im Lager (m/w/d)",
-    "company": "Bremer& Leguil GmbH",
-    "location": "Duisburg, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002912577-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-04-21",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503799+00:00"
-  },
-  {
-    "id": "736dc0f838050c71d9ca",
-    "title": "Aushilfe im Lager (m/w/d)",
-    "company": "Scheibler-Importgesellschaft mbH",
-    "location": "Salching, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206992882-S",
-    "description": "Helfer/in - Lagerwirtschaft, Transport",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-29",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503874+00:00"
-  },
-  {
-    "id": "2243cc9bed33ac472641",
-    "title": "Aushilfe im Lager (m/w/d)",
-    "company": "GIMA Gipser- und Malerbedarf GmbH+Co. Groß-u.Einzelhandels KG",
-    "location": "Kißlegg, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206792153-S",
-    "description": "Helfer/in - Lagerwirtschaft, Transport",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503961+00:00"
-  },
-  {
-    "id": "cfb90e95fa7aa1d0e16e",
-    "title": "Aushilfe im Lager (m/w/d)",
-    "company": "Geis Eurocargo GmbH (OHR)",
-    "location": "Ohrdruf, Thueringen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205491662-S",
-    "description": "Helfer/in - Lagerwirtschaft, Transport",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-02-13",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.504061+00:00"
-  },
-  {
-    "id": "eb9c72c907e72fefb4ff",
-    "title": "Aushilfe im Lager/ Büro (m/w/d)",
-    "company": "LeWi GmbH",
-    "location": "Petersberg Bei Halle, Saale, Sachsen Anhalt, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204460246-S",
-    "description": "Helfer/in - Lagerwirtschaft, Transport",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2025-11-14",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503902+00:00"
-  },
-  {
-    "id": "5697bfa01ddcd75717ff",
-    "title": "Aushilfe im Restaurant (m/w/d) auf Minijiob-Basis (603,-EUR), Elmshorn",
-    "company": "Teppich-Kibek GmbH (Vertrieb)",
-    "location": "Elmshorn, Schleswig Holstein, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2307754-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-05",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.318282+00:00"
-  },
-  {
-    "id": "b36365c321adee9ea969",
-    "title": "Aushilfe im Restaurant (m/w/d) – Arbeiten im Herzen des Müritz Nationalparks",
-    "company": "Heike Dworatzek",
-    "location": "Kargow, Mecklenburg Vorpommern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002938956-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-04-17",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.318208+00:00"
-  },
-  {
-    "id": "202d698496a789b6b9c3",
-    "title": "Aushilfe im Service",
-    "company": "Faprik gGmbH",
-    "location": "Frankfurt Am Main, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003385736-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-14",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274451+00:00"
-  },
-  {
-    "id": "461779f7b4cf76fc3c64",
-    "title": "Aushilfe im Service (m/w/d) – Gastronomie | Quereinstieg möglich",
-    "company": "Brauhaus Herrsching Inh. Dr. Alfons Aigner e.Kfm.",
-    "location": "Herrsching Am Ammersee, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206242963-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-04-21",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274329+00:00"
-  },
-  {
-    "id": "549fe69ebda372de4f1a",
-    "title": "Aushilfe Küche (m/w/d)",
-    "company": "Hotel-Restaurant Löwen Ulli Kellenbenz",
-    "location": "Süßen, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207386701-S",
-    "description": "Helfer/in - Küche",
     "source": "bundesagentur",
     "role_type": "part-time",
     "category": "part-time",
     "remote": false,
     "published_at": "2026-07-31",
-    "score": 67,
+    "score": 75,
     "reasons": [
       "Part-time/minijob role",
+      "Student-friendly wording",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:34.318100+00:00"
+    "first_seen_at": "2026-08-10T19:50:30.209695+00:00"
   },
   {
-    "id": "de380a0255c95bbf3c0d",
-    "title": "Aushilfe Lager (m/w/d)",
-    "company": "ARWA Personaldienstleistungen GmbH",
-    "location": "Breuna, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14385-431-2593428-26-S",
-    "description": "Helfer/in - Lagerwirtschaft, Transport",
+    "id": "8e8d35583030756e2ee4",
+    "title": "Minijob (Studentische) Hilfskraft Transplantationsmedizin",
+    "company": "GTM-V gGmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001446551-S",
+    "description": "Gesundheits- und Krankenpflegehelfer/in",
     "source": "bundesagentur",
-    "role_type": "part-time",
+    "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-07-07",
-    "score": 67,
+    "published_at": "2025-05-22",
+    "score": 75,
     "reasons": [
       "Part-time/minijob role",
+      "Student-friendly wording",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:30.503533+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.481203+00:00"
   },
   {
-    "id": "474229e576552f1a8d9d",
-    "title": "Aushilfe Lager (m/w/d)",
-    "company": "Karlowsky Fashion GmbH",
-    "location": "Wanzleben-Börde, Sachsen Anhalt, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003456122-S",
-    "description": "Fachkraft - Lagerlogistik",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-28",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503628+00:00"
-  },
-  {
-    "id": "13d71d9db779f1bb2697",
-    "title": "Aushilfe Lager (m/w/d)",
-    "company": "Dachser SE Head Office",
-    "location": "München, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15112-44318665-716-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-17",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503656+00:00"
-  },
-  {
-    "id": "7c162178d44b9a514fd8",
-    "title": "Aushilfe Lager (m/w/d) Vollzeit",
-    "company": "ARWA Personaldienstleistungen GmbH",
-    "location": "Lichtenberg/Erzgebirge, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14385-473-2593283-26-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-03",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503594+00:00"
-  },
-  {
-    "id": "6d8a141ee615d5511eaf",
-    "title": "Aushilfe Lager Produktion (m/w/d) Quereinsteiger",
-    "company": "ARWA Personaldienstleistungen GmbH",
-    "location": "Göttingen, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14385-494-2609822-26-S",
-    "description": "Helfer/in - Lagerwirtschaft, Transport",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-04",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503715+00:00"
-  },
-  {
-    "id": "93ae4411b516e38f6b82",
-    "title": "Aushilfe Lager und Versand (m/w/d)",
-    "company": "DartSturm GmbH",
-    "location": "Naila, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002988624-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-04-28",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503744+00:00"
-  },
-  {
-    "id": "07cc9df446cc25c86dfe",
-    "title": "Aushilfe Lager, Produktion & Versand",
-    "company": "Schneider's Profichemie GmbH & Co. KG",
-    "location": "Ilsfeld, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003395164-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-16",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.504036+00:00"
-  },
-  {
-    "id": "00cf94b2223632a68ae5",
-    "title": "Aushilfe Restaurant (m/w/d)",
-    "company": "Alexander Horler - Hotel \"Zum weissen Lamm\"",
-    "location": "Oberzent, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003002329-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-04-29",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.317501+00:00"
-  },
-  {
-    "id": "3653e1a48b96179e2047",
-    "title": "Aushilfe Service",
-    "company": "Gräflicher Park GmbH & Co.KG",
-    "location": "Bad Driburg, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17825-0009f30053a002-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-07",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274229+00:00"
-  },
-  {
-    "id": "1b8f9004d6d7ea5c0770",
-    "title": "Aushilfe Service (m/w/d)",
-    "company": "Konrad's Restaurant",
-    "location": "Bonn, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-V1V1GO-6WH-S",
-    "description": "Restaurantfachmann/-frau",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-05",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.317814+00:00"
-  },
-  {
-    "id": "113588e5b6852d60c6cf",
-    "title": "Aushilfe Verkauf Restaurant Gastronomie (m/w/d) mit 9 Std/Woche",
-    "company": "NORDSEE GmbH",
-    "location": "Wuppertal, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f524j0449461-S",
-    "description": "Helfer/in - Gastgewerbe",
+    "id": "5744d340147a53650e05",
+    "title": "Student*in - Jobs für Studierende - Studentenjobs",
+    "company": "STUDENTpartout GmbH - Standort Leipzig",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-CW7RIP-6V0-S",
+    "description": "Helfer/in - Hotel",
     "source": "bundesagentur",
     "role_type": "part-time",
     "category": "part-time",
     "remote": false,
     "published_at": "2026-08-01",
-    "score": 67,
+    "score": 75,
     "reasons": [
       "Part-time/minijob role",
+      "Student-friendly wording",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:34.318337+00:00"
+    "first_seen_at": "2026-08-10T19:50:30.210012+00:00"
   },
   {
-    "id": "d6e77924303eb7256458",
-    "title": "Buchhalterin (m/w/d) Teilzeit",
-    "company": "ARWA Personaldienstleistungen GmbH",
-    "location": "Müllrose, Brandenburg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14385-486-2612422-26-S",
-    "description": "Buchhalter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790562+00:00"
-  },
-  {
-    "id": "55825fecc96e7c0ab9bf",
-    "title": "Gastronomische Aushilfe (m/w/d)",
-    "company": "Stiftl Gastronomie Unternehmensgruppe",
-    "location": "München, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16334-8p4k2osia7ffu4gut5-S",
-    "description": "Helfer/in - Küche",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-09",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274254+00:00"
-  },
-  {
-    "id": "7d9885ab2ad439f10ccb",
-    "title": "Hausmeister (m/w/d) für das Restaurant Stumpenhof in Plochingen zur Aushilfe auf Minijob-Basis",
-    "company": "Restaurant Stumpenhof GmbH",
-    "location": "Plochingen, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206926604-S",
-    "description": "Hausmeister/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-23",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.317677+00:00"
-  },
-  {
-    "id": "4a99a1cd0859b0954342",
-    "title": "Hauswirtschaft (m/w/d) Minijob",
-    "company": "Menschwert! e.V. NL Wetzlar",
-    "location": "Gelnhausen, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003514150-S",
-    "description": "Hauswirtschafter/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426150+00:00"
-  },
-  {
-    "id": "ab3981e66e8850a7c5d3",
-    "title": "Koch / Köchin (m/w/d) - Hotel und Restaurant - Aushilfe - Minijob",
-    "company": "Hotel Forellenhof GmbH Hotel Forellenhof",
-    "location": "Walsrode, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003461255-S",
-    "description": "Koch/Köchin",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-29",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.317718+00:00"
-  },
-  {
-    "id": "b0873c75e5b5ec4e1554",
-    "title": "Küchenhilfe (m/w/d) Minijob",
-    "company": "Gut Ahe Landgasthof | Café | Event",
-    "location": "Kirchhundem, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12287-JOB-841512-S",
-    "description": "Küchenchef/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426377+00:00"
-  },
-  {
-    "id": "ace00185094d89414e61",
-    "title": "Lager- und Versandhelfer (m/w/d) Aushilfe",
-    "company": "V-Print GmbH",
-    "location": "Schöffengrund, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003422414-S",
-    "description": "Helfer/in - Druck",
+    "id": "171ed3bec1b81e23f4dc",
+    "title": "Altenpflegehelfer (m/w/d) Teilzeit",
+    "company": "PERSO PLANKONTOR GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-7JSZ6H29ROVKJ6J4-S",
+    "description": "Altenpflegehelfer/in",
     "source": "bundesagentur",
     "role_type": "part-time",
     "category": "part-time",
@@ -2540,699 +1000,642 @@
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:30.503849+00:00"
+    "first_seen_at": "2026-08-10T19:50:28.493856+00:00"
   },
   {
-    "id": "fce45ee64a668a6f5133",
-    "title": "Minijob",
-    "company": "CAMM Hotel Management GmbH",
-    "location": "Graal-Müritz, Ostseeheilbad, Mecklenburg Vorpommern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003499528-S",
+    "id": "1bfa675285f2fc4494f4",
+    "title": "Altenpfleger (m/w/d) Teilzeit",
+    "company": "PERSO PLANKONTOR GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-Q4Z43P6QI2XFUZ3E-S",
+    "description": "Pflegefachmann/-frau (Altenpflege)",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-07-21",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.493974+00:00"
+  },
+  {
+    "id": "5de96fd1a2d56a44439a",
+    "title": "Aushilfe im Lager - ideal für Rentner (m/w/d) (Mini- / Midijob), Leipzig Logistikstandort",
+    "company": "Neumann&Müller Veranstaltungstechnik",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2295693-S",
+    "description": "Lager- und Transportarbeiter/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-07-13",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:32.931370+00:00"
+  },
+  {
+    "id": "87f00dd33b040bf0ff2d",
+    "title": "Aushilfe im Verkauf Minijob (m/w/d)",
+    "company": "Lidl Dienstleistung GmbH & Co. KG",
+    "location": "Pegau, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-5d9a051c36a58f3e-S",
+    "description": "Helfer/in - Verkauf",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-07-16",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:32.931436+00:00"
+  },
+  {
+    "id": "fe014effd28e7aef748a",
+    "title": "Aushilfe im Verkauf Minijob (m/w/d)",
+    "company": "Lidl Dienstleistung GmbH & Co. KG",
+    "location": "Zwenkau, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-6136a56ea6349b64-S",
+    "description": "Helfer/in - Verkauf",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-05-12",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:32.931462+00:00"
+  },
+  {
+    "id": "879738132e735ec73b46",
+    "title": "Aushilfe in Teilzeit (m/w/d)",
+    "company": "Kaufland Dienstleistung GmbH & Co. KG",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-1e87cb76bdf626a4-S",
+    "description": "Helfer/in - Verkauf",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-04",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.493928+00:00"
+  },
+  {
+    "id": "185041cb7444a9f6d99f",
+    "title": "Aushilfe/Minijob im Verkauf (m/w/d)",
+    "company": "Media-Saturn Deutschland GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18019-194758-S",
+    "description": "Helfer/in - Verkauf",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-04",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:26.481421+00:00"
+  },
+  {
+    "id": "5b209e34643aa7774844",
+    "title": "Bürokraft gesucht / Teilzeit / Minijob",
+    "company": "Vermietung Berti Xhelili",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205108137-S",
+    "description": "Bürokaufmann/-frau",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-01-14",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:26.481150+00:00"
+  },
+  {
+    "id": "478760795cc076175753",
+    "title": "Ergotherapeut oder Ergotherapeutin in Teilzeit (m/w/d)",
+    "company": "Praxis f. Ergotherapie Oumer",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204610197-S",
+    "description": "Ergotherapeut/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2025-11-25",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.494255+00:00"
+  },
+  {
+    "id": "5d020191188920d07995",
+    "title": "Gesundheits- und Krankenpflegehelfer (m/w/d) Teilzeit",
+    "company": "PERSO PLANKONTOR GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-T80TRYJQGPVVYUP0-S",
+    "description": "Gesundheits- und Krankenpflegehelfer/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-07-28",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.494160+00:00"
+  },
+  {
+    "id": "e85758e59a990c702b35",
+    "title": "Gesundheits- und Krankenpfleger (m/w/d) Teilzeit",
+    "company": "PERSO PLANKONTOR GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-66I0I81YJH8X2887-S",
+    "description": "Gesundheits- und Krankenpfleger/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-07-29",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.494108+00:00"
+  },
+  {
+    "id": "2d7c326345a4fb0e76b6",
+    "title": "Hausmeister (m/w/d) Minijob",
+    "company": "Greenline - Alternative Energien GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002009168-S",
+    "description": "Hausmeister/in",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2025-10-17",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:26.481176+00:00"
+  },
+  {
+    "id": "ba06379a709c1b697a5c",
+    "title": "Heilerziehungspfleger (m/w/d) Teilzeit",
+    "company": "PERSO PLANKONTOR GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-9X6XKLTIK9LW65ZH-S",
+    "description": "Heilerziehungspfleger/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-07-15",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.493998+00:00"
+  },
+  {
+    "id": "cf760fa3b6864effb88e",
+    "title": "Housekeeping Assistant (m/w/d) in Teilzeit",
+    "company": "Motel One Germany BetriebsGmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14153-be0ae7e4a07af87d-S",
+    "description": "Hausdamenassistent/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-01",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.493832+00:00"
+  },
+  {
+    "id": "4f96489c90e71c11de47",
+    "title": "Housekeeping Assistant (m/w/d) in Teilzeit",
+    "company": "Motel One Leipzig - Nikolaikirche",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-H3W0KE-5DE-S",
+    "description": "Hausdame/Housekeeper",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-01",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.493951+00:00"
+  },
+  {
+    "id": "62c9a42cfc85ed745896",
+    "title": "Kellner m/w/d gesucht - Minijob",
+    "company": "Tokoro Sushibar",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001174490-S",
+    "description": "Fachkraft - Gastronomie (Restaurantservice)",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2025-02-21",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:26.481123+00:00"
+  },
+  {
+    "id": "ee87c9a5b722b696bd74",
+    "title": "Krankenpfleger (m/w/d) - Teilzeit",
+    "company": "PERSO PLANKONTOR GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-BESC12IWBP3BP3JA-S",
+    "description": "Gesundheits- und Krankenpfleger/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-07-28",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.493806+00:00"
+  },
+  {
+    "id": "4c1a6318788efb07bc96",
+    "title": "Krankenschwester (m/w/d) - Teilzeit",
+    "company": "PERSO PLANKONTOR GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-OZOGIZY1AGVKRJWD-S",
+    "description": "Gesundheits- und Krankenpfleger/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-07-31",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.493722+00:00"
+  },
+  {
+    "id": "1d425a54af572fb1b976",
+    "title": "Küchenkraft (m/w/d) für Kitas und Schulen in Teilzeit",
+    "company": "Menüpartner B.V. & Co.KG",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18024-1002X000R3I05-S",
+    "description": "Helfer/in - Küche",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-10",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.493654+00:00"
+  },
+  {
+    "id": "9bdfd12beaba9dc96958",
+    "title": "Minijob - Dienstleister (m/w/d)",
+    "company": "Firma  Peilstöcker Dienstleistungen aller Art Firma Peilstöcker",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1191350518-S",
     "description": "Helfer/in - Reinigung",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-08-06",
+    "published_at": "2023-08-10",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:24.425857+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.481098+00:00"
   },
   {
-    "id": "06e21d40ee015625f8b2",
-    "title": "Minijob",
-    "company": "Gabriele Schwarz",
-    "location": "Moringen, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206870462-S",
-    "description": "Friseur/in",
+    "id": "26b313c4bb0a39600e9b",
+    "title": "Minijob Altenpflegehelfer (m/w/d)",
+    "company": "TRUECARE GmbH NL Leipzig",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-437A1549-S",
+    "description": "Altenpflegehelfer/in",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-06-17",
+    "published_at": "2026-08-03",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:24.425908+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.480867+00:00"
   },
   {
-    "id": "62de80561d2989e2fabf",
-    "title": "Minijob",
-    "company": "Linh Tieu - DVAG",
-    "location": "Oberhausen, Rheinland, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1201918173-S",
-    "description": "Steuerfachangestellte/r",
+    "id": "323169e1976f05957071",
+    "title": "Minijob Altenpfleger (m/w/d)",
+    "company": "TRUECARE GmbH NL Leipzig",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-437A1550-S",
+    "description": "Altenpfleger/in",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2025-03-14",
+    "published_at": "2026-08-03",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:24.426194+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.480814+00:00"
   },
   {
-    "id": "77b5c322cbeb4336713c",
-    "title": "Minijob",
-    "company": "Grünspecht Herbold & Vaupel GbR",
-    "location": "Marburg, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206807903-S",
-    "description": "Helfer/in - Gartenbau",
+    "id": "9873706a1e5d5c7fa8bd",
+    "title": "Minijob Pflegefachkraft (m/w/d)",
+    "company": "TRUECARE GmbH NL Leipzig",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-437A1548-S",
+    "description": "Pflegefachmann/-frau (Altenpflege)",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-06-11",
+    "published_at": "2026-08-03",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:24.426241+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.480894+00:00"
   },
   {
-    "id": "ad813626c9952e2f494c",
-    "title": "MINIJOB",
-    "company": "Mariana Pfeiffer JADE Beauty Lounge",
-    "location": "Cottbus, Brandenburg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202931296-S",
-    "description": "Kosmetiker/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2025-06-27",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426286+00:00"
-  },
-  {
-    "id": "f1ed4ca03e47a31f49e8",
-    "title": "Minijob (m/w/d)",
-    "company": "Adler Modemärkte GmbH Zentrale",
-    "location": "Lollar, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17717-a6daf410b3dc3504-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-28",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.425935+00:00"
-  },
-  {
-    "id": "34dc2109792044e82f99",
-    "title": "Minijob (m/w/d)",
-    "company": "REWE Markt GmbH",
-    "location": "Velen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12608-1425304-58583-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-22",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426173+00:00"
-  },
-  {
-    "id": "12bb01b2111556a55776",
-    "title": "Minijob (w/m/d)",
-    "company": "César Males Gebäudereinigung & Service",
-    "location": "Oberhaching Bei München, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207222358-S",
-    "description": "Gebäudereiniger/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-17",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426265+00:00"
-  },
-  {
-    "id": "261d4d512b6b03c0d6ce",
-    "title": "Minijob - Aushilfe Lager (m/w/d)",
-    "company": "Baustoffhandel Kuhn Bauzentrum Nachf. GmbH GmbH",
-    "location": "Zellingen, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001350427-S",
-    "description": "Fachlagerist/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2025-04-15",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.503684+00:00"
-  },
-  {
-    "id": "5c2a09d4a10dd76f9b9e",
-    "title": "Minijob - Auslieferungsfahrer/in (m/w/d)",
-    "company": "Dasenbrock GmbH Fleischerei",
-    "location": "Bochum, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207488073-S",
-    "description": "Auslieferungsfahrer/in (nicht Verkaufsfahrer/in)",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426126+00:00"
-  },
-  {
-    "id": "dab08f2b1488b20140b8",
-    "title": "Minijob - Küchenhilfskräfte - Aushilfe (m/w/d) gesucht – familiengeführtes, mediterranes Restaurant",
-    "company": "Ardian Maxhari - Restaurant Eja",
-    "location": "Kiel, Schleswig Holstein, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001529426-S",
-    "description": "Helfer/in - Küche",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2025-06-24",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:34.317853+00:00"
-  },
-  {
-    "id": "6c18a8f2fe0c0b9a50d2",
-    "title": "Minijob - Physiotherapeut (m/w/d)",
-    "company": "Randy Wattrodt",
-    "location": "Bochum, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207452397-S",
+    "id": "3fb11b333e38ed8d498c",
+    "title": "Minijob Physiotherapeut/in (m/w/d)",
+    "company": "Maja Scheel",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1204744237-S",
     "description": "Physiotherapeut/in",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-08-06",
+    "published_at": "2025-12-05",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:24.426416+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.480919+00:00"
   },
   {
-    "id": "deafcfa48909265d21f4",
-    "title": "Minijob / Aushilfe (m/w/d) Gastronomie - Quereinstieg möglich!",
-    "company": "Globus Baumarkt - Globus Fachmärkte GmbH & Co. KG",
-    "location": "Löhne, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-964189ef-5f40-46cc--S",
-    "description": "Fachmann/-frau - Systemgastronomie",
+    "id": "d33dd5b7d814a9b87d1d",
+    "title": "Minijob-Mitarbeiter/in (m/w/d) im Verkauf",
+    "company": "Tech Repair Partners GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000000760-S",
+    "description": "Helfer/in - Verkauf",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-07-07",
+    "published_at": "2024-03-18",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:32.274616+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.480944+00:00"
   },
   {
-    "id": "1e4fdd9f48b221d09b50",
-    "title": "Minijob / Aushilfe (m/w/d) Lager",
-    "company": "riess-ambiente.de GmbH",
-    "location": "Nützen, Schleswig Holstein, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-42b4a915_JB5207361-S",
-    "description": "Lager- und Transportarbeiter/in",
+    "id": "228272b851282f5ffe13",
+    "title": "Mitarbeiter (m/w/d) Logistik / Warenannahme im Fashion-Bereich Minijob",
+    "company": "TMS Trademarketing Service GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr667121_8-S",
+    "description": "Helfer/in - Verkauf",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-07-28",
+    "published_at": "2026-08-09",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:30.504112+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.481039+00:00"
   },
   {
-    "id": "6181d8879677bad7751b",
-    "title": "Minijob / Aushilfe Gastronomie",
-    "company": "Calogero Salpietro",
-    "location": "Göppingen, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1198347537-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2024-03-13",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.273863+00:00"
-  },
-  {
-    "id": "c83eef1e293a694bb428",
-    "title": "Minijob / Aushilfe Lager (m/w/d)",
-    "company": "POCO Einrichtungsmärkte GmbH",
-    "location": "Gera, Thueringen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003447501-S",
-    "description": "Fachkraft - Lagerlogistik",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-27",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.504087+00:00"
-  },
-  {
-    "id": "ec3100a0a2e5d9926d0d",
-    "title": "Minijob / Aushilfe Lager (m/w/d)",
-    "company": "POCO Einrichtungsmärkte GmbH",
-    "location": "Hannover, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003425706-S",
-    "description": "Fachkraft - Lagerlogistik",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-22",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.504136+00:00"
-  },
-  {
-    "id": "e68c940652266eab8155",
-    "title": "Minijob / Aushilfe Lager (m/w/d)",
-    "company": "POCO Einrichtungsmärkte GmbH",
-    "location": "Görgeshausen, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003413152-S",
-    "description": "Fachkraft - Lagerlogistik",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-20",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.504161+00:00"
-  },
-  {
-    "id": "19654389fba509ebda56",
-    "title": "Minijob / Aushilfe Lager (m/w/d)",
-    "company": "POCO Einrichtungsmärkte GmbH",
-    "location": "Viernheim, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003236571-S",
-    "description": "Fachkraft - Lagerlogistik",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-16",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.504183+00:00"
-  },
-  {
-    "id": "0234a3353139d08ee04a",
-    "title": "Minijob / Aushilfe Lager (m/w/d)",
-    "company": "POCO Einrichtungsmärkte GmbH",
-    "location": "Ahlen, Westfalen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003224426-S",
-    "description": "Fachkraft - Lagerlogistik",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-15",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:30.504207+00:00"
-  },
-  {
-    "id": "3f91ee4a8f2dda2d7f68",
-    "title": "Minijob im Recruiting",
-    "company": "Ingenieurbüro Heimann Gunnar Heimann",
-    "location": "Immenstaad Am Bodensee, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003515090-S",
-    "description": "Bürogehilf(e/in)",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426442+00:00"
-  },
-  {
-    "id": "5fcda904338d5737979e",
-    "title": "Minijob im Verkauf",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Ueckermünde, Mecklenburg Vorpommern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609217-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426351+00:00"
-  },
-  {
-    "id": "65434f705ca043f5dd01",
-    "title": "Minijob Servicekraft (m/w/d)",
-    "company": "Die Vorratskammer Robert Kudin",
-    "location": "Waiblingen, Rems, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003513208-S",
-    "description": "Restaurantfachmann/-frau",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-08",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426218+00:00"
-  },
-  {
-    "id": "75493e9b00e7c48218e5",
-    "title": "Minijob Verkauf (m/w/d)",
-    "company": "GDC Deutschland GmbH",
-    "location": "Nieder-Olm, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003516824-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.425962+00:00"
-  },
-  {
-    "id": "286e46eff74794d93e7c",
-    "title": "Minijob Verkauf (m/w/d)",
-    "company": "GDC Deutschland GmbH",
-    "location": "Alzey, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003516793-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.425985+00:00"
-  },
-  {
-    "id": "87aba87d2b008a7411cd",
-    "title": "Minijob Verkauf (m/w/d)",
-    "company": "GDC Deutschland GmbH",
-    "location": "Bad Kreuznach, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003514854-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426009+00:00"
-  },
-  {
-    "id": "99ce27286843277bb9e9",
-    "title": "Pflegefachkraft (m/w/d) - in Teilzeit",
-    "company": "Die Diakonie Ostholstein gGmbH",
-    "location": "Ahrensbök, Schleswig Holstein, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207483083-S",
+    "id": "94cb785cbd9eed5d5aa8",
+    "title": "Pflegefachkraft (m/w/d) Teilzeit",
+    "company": "PERSO PLANKONTOR GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-TJ0JXOQ1ITKGO3C0-S",
     "description": "Altenpfleger/in",
     "source": "bundesagentur",
     "role_type": "part-time",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-08-10",
+    "published_at": "2026-08-03",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:26.791051+00:00"
+    "first_seen_at": "2026-08-10T19:50:28.493592+00:00"
   },
   {
-    "id": "94920af6b507d9c53f41",
-    "title": "Pflegehelfer (m/w/d) in Teilzeit",
-    "company": "Diakonie Mark-Ruhr gGmbH",
-    "location": "Hattingen, Ruhr, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16502-0066644223-S",
-    "description": "Altenpflegehelfer/in",
+    "id": "d6ca4ddaec3f3c98224f",
+    "title": "Pflegehelfer (m/w/d)  Teilzeit",
+    "company": "PERSO PLANKONTOR GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-EBEQFOG7L9K3VN51-S",
+    "description": "Gesundheits- und Krankenpflegehelfer/in",
     "source": "bundesagentur",
     "role_type": "part-time",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-08-10",
+    "published_at": "2026-07-28",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:26.791104+00:00"
+    "first_seen_at": "2026-08-10T19:50:28.493781+00:00"
   },
   {
-    "id": "84469fe610635ea73212",
-    "title": "Physiotherapeut/in-Teilzeit (m/w/d)",
-    "company": "KH St. Barbara Schwandorf gGmbH",
-    "location": "Schwandorf, Bayern, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207489949-S",
-    "description": "Physiotherapeut/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.791130+00:00"
-  },
-  {
-    "id": "314d64b66f4b3435f804",
-    "title": "Projektkoordinator/in (m/w/d) in Teilzeit",
-    "company": "Hochschule für Angewandte Wissenschaften Hof Land Bayern",
-    "location": "Hof, Saale, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003515945-S",
-    "description": "Berufspädagoge/-pädagogin",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.791156+00:00"
-  },
-  {
-    "id": "5133a66b96a54464627c",
-    "title": "Reinigungskraft (m/w/d) als Minijob",
-    "company": "Gollee GmbH & Co.",
-    "location": "Bad Lauterberg Im Harz, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003519327-S",
-    "description": "Helfer/in - Reinigung",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426102+00:00"
-  },
-  {
-    "id": "454190245155c44ca085",
-    "title": "Reinigungskraft (m/w/d) Minijob",
-    "company": "Piepenbrock Dienstleistungsgruppe GmbH & Co.KG",
-    "location": "Bocholt, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13103-25922_JB5218652-S",
-    "description": "Helfer/in - Reinigung",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:24.426035+00:00"
-  },
-  {
-    "id": "29740670840c81a5f2ea",
-    "title": "Reinigungskraft (m/w/d) Minijob",
-    "company": "SAAD Facility Management GmbH",
-    "location": "Calw, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15743-QEP04SLORD617W7J-S",
+    "id": "bb15871b9d66470a1dd5",
+    "title": "Reinigungskraft (m/w/d) auf Minijob-Basis in Leipzig",
+    "company": "Wendl GmbH Konditorei u. Bäckerei",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003271369-S",
     "description": "Gebäudereiniger/in",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-08-07",
+    "published_at": "2026-06-23",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:24.426465+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.481070+00:00"
   },
   {
-    "id": "744fd96fd9669c2f1380",
-    "title": "Restaurant Aushilfe / Minijob (m/w/d)",
-    "company": "Hans Segmüller Polstermöbelfabrik GmbH & Co. KG",
-    "location": "Friedberg, Bayern, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-49263-YF-S",
-    "description": "Restaurantfachmann/-frau",
+    "id": "12e74c3cad032f86a054",
+    "title": "Reinigungskraft (m/w/d) in Teilzeit",
+    "company": "WKS Protect GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207264563-S",
+    "description": "Gebäudereiniger/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-07-21",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.493755+00:00"
+  },
+  {
+    "id": "7b8c37ce818396b9ab99",
+    "title": "Reinigungskraft (m/w/d) in Teilzeit",
+    "company": "KEMNA BAU Andreae GmbH & Co.KG",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205543669-S",
+    "description": "Gebäudereiniger/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-02-18",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-10T19:50:28.494134+00:00"
+  },
+  {
+    "id": "ca611edb69d01ac337d6",
+    "title": "Servicekraft für unsere Cafeteria - Minijob (m/w/d)",
+    "company": "Concentus Servicegesellschaft GmbH im St. Elisabeth Krankenhaus Leipzig",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-138350-S",
+    "description": "Helfer/in - Küche",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-08-10",
+    "published_at": "2026-07-29",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:34.317557+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.481340+00:00"
   },
   {
-    "id": "2d4744dc502ae14be1a5",
-    "title": "Restaurant Aushilfe / Minijob (m/w/d)",
-    "company": "Hans Segmüller Polstermöbelfabrik GmbH & Co. KG",
-    "location": "Parsdorf, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-4b54564f-8eb2-421b--S",
-    "description": "Helfer/in - Gastgewerbe",
+    "id": "6e9551b6f3b65ecd0c15",
+    "title": "Sicherheitsmitarbeiter (m/w/d) – Pauschalkraft / Minijob",
+    "company": "M&T Security Service GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002275373-S",
+    "description": "Sicherheitsmitarbeiter/in",
     "source": "bundesagentur",
     "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-07-23",
+    "published_at": "2025-12-09",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:34.317588+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.480980+00:00"
   },
   {
-    "id": "9be0592c575b75718288",
-    "title": "Restaurant Aushilfe / Minijob (m/w/d), SPR-Panorama Restaurant",
-    "company": "SPR-Panorama Restaurant GmbH",
-    "location": "Friedberg, Bayern, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2293275-S",
-    "description": "Helfer/in - Gastgewerbe",
+    "id": "d49a4e6d5c52685786bc",
+    "title": "Verkäufer (m/w/d) Teilzeit",
+    "company": "Netto Marken-Discount Stiftung & Co. KG",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18279-7-8676-726f3-S",
+    "description": "Verkäufer/in",
     "source": "bundesagentur",
-    "role_type": "minijob",
+    "role_type": "part-time",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-07-09",
+    "published_at": "2025-05-19",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:34.317642+00:00"
+    "first_seen_at": "2026-08-10T19:50:28.494024+00:00"
   },
   {
-    "id": "e67bc2fa8dc96f874662",
-    "title": "Servicekraft (m/w/d) als Aushilfe",
-    "company": "Filiz Mutlu",
-    "location": "Edenkoben, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207244701-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
+    "id": "fa0784df996ac7f9c69a",
+    "title": "Zahntechniker (m/w/d) Vollzeit / Teilzeit",
+    "company": "biodentis GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-45674-YF-S",
+    "description": "Zahntechniker/in",
     "source": "bundesagentur",
     "role_type": "part-time",
     "category": "part-time",
@@ -3243,435 +1646,26 @@
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:32.274512+00:00"
+    "first_seen_at": "2026-08-10T19:50:28.494281+00:00"
   },
   {
-    "id": "cd8024d8e90e0cc50683",
-    "title": "Servicekraft in der Gastronomie zur Aushilfe",
-    "company": "Restaurant Weinhaus Hoffnung Inh Nikolaus Durben",
-    "location": "Winningen, Mosel, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003211437-S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
+    "id": "53e7aa70cafaaadfd334",
+    "title": "ZMP (m/w/d) auf Minijob-Basis",
+    "company": "Dr. Gabriele Freiberg Zahnärztin",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002158975-S",
+    "description": "Zahnmedizinische/r Prophylaxeassistent/in",
     "source": "bundesagentur",
-    "role_type": "part-time",
+    "role_type": "minijob",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-06-11",
+    "published_at": "2025-11-17",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:42:32.273987+00:00"
-  },
-  {
-    "id": "cccf040f0fbf2e47fadc",
-    "title": "Spülkraft Aushilfe (m/w/d)",
-    "company": "Hans Segmüller Polstermöbelfabrik GmbH & Co. KG",
-    "location": "Pulheim, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-023607df-295b-47c5--S",
-    "description": "Servicekraft - Gastronomie und Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-05",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274367+00:00"
-  },
-  {
-    "id": "f140b9ebbe15ef49caa3",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Blaufelden, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609222-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790504+00:00"
-  },
-  {
-    "id": "1bb0b57f38e3f950f959",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Lottstetten, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1603511-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790594+00:00"
-  },
-  {
-    "id": "3c69c27047e227eea952",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Lüdinghausen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609120-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790625+00:00"
-  },
-  {
-    "id": "0e4d41a06fd9aac3706f",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Altenberge, Westfalen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609121-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790654+00:00"
-  },
-  {
-    "id": "d1e9694112b368ab6709",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Freilassing, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609122-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790682+00:00"
-  },
-  {
-    "id": "7bf08c942aceff5d7a52",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Herten, Westfalen, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609123-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790708+00:00"
-  },
-  {
-    "id": "305b052e79e978b166b4",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Schönebeck (Elbe), Sachsen Anhalt, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609206-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790733+00:00"
-  },
-  {
-    "id": "8f36daebbbaeda86e41e",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Feucht, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609207-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790757+00:00"
-  },
-  {
-    "id": "de02d10a17ac30150adb",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "München, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609212-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790784+00:00"
-  },
-  {
-    "id": "9c141e381b5074d04619",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Bielefeld, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609214-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790833+00:00"
-  },
-  {
-    "id": "bb55c6e3700880d178a3",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Nabburg, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609216-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790880+00:00"
-  },
-  {
-    "id": "318498d20c36f9173982",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Nürnberg, Mittelfranken, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1609218-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790905+00:00"
-  },
-  {
-    "id": "2ad5dffa790ed861c5d2",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Moormerland, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1615880-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790953+00:00"
-  },
-  {
-    "id": "37f4f2f296be2e049732",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1616754-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.790976+00:00"
-  },
-  {
-    "id": "e76729b029f20f65e5bb",
-    "title": "Verkäufer (m/w/d) Teilzeit",
-    "company": "Dirk Rossmann GmbH",
-    "location": "Northeim, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1616758-1-S",
-    "description": "Verkäufer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:26.791000+00:00"
-  },
-  {
-    "id": "47c5909813b8cd0aeb9f",
-    "title": "Aushilfe Gastronomie/Studentische Hilfskraft (m/w/d)",
-    "company": "BIB Augsburg GmbH",
-    "location": "Augsburg, Bayern, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003188402-S",
-    "description": "Helfer/in - Gastgewerbe",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-08",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:32.274127+00:00"
-  },
-  {
-    "id": "7fe318978957f54f9498",
-    "title": "Büroaushilfe oder Werkstudent auf 603 € Basis alternativ in Teilzeit (m/w/d).",
-    "company": "thomas beteiligungen GmbH",
-    "location": "Weimar, Thüringen, Thueringen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003111663-S",
-    "description": "Bürokaufmann/-frau",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-05-21",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156947+00:00"
-  },
-  {
-    "id": "10ede125d42378c40279",
-    "title": "Studentische Aushilfe / Werkstudent (m/w/d) Technische Vertriebsunterstützung, Hauptverwaltung",
-    "company": "HanseMerkur Krankenversicherung AG",
-    "location": "Hamburg, Hamburg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2305151-S",
-    "description": "Assistent/in - Informatik (technische Informatik)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-30",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156633+00:00"
-  },
-  {
-    "id": "ffba26e059c84808da9d",
-    "title": "Werkstudent  - Marketingassistenz (m/w/d)",
-    "company": "IMD Labor Berlin-Potsdam",
-    "location": "Berlin, Berlin, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-138480-S",
-    "description": "Assistent/in - Informatik (Softwaretechnik)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156415+00:00"
-  },
-  {
-    "id": "7d4a42a6d9297668ed83",
-    "title": "Werkstudent (m/w/d) Arbeitssicherheit",
-    "company": "RENK GmbH",
-    "location": "Augsburg, Bayern, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18121-0064722992-S",
-    "description": "Kaufmännische/r Assistent/in/Wirtschaftsassistent/in - Bürowirtschaft",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-05-13",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382591+00:00"
+    "first_seen_at": "2026-08-10T19:50:26.481259+00:00"
   },
   {
     "id": "23534bdc20234d236199",
@@ -3695,153 +1689,6 @@
     "first_seen_at": "2026-08-10T19:42:18.382678+00:00"
   },
   {
-    "id": "099b8b859bcb8e1de009",
-    "title": "Werkstudent (m/w/d) Energieversorgung Corporates & Digitalisierung, Mainz",
-    "company": "DAL",
-    "location": "Mainz Am Rhein, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2296814-S",
-    "description": "Techniker/in - Informatik (Nachhaltige Digitalisierung)/Bachelor Professional in Technik",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-15",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156884+00:00"
-  },
-  {
-    "id": "60a1f490cfc794cdad60",
-    "title": "Werkstudent (m/w/d) für die SAP Beratung",
-    "company": "OctaVIA Organisationsentwicklu ng, Software- & Technologieber atungs Aktiengesellschaft",
-    "location": "Kassel, Hessen, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17041-0066216713-S",
-    "description": "Berater/in - digitale Transformation",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-21",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382313+00:00"
-  },
-  {
-    "id": "8529cb88929c9efecc0b",
-    "title": "Werkstudent (m/w/d) HR-Management - ID: 159, Fürth",
-    "company": "SINTEC Informatik GmbH",
-    "location": "Fürth, Bayern, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2301843-S",
-    "description": "Kaufmännische/r Assistent/in/Wirtschaftsassistent/in - Bürowirtschaft",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-24",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156721+00:00"
-  },
-  {
-    "id": "56d17863940af08b7fa7",
-    "title": "Werkstudent (m/w/d) im Ideenmanagement",
-    "company": "RENK GmbH",
-    "location": "Augsburg, Bayern, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18121-0066302468-S",
-    "description": "Informatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-24",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382517+00:00"
-  },
-  {
-    "id": "c9ab6139fe811a738fe6",
-    "title": "Werkstudent (m/w/d) im Qualitätsmanagement",
-    "company": "RENK GmbH",
-    "location": "Augsburg, Bayern, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18121-0066450443-S",
-    "description": "Wirtschaftsingenieur/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-30",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382455+00:00"
-  },
-  {
-    "id": "75bdb31b5b5c9556d1ff",
-    "title": "Werkstudent (m/w/d) Sozialforschung & Datenanalyse",
-    "company": "Galileo Global Education Germa ny GmbH",
-    "location": "Stuttgart, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19813-BB-500050-7878-3412-S",
-    "description": "Projektassistent/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-28",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382809+00:00"
-  },
-  {
-    "id": "590d0f2292e0264a37f0",
-    "title": "Werkstudent Application Management (m/w/d)",
-    "company": "Prosystems IT GmbH Bonn",
-    "location": "Bonn, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003467917-S",
-    "description": "Wirtschaftsinformatiker/in (Hochschule)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-30",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.157046+00:00"
-  },
-  {
     "id": "4d7078518e90d6d8e632",
     "title": "Werkstudent Architektur (m/w/d)",
     "company": "Köster GmbH",
@@ -3863,279 +1710,6 @@
     "first_seen_at": "2026-08-10T19:42:18.382654+00:00"
   },
   {
-    "id": "530ba255f992048503c0",
-    "title": "Werkstudent HR Recruiting  Berlin (m/w/d)",
-    "company": "Medicover GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-138172-S",
-    "description": "Assistent/in - Informatik (Softwaretechnik)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-07",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156535+00:00"
-  },
-  {
-    "id": "07330120b80a2939b277",
-    "title": "Werkstudent im Bereich Logistik (m/w/d)",
-    "company": "Lebkuchen Schmidt GmbH & Co. KG",
-    "location": "Nürnberg, Mittelfranken, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003518882-S",
-    "description": "Betriebswirt/in (Hochschule) - Logistik",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156776+00:00"
-  },
-  {
-    "id": "77996d30159d7194ab2f",
-    "title": "Werkstudent IT (m/w/d)",
-    "company": "Kelvion PHE GmbH",
-    "location": "Sarstedt, Niedersachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19663-0066535278-S",
-    "description": "Assistent/in - Informatik (allgemeine Informatik)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-04",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156448+00:00"
-  },
-  {
-    "id": "2d59a3a48e6e09e194b2",
-    "title": "Werkstudent IT Vertrieb (w/m/d)",
-    "company": "Bechtle AG",
-    "location": "Koblenz Am Rhein, Rheinland Pfalz, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44293231-76-S",
-    "description": "IT-Vertriebsbeauftragte/r",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-07",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382854+00:00"
-  },
-  {
-    "id": "7c289c76b5e4d34f27b4",
-    "title": "Werkstudent KI / LLM-Entwicklung  mit flexiblen  (m/w/d)",
-    "company": "Bruski Smeet & Lange Rechtsanwälte und Steuerberater Partnerschaft mbB",
-    "location": "Frankfurt Am Main, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-137818-S",
-    "description": "Assistent/in - Informatik (Softwaretechnik)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-28",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156564+00:00"
-  },
-  {
-    "id": "6acb2b58d44bcd66c884",
-    "title": "Werkstudent strategisches Projektmanagement (w/m/d)",
-    "company": "Bechtle AG",
-    "location": "Neckarsulm, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44360085-85-S",
-    "description": "Kaufmann/-frau - Büromanagement",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-08",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156910+00:00"
-  },
-  {
-    "id": "04fb633ec2552f39781c",
-    "title": "Werkstudent Verkauf (m/w/d) Tirschenreuth",
-    "company": "FRISTO SE",
-    "location": "Tirschenreuth, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18247-mzRcU3Mh-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-23",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382786+00:00"
-  },
-  {
-    "id": "5496b23b8a8441fe6c9a",
-    "title": "Werkstudent – Produkt- und Innovationsmanagement (m/w/d)",
-    "company": "Bundesdruckerei Gruppe GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15933-0066181148-S",
-    "description": "3-D-Artist",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-20",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382707+00:00"
-  },
-  {
-    "id": "3d30c15ecf4f18ff2cee",
-    "title": "Werkstudent*in (m/w/d) Doku/GIS",
-    "company": "Stadtwerke Augsburg Holding GmbH",
-    "location": "Augsburg, Bayern, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18624-0066361908-S",
-    "description": "Geoinformatiker/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-28",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382540+00:00"
-  },
-  {
-    "id": "491e39c9122de851908c",
-    "title": "Werkstudent*in (m/w/d) R&D",
-    "company": "Jenoptik AG",
-    "location": "Wedel, Schleswig Holstein, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16012-44331517-723-S",
-    "description": "Mitarbeiter/in - Entwicklungszusammenarbeit",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-24",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.157024+00:00"
-  },
-  {
-    "id": "8d7c48684b28a888c3aa",
-    "title": "Werkstudent*in Produktmanagement (m/w/d)",
-    "company": "ENQT GmbH",
-    "location": "Hamburg, Hamburg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20279-k62365.1066-S",
-    "description": "Produktmanager/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-05",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156750+00:00"
-  },
-  {
-    "id": "ec34ebbfae843932bf2c",
-    "title": "Werkstudent*in Technische Dokumentation (m/w/d)",
-    "company": "ENQT GmbH",
-    "location": "Hamburg, Hamburg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20279-k62365.1067-S",
-    "description": "Technische/r Redakteur/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-05",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.157000+00:00"
-  },
-  {
-    "id": "38cd18e95e2721e06f5a",
-    "title": "Werkstudent/-in (m/w/d)",
-    "company": "Ghendler Ruvinskij Rechtsanwälte PartG mbB",
-    "location": "Köln, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002351467-S",
-    "description": "Jurist/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2025-12-29",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156668+00:00"
-  },
-  {
     "id": "6120a2b0df0f67f80cb0",
     "title": "Werkstudent/in Modulstrategie / Filialplanung",
     "company": "Kaufhaus Rolf Wreesmann GmbH & Co KG",
@@ -4155,131 +1729,5 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-10T19:42:18.382832+00:00"
-  },
-  {
-    "id": "26ffc1f7088af398e8eb",
-    "title": "Werkstudent/Projektmitarbeiter IT - Konfigurator-Projekt ...",
-    "company": "Ketten Branscheid GmbH",
-    "location": "Ennepetal, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13652-JOB-844435-S",
-    "description": "Assistent/in - Informatik (technische Informatik)",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-06-18",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156598+00:00"
-  },
-  {
-    "id": "f0c13eaf863ffce06fd0",
-    "title": "Werkstudent:in",
-    "company": "Global Climate GmbH",
-    "location": "Straßlach-Dingharting, Bayern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000535870-S",
-    "description": "Nachhaltigkeitsmanager/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2024-08-08",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382345+00:00"
-  },
-  {
-    "id": "666632628f7fb3292fd3",
-    "title": "Werkstudent:in Administration (m/w/d)",
-    "company": "Mercer Deutschland GmbH",
-    "location": "Düsseldorf, Nordrhein Westfalen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003464852-S",
-    "description": "Mathematisch-technische/r Assistent/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-29",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:16.156801+00:00"
-  },
-  {
-    "id": "6dfefc34c93fc32534c8",
-    "title": "Werkstudent:in im Talent Management (w/m/d) bei timpeo",
-    "company": "timpeo GmbH",
-    "location": "Berlin, Berlin, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003492365-S",
-    "description": "Recruiter/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-04",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382762+00:00"
-  },
-  {
-    "id": "2a0b5469df6bfc0e6b6e",
-    "title": "Werkstudent:in Marketing (w/m/d)",
-    "company": "SIV.AG - Service für Informationsverarbeitung AG",
-    "location": "Roggentin Bei Rostock, Mecklenburg Vorpommern, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003493156-S",
-    "description": "Marketingfachkraft/-assistent/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-05",
-    "score": 65,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:42:18.382430+00:00"
-  },
-  {
-    "id": "5723b33e51231d623fe1",
-    "title": "Werkstudent:in oder Minijob (m/w/d), Redaktion, App-Entwicklung, Marketing",
-    "company": "UNIHELD GmbH",
-    "location": "Bochum",
-    "url": "https://www.arbeitnow.com/jobs/companies/uniheld-gmbh/werkstudentin-oder-minijob-redaktion-app-entwicklung-marketing-bochum-463948",
-    "description": "Bist du bereit, dein Studium mit einem spannenden Job zu kombinieren? Die UNIHELD in Bochum, ein innovatives Unternehmen im Bereich Marketing Services, sucht motivierte Werkstudent:innen oder Minijobber:innen (m/w/d), die Lust haben, Teil eines kleinen, dynamischen Teams zu werden. Bei uns dreht sich alles um unsere vielseitige App für Studierende, die exklusive Deals und viele weitere coole Features bietet. Du wirst in einer entspannten Start-up-Atmosphäre arbeiten und hast die Möglichkeit, wertvolle Praxiserfahrungen zu sammeln, während du an Projekten arbeitest, die wirklich einen Unterschied machen. Wenn du kommunikativ bist, gerne neue Ideen einbringst und Lust auf eine flexible Arbeitszeitgestaltung hast, dann bist du bei uns genau richtig. Werde Teil unseres Teams und hilf uns, die Studierenden-Welt ein Stück besser zu machen! Aufgaben Du bringst frischen Wind in unsere App und gestaltest das Nutzererlebnis aktiv mit: Redaktionelle Arbeit &#x26; Content Creation: Erstellung und Pflege von ansprechenden Inhalten, Deals, Aktionen und In-App-Texten für unsere studentische Community. Weiterentwicklung der App: Einbringen von Ideen zur Optimierung der User Experience (UX/UI), Testen neuer Features und Mitgestaltung der Produkt-Roadmap. Kein Programmieren erforderlich. Marketing &#x26; Kampagnen: Unterstützung bei digitalen Marketingmaßnahmen (Social Media, In-App-Promotions) sowie bei lokalen Campus-Initiativen und Promotion-Aktionen. Partner-Integration: Einbinden neuer Partnerangebote (Gastro, Brands &#x26; Events) in die App-Infrastruktur. Qualifikation Digital Native: Du kennst die Trends der Generation Z/Studierenden und nutzt selbst Apps &#x26; Social Media intuitiv. Sprachgefühl: Sehr gute Deutschkenntnisse in Wort und Schrift sowie ein Gespür für sympathische, zielgruppengerechte Ansprache. Eigeninitiative &#x26; Kreativität: Du hast Bock, eigene Ideen einzubringen und UNIHELD aktiv mitzugestalten. Grundkenntnisse in CMS-Systemen, Social Media Tools oder App-Testing sind ein Plus, aber kein Muss! Benefits Echter Impact: Bei uns bist du kein Kaffeekocher – deine Ideen fließen direkt in eine App ein, die täglich von Zehntausenden Studierenden genutzt wird. Flexibilität: Flexible Arbeitszeiten, die sich perfekt an deinen Stundenplan und deine Prüfungsphasen anpassen lassen (Remote &#x26; Office-Mix). Flache Hierarchien: Kurze Wege, schnelles Feedback und ein junges, dynamisches Team. Netzwerk: Einblicke in ein stark wachsendes Startup und das Netzwerk der HERO Group. Schicke uns einfach deinen Lebenslauf und ein paar Sätze dazu, warum du perfekt ins Team passt (ohne steifes Anschreiben!). Wir freuen uns darauf, dich kennenzulernen! Find more English Speaking Jobs in Germany on Arbeitnow",
-    "source": "arbeitnow",
-    "role_type": "werkstudent",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-10T13:01:29+00:00",
-    "score": 61,
-    "reasons": [
-      "Werkstudent role",
-      "Part-time/minijob role",
-      "Student-friendly wording",
-      "English mentioned"
-    ],
-    "first_seen_at": "2026-08-10T19:42:13.802553+00:00"
   }
 ]
