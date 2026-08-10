@@ -11,6 +11,37 @@ from urllib.request import Request, urlopen
 from .core import Job, classify_category, classify_role, plain_text, score_job, stable_job_id
 
 
+LEIPZIG_AREA_TOWNS = frozenset({
+    "leipzig",
+    "markkleeberg",
+    "schkeuditz",
+    "taucha",
+    "markranstädt",
+    "zwenkau",
+    "böhlen",
+    "rötha",
+    "großpösna",
+    "rackwitz",
+    "borsdorf",
+    "brandis",
+    "machern",
+    "naunhof",
+    "krostitz",
+    "delitzsch",
+    "eilenburg",
+    "borna",
+    "grimma",
+    "wurzen",
+    "neukieritzsch",
+    "pegau",
+})
+
+
+def is_leipzig_area(location: str) -> bool:
+    city = location.split(",", 1)[0].strip().casefold()
+    return city in LEIPZIG_AREA_TOWNS
+
+
 def normalize_arbeitnow(raw: dict) -> Job:
     title = str(raw.get("title", "")).strip()
     company = str(raw.get("company_name", "Unknown")).strip()
@@ -158,11 +189,13 @@ def fetch_all(fetch_json: Callable[[str], dict] = _fetch_json, min_score: int = 
     if remotive is not None:
         candidates.extend(normalize_remotive(item) for item in remotive.get("jobs", []))
 
-    queries = (
+    technical_queries = (
         "werkstudent informatik",
         "werkstudent software",
         "junior softwareentwickler",
         "berufseinsteiger informatik",
+    )
+    general_queries = (
         "minijob",
         "teilzeit",
         "studentenjob",
@@ -170,10 +203,14 @@ def fetch_all(fetch_json: Callable[[str], dict] = _fetch_json, min_score: int = 
         "aushilfe gastronomie",
         "aushilfe restaurant",
     )
-    for query in queries:
+    for query in technical_queries + general_queries:
+        if query in general_queries:
+            location_query = "wo=Leipzig&umkreis=35"
+        else:
+            location_query = "wo=Deutschland"
         url = (
             "https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=1"
-            f"&was={quote_plus(query)}&wo=Deutschland"
+            f"&was={quote_plus(query)}&{location_query}"
         )
         result = load("bundesagentur", url)
         if result is None:
@@ -188,6 +225,8 @@ def fetch_all(fetch_json: Callable[[str], dict] = _fetch_json, min_score: int = 
     best: dict[str, Job] = {}
     for job in candidates:
         if job.category == "other" or job.role_type == "other" or job.score < min_score:
+            continue
+        if job.category == "part-time" and not is_leipzig_area(job.location):
             continue
         existing = best.get(job.id)
         if existing is None or job.score > existing.score:

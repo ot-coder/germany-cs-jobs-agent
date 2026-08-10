@@ -6,7 +6,7 @@ A dependency-free Python agent that searches Germany for both **computer-science
 
 **https://ot-coder.github.io/germany-cs-jobs-agent/**
 
-The dashboard refreshes automatically from public internet job sources every day at approximately **08:00 Europe/Berlin**. Use its category switch to move between **CS & Tech** and **Part-time & Minijob** listings. Saved, applied, and dismissed states stay private in your browser's local storage; they are not committed to GitHub.
+The dashboard refreshes automatically from public internet job sources every day at approximately **08:00 Europe/Berlin**. Use its category switch to move between Germany-wide **CS & Tech** listings and **Part-time & Minijob** listings restricted to Leipzig and nearby towns. Saved, applied, and dismissed states stay private in your browser's local storage; they are not committed to GitHub.
 
 ## What it does
 
@@ -14,8 +14,9 @@ The dashboard refreshes automatically from public internet job sources every day
   - Bundesagentur für Arbeit Jobsuche
   - Arbeitnow
   - Remotive (remote roles)
-- Uses Germany-focused technical searches plus general queries such as `minijob`, `teilzeit`, `studentenjob`, `aushilfe lager`, and `aushilfe gastronomie`.
+- Uses Germany-focused technical searches plus Leipzig-area queries such as `minijob`, `teilzeit`, `studentenjob`, `aushilfe lager`, and `aushilfe gastronomie`.
 - Separates technical roles from nontechnical part-time work such as warehouse, restaurant, retail, delivery, and similar jobs whenever the title signals part-time, minijob, student job, or temporary-help work.
+- Keeps general part-time results only when the posting location is Leipzig or a nearby town such as Markkleeberg, Schkeuditz, Taucha, Markranstädt, Zwenkau, Delitzsch, Eilenburg, Borna, Grimma, or another configured Leipzig-area town.
 - Rejects senior roles and unrelated full-time nontechnical roles.
 - Scores matches by student fit, category relevance, German location, and English-language wording.
 - Deduplicates jobs across sources.

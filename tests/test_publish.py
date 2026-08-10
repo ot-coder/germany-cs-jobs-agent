@@ -52,6 +52,7 @@ class PublishTests(unittest.TestCase):
             self.assertIn('data-category="part-time"', html)
             self.assertIn("CS & Tech", html)
             self.assertIn("Part-time & Minijob", html)
+            self.assertIn("Leipzig area", html)
             self.assertIn("setCategory", html)
 
     def test_telegram_message_contains_new_roles_and_live_site(self):

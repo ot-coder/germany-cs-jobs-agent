@@ -1,9 +1,36 @@
 import unittest
 
-from jobs_agent.sources import _parse_ba_search_html, fetch_all, normalize_arbeitnow, normalize_ba
+from jobs_agent.sources import (
+    _parse_ba_search_html,
+    fetch_all,
+    is_leipzig_area,
+    normalize_arbeitnow,
+    normalize_ba,
+)
 
 
 class SourceTests(unittest.TestCase):
+    def test_leipzig_area_accepts_city_and_surrounding_towns_only(self):
+        for location in (
+            "Leipzig, Sachsen, Deutschland",
+            "Markkleeberg, Sachsen, Deutschland",
+            "Schkeuditz, Sachsen, Deutschland",
+            "Taucha, Sachsen, Deutschland",
+            "Delitzsch, Sachsen, Deutschland",
+            "Borna, Sachsen, Deutschland",
+        ):
+            with self.subTest(location=location):
+                self.assertTrue(is_leipzig_area(location))
+        for location in (
+            "Stuttgart, Baden-Württemberg, Deutschland",
+            "Berlin, Berlin, Deutschland",
+            "Dresden, Sachsen, Deutschland",
+            "Germany",
+            "Remote",
+        ):
+            with self.subTest(location=location):
+                self.assertFalse(is_leipzig_area(location))
+
     def test_normalizes_arbeitnow_job(self):
         raw = {
             "slug": "working-student-python-acme",
@@ -94,6 +121,45 @@ class SourceTests(unittest.TestCase):
         jobs = fetch_all(fetch_json=fake_fetch, min_score=60)
         self.assertEqual({job.title for job in jobs}, {"Werkstudent Software Engineer", "Werkstudent Informatik", "Junior Data Analyst"})
 
+    def test_fetch_all_keeps_general_part_time_jobs_only_in_leipzig_area(self):
+        def fake_fetch(url):
+            if "arbeitnow" in url:
+                return {"data": [
+                    {
+                        "title": "Minijob Lagerhelfer",
+                        "company_name": "Leipzig Warehouse",
+                        "location": "Leipzig, Sachsen, Deutschland",
+                        "url": "https://example.test/leipzig",
+                        "description": "Flexible minijob shifts",
+                    },
+                    {
+                        "title": "Minijob Lagerhelfer",
+                        "company_name": "Stuttgart Warehouse",
+                        "location": "Stuttgart, Baden-Württemberg, Deutschland",
+                        "url": "https://example.test/stuttgart",
+                        "description": "Flexible minijob shifts",
+                    },
+                    {
+                        "title": "Aushilfe Restaurant",
+                        "company_name": "Nearby Restaurant",
+                        "location": "Markkleeberg, Sachsen, Deutschland",
+                        "url": "https://example.test/markkleeberg",
+                        "description": "Teilzeit",
+                    },
+                ]}
+            if "remotive" in url:
+                return {"jobs": []}
+            return {"stellenangebote": []}
+
+        jobs = fetch_all(fetch_json=fake_fetch, min_score=55)
+        self.assertEqual(
+            {job.location for job in jobs},
+            {
+                "Leipzig, Sachsen, Deutschland",
+                "Markkleeberg, Sachsen, Deutschland",
+            },
+        )
+
     def test_fetch_all_searches_and_keeps_general_part_time_jobs(self):
         requested = []
 
@@ -109,7 +175,7 @@ class SourceTests(unittest.TestCase):
                     "firma": "Warehouse GmbH",
                     "referenznummer": "MINI-1",
                     "stellenlokationen": [{"adresse": {
-                        "ort": "Hamburg", "land": "DEUTSCHLAND"
+                        "ort": "Leipzig", "land": "DEUTSCHLAND"
                     }}],
                     "hauptberuf": "Helfer/in - Lagerwirtschaft",
                 }]}
@@ -120,6 +186,11 @@ class SourceTests(unittest.TestCase):
         self.assertTrue(any("minijob" in url for url in requested))
         self.assertTrue(any("aushilfe+lager" in url for url in requested))
         self.assertTrue(any("aushilfe+gastronomie" in url for url in requested))
+        general_terms = ("minijob", "teilzeit", "studentenjob", "aushilfe+")
+        general_urls = [url for url in requested if any(term in url for term in general_terms)]
+        self.assertTrue(general_urls)
+        self.assertTrue(all("wo=Leipzig" in url and "umkreis=35" in url for url in general_urls))
+        self.assertTrue(any("werkstudent+informatik" in url and "wo=Deutschland" in url for url in requested))
 
     def test_fetch_all_continues_when_bundesagentur_is_unavailable(self):
         def fake_fetch(url):
