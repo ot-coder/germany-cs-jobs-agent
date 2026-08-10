@@ -19,6 +19,7 @@ class SourceTests(unittest.TestCase):
         self.assertEqual(job.role_type, "werkstudent")
         self.assertEqual(job.description, "For enrolled computer science students")
         self.assertEqual(job.source, "arbeitnow")
+        self.assertEqual(job.category, "cs")
         self.assertGreaterEqual(job.score, 70)
 
     def test_normalizes_bundesagentur_job(self):
@@ -50,6 +51,21 @@ class SourceTests(unittest.TestCase):
         self.assertIn("10000-SSR-S", job.url)
         self.assertGreaterEqual(job.score, 70)
 
+    def test_normalizes_general_minijob_into_part_time_category(self):
+        raw = {
+            "stellenangebotsTitel": "Minijob Lagerhelfer (m/w/d)",
+            "firma": "Warehouse GmbH",
+            "referenznummer": "GENERAL-1",
+            "stellenlokationen": [{"adresse": {
+                "ort": "Hamburg", "region": "HAMBURG", "land": "DEUTSCHLAND"
+            }}],
+            "hauptberuf": "Helfer/in - Lagerwirtschaft",
+        }
+        job = normalize_ba(raw)
+        self.assertEqual(job.role_type, "minijob")
+        self.assertEqual(job.category, "part-time")
+        self.assertGreaterEqual(job.score, 55)
+
     def test_parses_bundesagentur_ssr_search_state(self):
         html = '''<html><script id="ng-state" type="application/json">{
           "suchergebnis": {"ergebnisliste": [{"referenznummer": "SSR-1"}]}
@@ -77,6 +93,33 @@ class SourceTests(unittest.TestCase):
 
         jobs = fetch_all(fetch_json=fake_fetch, min_score=60)
         self.assertEqual({job.title for job in jobs}, {"Werkstudent Software Engineer", "Werkstudent Informatik", "Junior Data Analyst"})
+
+    def test_fetch_all_searches_and_keeps_general_part_time_jobs(self):
+        requested = []
+
+        def fake_fetch(url):
+            requested.append(url)
+            if "arbeitnow" in url:
+                return {"data": []}
+            if "remotive" in url:
+                return {"jobs": []}
+            if "minijob" in url:
+                return {"stellenangebote": [{
+                    "stellenangebotsTitel": "Minijob Lagerhelfer",
+                    "firma": "Warehouse GmbH",
+                    "referenznummer": "MINI-1",
+                    "stellenlokationen": [{"adresse": {
+                        "ort": "Hamburg", "land": "DEUTSCHLAND"
+                    }}],
+                    "hauptberuf": "Helfer/in - Lagerwirtschaft",
+                }]}
+            return {"stellenangebote": []}
+
+        jobs = fetch_all(fetch_json=fake_fetch, min_score=55)
+        self.assertEqual([job.category for job in jobs], ["part-time"])
+        self.assertTrue(any("minijob" in url for url in requested))
+        self.assertTrue(any("aushilfe+lager" in url for url in requested))
+        self.assertTrue(any("aushilfe+gastronomie" in url for url in requested))
 
     def test_fetch_all_continues_when_bundesagentur_is_unavailable(self):
         def fake_fetch(url):

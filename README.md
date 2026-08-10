@@ -1,12 +1,12 @@
-# Germany CS Jobs Agent
+# Germany Student Jobs Agent
 
-A dependency-free Python agent that searches for **Werkstudent** and **entry-level tech roles in Germany**, ranks them for a computer-science student, removes duplicates, publishes a live dashboard, and sends Telegram updates when new matches appear.
+A dependency-free Python agent that searches Germany for both **computer-science opportunities** and **general part-time/minijob work**, removes duplicates, publishes a switchable live dashboard, and sends dependable daily Telegram updates.
 
 ## Live dashboard
 
 **https://ot-coder.github.io/germany-cs-jobs-agent/**
 
-The dashboard refreshes automatically from public internet job sources every day at **08:00 Europe/Berlin**. Saved, applied, and dismissed states stay private in your browser's local storage; they are not committed to GitHub.
+The dashboard refreshes automatically from public internet job sources every day at approximately **08:00 Europe/Berlin**. Use its category switch to move between **CS & Tech** and **Part-time & Minijob** listings. Saved, applied, and dismissed states stay private in your browser's local storage; they are not committed to GitHub.
 
 ## What it does
 
@@ -14,12 +14,13 @@ The dashboard refreshes automatically from public internet job sources every day
   - Bundesagentur für Arbeit Jobsuche
   - Arbeitnow
   - Remotive (remote roles)
-- Uses Germany-focused searches including `werkstudent informatik`, `werkstudent software`, `junior softwareentwickler`, and `berufseinsteiger informatik`.
-- Rejects senior and non-technical roles.
-- Scores matches by student fit, CS relevance, German location, and English-language wording.
+- Uses Germany-focused technical searches plus general queries such as `minijob`, `teilzeit`, `studentenjob`, `aushilfe lager`, and `aushilfe gastronomie`.
+- Separates technical roles from nontechnical part-time work such as warehouse, restaurant, retail, delivery, and similar jobs whenever the title signals part-time, minijob, student job, or temporary-help work.
+- Rejects senior roles and unrelated full-time nontechnical roles.
+- Scores matches by student fit, category relevance, German location, and English-language wording.
 - Deduplicates jobs across sources.
 - Publishes `docs/index.html` and `docs/jobs.json` to GitHub Pages.
-- Sends a Telegram digest only when newly discovered jobs exist.
+- Sends new matches through Telegram and a daily completion heartbeat when no new jobs are found.
 
 ## Cloud automation
 
@@ -29,7 +30,7 @@ The dashboard refreshes automatically from public internet job sources every day
 2. Runs the behavior tests.
 3. Fetches current jobs from the internet.
 4. Compares them with the previously published dataset.
-5. Sends a Telegram message if new jobs were found.
+5. Sends a Telegram digest for new jobs or a completion heartbeat when there are none.
 6. Commits refreshed data and deploys GitHub Pages.
 
 Telegram delivery uses encrypted GitHub Actions secrets:
@@ -77,5 +78,5 @@ tests/                   behavior tests
 
 - Job availability changes continuously; always verify each posting on its source page.
 - The agent uses public endpoints and identifies itself with a user-agent. Request volume is deliberately modest.
-- Scoring is intentionally strict: titles must indicate both junior/student level and technical relevance, reducing marketing, legal, and operations false positives.
+- CS scoring remains strict, while the separate general category requires a part-time, minijob, Werkstudent, student-job, or temporary-help signal.
 - The public repository contains job listings only—not Telegram credentials or personal application statuses.

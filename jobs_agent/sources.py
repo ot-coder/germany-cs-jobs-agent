@@ -8,7 +8,7 @@ from typing import Callable
 from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
 
-from .core import Job, classify_role, plain_text, score_job, stable_job_id
+from .core import Job, classify_category, classify_role, plain_text, score_job, stable_job_id
 
 
 def normalize_arbeitnow(raw: dict) -> Job:
@@ -30,6 +30,7 @@ def normalize_arbeitnow(raw: dict) -> Job:
         description=description,
         source="arbeitnow",
         role_type=role_type,
+        category=classify_category(title, role_type, description),
         remote=bool(raw.get("remote", False)),
         published_at=published_at,
     )
@@ -59,6 +60,7 @@ def normalize_ba(raw: dict) -> Job:
         location=location or "Deutschland",
         url=f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{reference}",
         description=description, source="bundesagentur", role_type=role_type,
+        category=classify_category(title, role_type, description),
         published_at=str(
             raw.get("aktuelleVeroeffentlichungsdatum")
             or raw.get("datumErsteVeroeffentlichung")
@@ -78,7 +80,8 @@ def normalize_remotive(raw: dict) -> Job:
     job = Job(
         id=stable_job_id(company, title, location), title=title, company=company,
         location=location, url=str(raw.get("url", "")), description=description,
-        source="remotive", role_type=role_type, remote=True,
+        source="remotive", role_type=role_type,
+        category=classify_category(title, role_type, description), remote=True,
         published_at=str(raw.get("publication_date", "")),
     )
     job.score, job.reasons = score_job(job)
@@ -155,7 +158,19 @@ def fetch_all(fetch_json: Callable[[str], dict] = _fetch_json, min_score: int = 
     if remotive is not None:
         candidates.extend(normalize_remotive(item) for item in remotive.get("jobs", []))
 
-    for query in ("werkstudent informatik", "werkstudent software", "junior softwareentwickler", "berufseinsteiger informatik"):
+    queries = (
+        "werkstudent informatik",
+        "werkstudent software",
+        "junior softwareentwickler",
+        "berufseinsteiger informatik",
+        "minijob",
+        "teilzeit",
+        "studentenjob",
+        "aushilfe lager",
+        "aushilfe gastronomie",
+        "aushilfe restaurant",
+    )
+    for query in queries:
         url = (
             "https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=1"
             f"&was={quote_plus(query)}&wo=Deutschland"
@@ -172,7 +187,7 @@ def fetch_all(fetch_json: Callable[[str], dict] = _fetch_json, min_score: int = 
 
     best: dict[str, Job] = {}
     for job in candidates:
-        if job.role_type == "other" or job.score < min_score:
+        if job.category == "other" or job.role_type == "other" or job.score < min_score:
             continue
         existing = best.get(job.id)
         if existing is None or job.score > existing.score:

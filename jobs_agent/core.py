@@ -9,12 +9,18 @@ import re
 SENIOR_TERMS = ("senior", "lead ", "principal", "staff ", "manager", "head of", "director")
 WERKSTUDENT_TERMS = ("werkstudent", "working student", "student assistant", "studentische hilfskraft")
 ENTRY_TERMS = ("junior", "entry level", "entry-level", "graduate", "trainee", "berufseinsteiger")
+MINIJOB_TERMS = ("minijob", "mini-job", "geringfügig", "556 euro", "520 euro")
+PART_TIME_TERMS = (
+    "teilzeit", "part time", "part-time", "aushilfe", "nebenjob", "studentenjob",
+    "student job", "temporary staff",
+)
 TECH_TERMS = (
     "software", "developer", "engineer", "data", "python", "java", "javascript",
     "typescript", "cloud", "devops", "security", "cyber", "machine learning", " ai ",
     "frontend", "backend", "full stack", "fullstack", "qa", "test automation",
     "computer science", "informatik", "information technology", "product analyst",
-    "business intelligence", "database", "systems administrator", "web development",
+    "business intelligence", "database", "systems administrator", "systemadministrator",
+    "it support", "it-support", "web development",
 )
 
 
@@ -28,6 +34,7 @@ class Job:
     description: str
     source: str
     role_type: str = "other"
+    category: str = "other"
     remote: bool = False
     published_at: str = ""
     score: int = 0
@@ -52,6 +59,19 @@ def classify_role(title: str, description: str = "") -> str:
         return "werkstudent"
     if any(term in title_text for term in ENTRY_TERMS):
         return "entry-level"
+    if any(term in title_text for term in MINIJOB_TERMS):
+        return "minijob"
+    if any(term in title_text for term in PART_TIME_TERMS):
+        return "part-time"
+    return "other"
+
+
+def classify_category(title: str, role_type: str, description: str = "") -> str:
+    title_text = f" {_normalized(title)} "
+    if any(term in title_text for term in TECH_TERMS):
+        return "cs" if role_type != "other" else "other"
+    if role_type in ("werkstudent", "minijob", "part-time"):
+        return "part-time"
     return "other"
 
 
@@ -70,6 +90,14 @@ def score_job(job: Job) -> tuple[int, list[str]]:
     elif role_type == "entry-level":
         score += 35
         reasons.append("Entry-level role")
+    elif role_type in ("minijob", "part-time"):
+        score += 45
+        reasons.append("Part-time/minijob role")
+
+    if job.category == "part-time":
+        score += 15
+        if "Part-time/minijob role" not in reasons:
+            reasons.append("Part-time/minijob role")
 
     if any(term in title_text for term in TECH_TERMS):
         score += 40

@@ -12,7 +12,7 @@ class PublishTests(unittest.TestCase):
         return Job(
             id=job_id, title=title, company="Acme", location="Berlin, Deutschland",
             url=f"https://example.test/{job_id}", description="Python",
-            source="fixture", role_type="werkstudent", score=90,
+            source="fixture", role_type="werkstudent", category="cs", score=90,
             reasons=["Werkstudent role", "Computer-science relevance"],
         )
 
@@ -31,7 +31,28 @@ class PublishTests(unittest.TestCase):
             html = (docs / "index.html").read_text()
             self.assertIn("jobs.json", html)
             self.assertIn("localStorage", html)
-            self.assertIn("Germany CS Jobs", html)
+            self.assertIn("Germany Student Jobs", html)
+
+    def test_dashboard_has_switch_for_cs_and_general_part_time_jobs(self):
+        with tempfile.TemporaryDirectory() as directory:
+            docs = Path(directory) / "docs"
+            cs_job = self.make_job("cs", "Werkstudent Backend")
+            part_time_job = Job(
+                id="general", title="Minijob Lagerhelfer", company="Warehouse GmbH",
+                location="Hamburg, Deutschland", url="https://example.test/general",
+                description="Flexible shifts", source="fixture", role_type="minijob",
+                category="part-time", score=70, reasons=["Part-time/minijob role"],
+            )
+            publish_jobs([cs_job, part_time_job], docs)
+
+            exported = json.loads((docs / "jobs.json").read_text())
+            self.assertEqual({job["category"] for job in exported}, {"cs", "part-time"})
+            html = (docs / "index.html").read_text()
+            self.assertIn('data-category="cs"', html)
+            self.assertIn('data-category="part-time"', html)
+            self.assertIn("CS & Tech", html)
+            self.assertIn("Part-time & Minijob", html)
+            self.assertIn("setCategory", html)
 
     def test_telegram_message_contains_new_roles_and_live_site(self):
         message = telegram_message(
@@ -41,6 +62,17 @@ class PublishTests(unittest.TestCase):
         self.assertIn("1 new suitable role", message)
         self.assertIn("Working Student Backend", message)
         self.assertIn("Open dashboard", message)
+
+    def test_telegram_message_labels_general_part_time_jobs(self):
+        job = Job(
+            id="general", title="Minijob Lagerhelfer", company="Warehouse GmbH",
+            location="Hamburg, Deutschland", url="https://example.test/general",
+            description="Flexible shifts", source="fixture", role_type="minijob",
+            category="part-time", score=70, reasons=["Part-time/minijob role"],
+        )
+        message = telegram_message([job], "https://example.test")
+        self.assertIn("Germany Student Jobs", message)
+        self.assertIn("Part-time & Minijob", message)
 
     def test_telegram_message_reports_daily_scan_without_new_jobs(self):
         message = telegram_message([], "https://example.test", total_jobs=42)
