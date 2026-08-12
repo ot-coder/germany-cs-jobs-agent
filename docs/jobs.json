@@ -231,6 +231,27 @@
     "first_seen_at": "2026-08-10T19:42:16.156508+00:00"
   },
   {
+    "id": "886221c01e35c50334ea",
+    "title": "Werkstudent/in Softwareentwicklung (m/w/d)",
+    "company": "WITT-Gasetechnik GmbH & Co KG",
+    "location": "Witten, Nordrhein Westfalen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207503618-S",
+    "description": "Softwareentwickler/in",
+    "source": "bundesagentur",
+    "role_type": "werkstudent",
+    "category": "cs",
+    "remote": false,
+    "published_at": "2026-08-11",
+    "score": 90,
+    "reasons": [
+      "Werkstudent role",
+      "Computer-science relevance",
+      "Student-friendly wording",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-12T07:26:41.929354+00:00"
+  },
+  {
     "id": "98c0b88e766132e48717",
     "title": "Werkstudent:in Softwareentwicklung (m/w/d)",
     "company": "Spaceteams GmbH",
@@ -250,26 +271,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-04T12:02:02.132662+00:00"
-  },
-  {
-    "id": "7190f275d0e71d022d79",
-    "title": "(Junior) Embedded Software-Entwickler C++ (m/w/d)",
-    "company": "FERCHAU GmbH Niederlassung Heilbronn",
-    "location": "Heilbronn, Neckar, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-292456_JB5218911-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "category": "cs",
-    "remote": false,
-    "published_at": "2026-08-11",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-11T07:10:23.275982+00:00"
   },
   {
     "id": "501ba9f2f779c1072a3f",
@@ -772,6 +773,26 @@
     "first_seen_at": "2026-08-04T12:02:06.880446+00:00"
   },
   {
+    "id": "f4e46634fb8f2711796b",
+    "title": "Junior-Softwareentwickler PHP / HTML (m/w/d)",
+    "company": "KBU-Logistik",
+    "location": "Bremen, Bremen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-263876-S",
+    "description": "Softwareentwickler/in",
+    "source": "bundesagentur",
+    "role_type": "entry-level",
+    "category": "cs",
+    "remote": false,
+    "published_at": "2026-07-03",
+    "score": 82,
+    "reasons": [
+      "Entry-level role",
+      "Computer-science relevance",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-12T07:26:46.744346+00:00"
+  },
+  {
     "id": "ef8a11e9894b6a938407",
     "title": "Aushilfe / Studentenjob in Teilzeit (m/w/d)",
     "company": "Kaufland Dienstleistung GmbH & Co. KG",
@@ -868,6 +889,25 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-10T19:50:28.493974+00:00"
+  },
+  {
+    "id": "466624490d6d8fe885ba",
+    "title": "Assistenz der Geschäftsführung (Minijob)",
+    "company": "Navilog GmbH",
+    "location": "Zwenkau, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207498593-S",
+    "description": "Helfer/in - Büro, Verwaltung",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-11",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-12T07:26:51.786641+00:00"
   },
   {
     "id": "1e9cac11170d4d15e979",
@@ -1041,25 +1081,6 @@
     "first_seen_at": "2026-08-11T07:10:30.087528+00:00"
   },
   {
-    "id": "3748b4151bdb41ab97d4",
-    "title": "Glasreiniger Teilzeit 04177 Leipzig (m/w/d)",
-    "company": "Wackler Group",
-    "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-d756cdde-c0a0-4ce5--S",
-    "description": "Glasreiniger/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-11",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-11T07:10:30.087585+00:00"
-  },
-  {
     "id": "2d7c326345a4fb0e76b6",
     "title": "Hausmeister (m/w/d) Minijob",
     "company": "Greenline - Alternative Energien GmbH",
@@ -1197,13 +1218,13 @@
     "title": "Küchenkraft (m/w/d) für Kitas und Schulen in Teilzeit",
     "company": "Menüpartner B.V. & Co.KG",
     "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18024-1002X000R3I06-S",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18024-1002X000R3I07-S",
     "description": "Helfer/in - Küche",
     "source": "bundesagentur",
     "role_type": "part-time",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-08-11",
+    "published_at": "2026-08-12",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
@@ -1229,6 +1250,25 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-10T19:50:26.481098+00:00"
+  },
+  {
+    "id": "bebdd6b09b17dff6a104",
+    "title": "Minijob / Aushilfe Garten (m/w/d)",
+    "company": "toom Baumarkt GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12608-1438849-14771-1-S",
+    "description": "Einzelhandelskaufmann/-frau",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-12",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-12T07:26:51.786388+00:00"
   },
   {
     "id": "26b313c4bb0a39600e9b",
@@ -1383,6 +1423,25 @@
     "first_seen_at": "2026-08-10T19:50:28.493781+00:00"
   },
   {
+    "id": "937abe4afc59a06b4e94",
+    "title": "Projektingenieur Infrastrukturplanung (m/w/d) - Vollzeit / Teilzeit",
+    "company": "VCDB VerkehrsConsult Dresden-Berlin GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12117-YF-49324-YF-S",
+    "description": "Projektingenieur/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-11",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-12T07:26:53.618537+00:00"
+  },
+  {
     "id": "bb15871b9d66470a1dd5",
     "title": "Reinigungskraft (m/w/d) auf Minijob-Basis in Leipzig",
     "company": "Wendl GmbH Konditorei u. Bäckerei",
@@ -1478,25 +1537,6 @@
     "first_seen_at": "2026-08-11T07:10:28.117883+00:00"
   },
   {
-    "id": "3ba95f3bc4049c1860aa",
-    "title": "Reinigungskraft Minijob Teilzeit Eilenburg (m/w/d)",
-    "company": "Wackler Group",
-    "location": "Eilenburg, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-0d10bc1c-f787-48da--S",
-    "description": "Gebäudereiniger/in",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-11",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-11T07:10:28.118314+00:00"
-  },
-  {
     "id": "ca611edb69d01ac337d6",
     "title": "Servicekraft für unsere Cafeteria - Minijob (m/w/d)",
     "company": "Concentus Servicegesellschaft GmbH im St. Elisabeth Krankenhaus Leipzig",
@@ -1533,6 +1573,44 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-10T19:50:26.480980+00:00"
+  },
+  {
+    "id": "ce8d412e1d2192773235",
+    "title": "Steuerfachangestellte, Fachwirte, Bibu Minijob/TZ Home office mit DATEV (m/w/d)",
+    "company": "Steuerberatung Nancy Bieber",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003527831-S",
+    "description": "Steuerfachangestellte/r",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-12",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-12T07:26:51.786789+00:00"
+  },
+  {
+    "id": "b1a4532c50ae61bb60ad",
+    "title": "Teamassistenz (m/w/d) in Teilzeit",
+    "company": "DIS AG FB Office & Management",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12633-a343b385_JB5219451-S",
+    "description": "Büroassistent/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-12",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-12T07:26:53.618166+00:00"
   },
   {
     "id": "8b02e2235608986c59c9",
