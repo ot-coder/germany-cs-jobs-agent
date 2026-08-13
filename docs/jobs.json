@@ -1,5 +1,26 @@
 [
   {
+    "id": "932596633250a9252104",
+    "title": "Forward Deployed Engineer – AI (w/m/d) in Voll- oder Teilzeit",
+    "company": "Crozdach",
+    "location": "München",
+    "url": "https://www.arbeitnow.com/jobs/companies/crozdach/forward-deployed-engineer-ai-in-voll-oder-teilzeit-munchen-207847",
+    "description": "Unser JobChat Als modernes Unternehmen verzichten wir auf Stino-Stellenanzeigen und möchten dich mit einem neuen Format für die CROZ DACH begeistern. Vielen Dank für dein Interesse an uns und viel Spaß beim Lesen des folgenden JobChats! Neulich in der Teamküche: Linda: “Und wie war’s beim Kundenmeeting letzte Woche?” Joachim: „Sehr gut und vor allem interessant. Bei den vielfältigen Anforderungen brauchen wir auf jeden Fall Unterstützung im AI-Bereich.“ Linda: „Ok. Also suchen wir noch jemanden für AI Consultant , richtig?“ Joachim: „Eigentlich suchen wir einen Forward Deployed Engineer - AI (w/m/d) . Diese Rolle ist besonders, weil wir eine BizTech-Beratung sind: Dieselben Leute, die das Geschäft des Kunden verstehen, bauen auch die Software. Du sitzt mit am Tisch, wenn das Problem definiert wird, und du bist auch die Person, die die Lösung baut, in Produktion bringt und die Verantwortung dafür übernimmt .\" Linda: „Verstehe. Es geht also darum, Deployments end-to-end zu verantworten und nicht nur 'Tickets abzuarbeiten' ?“ Joachim: „Genau. Gute Lösungen entstehen nur aus einem gemeinsamen Verständnis von Business und Technologie . Du verantwortest Deployments end-to-end, vom Discovery und Scoping über die Architektur bis hin zum Build und dem produktiven Rollout . Wir arbeiten mit dem deutschen Mittelstand (KMU) und Großunternehmen zusammen, oft in regulierten Umgebungen mit strenger Datensouveränität . Das bedeutet auch, dass für diese Rolle eine EU-Staatsangehörigkeit zwingend erforderlich ist, damit es uns erlaubt ist, AI-Systeme innerhalb der Realität von Legacy-Systemen und komplexen Prozessen zu bauen.“ Linda: „Das klingt herausfordernd. Welche technischen Skills suchen wir?“ Joachim: „Wir brauchen jemanden mit einem soliden Engineering-Hintergrund und 2+ Jahren Erfahrung in Software Engineering oder ML . Production-grade Python ist ein Muss, ebenso wie Erfahrung in der Auslieferung von Software mit LLM- oder ML-Komponenten , wie RAG-Systemen oder Agenten .“ Linda: „Und es geht nicht nur um Prototypen, oder?“ Joachim: „Definitiv. Prototypen sind der Startpunkt, nicht das Ziel. Wir bauen Systeme, die tatsächlich laufen, egal ob on-premises oder in der Cloud . Es geht darum, echten Mehrwert für unsere Kunden zu schaffen.“ Linda: „Was ist mit den 'Soft Skills'?“ Joachim: „Du solltest echte Freude am direkten Kundenkontakt haben und in unklaren Situationen die Ruhe bewahren . Es gibt selten ein fertiges Ticket. Du strukturierst die Unklarheit selbst. Und da unsere Kunden in der gesamten DACH-Region ansässig sind, gehört eine Reisebereitschaft (ca. 25 %) zum Job dazu.“ Linda: „Und die üblichen Voraussetzungen? Abschlüsse, Sprachen?“ Joachim: „Ein Abschluss in Informatik oder Ähnlichem ist gut, aber uns ist die Fähigkeit, neue Technologien schnell zu erlernen, wichtiger. Fließendes Deutsch und Englisch auf C1-Level sind zwingend erforderlich für die Kommunikation mit unseren Kunden und unserem Hauptsitz in Zagreb. Kroatisch wäre das Sahnehäubchen.“ Linda: „Was kann jemand neues bei uns in Bezug auf Gehalt und Benefits erwarten?“ Joachim: „Für eine Senior-Position zahlen wir bis zu 90.000 € . Dazu kommen Benefits wie die betriebliche Altersvorsorge (bAV) , Kindergartenzuschuss und flexible Arbeitszeiten .“ Linda: „Wie sieht der Bewerbungsprozess aus?“ Joachim: „Zuerst ein Gespräch mit Peter und mir. Dann folgt eine Case Study , bei der wir den Kunden spielen und gemeinsam ein realistisches Problem bearbeiten. Es geht nicht um einen 'Richtig oder Falsch'-Test, sondern um gemeinsames Problemlösen und darum, ob die Chemie zwischen uns stimmt . Zum Schluss gibt es ein Treffen mit dem Team und den KollegInnen in Zagreb , um den CROZ-Spirit zu spüren.“ Linda: „Klingt nach einem Plan. Suchen wir jemanden, der zu unserer Persönlichkeit und unserem Teamspirit passt!“ Find more English Speaking Jobs in Germany on Arbeitnow",
+    "source": "arbeitnow",
+    "role_type": "part-time",
+    "category": "cs",
+    "remote": false,
+    "published_at": "2026-08-12T20:09:38+00:00",
+    "score": 95,
+    "reasons": [
+      "Part-time/minijob role",
+      "Computer-science relevance",
+      "Located in Germany",
+      "English mentioned"
+    ],
+    "first_seen_at": "2026-08-13T07:36:28.208403+00:00"
+  },
+  {
     "id": "95dd742fe93ec0eb063a",
     "title": "Werkstudent (m/w/d) Engineering & Arbeitsvorbereitung",
     "company": "HEICO Holding GmbH",
@@ -19,27 +40,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-04T12:02:02.132692+00:00"
-  },
-  {
-    "id": "d7436294fbfaa104c584",
-    "title": "Werkstudent (m/w/d) Software Developer - Next Gen InsurTech, CHECK24 Versicherungen Gesundheit",
-    "company": "CHECK24 - InsurTech",
-    "location": "Hamburg, Hamburg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2311486-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "cs",
-    "remote": false,
-    "published_at": "2026-08-11",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-04T12:02:04.268508+00:00"
   },
   {
     "id": "248a647b7650d12bde22",
@@ -84,17 +84,17 @@
     "first_seen_at": "2026-08-10T19:42:18.382205+00:00"
   },
   {
-    "id": "0a61fc2fe91c0ef58410",
-    "title": "Werkstudent * im Bereich Business Software, Vakanz - Heek",
-    "company": "2G Energy AG",
-    "location": "Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2295376-S",
+    "id": "990f2023dc84c4508118",
+    "title": "Werkstudent (w/m/d) - Software Development",
+    "company": "Wanzl GmbH & Co. KGaA",
+    "location": "Leipheim, Bayern, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-67706b76_JB5219789-S",
     "description": "Softwareentwickler/in",
     "source": "bundesagentur",
     "role_type": "werkstudent",
     "category": "cs",
     "remote": false,
-    "published_at": "2026-07-13",
+    "published_at": "2026-08-12",
     "score": 90,
     "reasons": [
       "Werkstudent role",
@@ -102,7 +102,7 @@
       "Student-friendly wording",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-07-31T15:47:32.220805+00:00"
+    "first_seen_at": "2026-08-13T07:36:32.047583+00:00"
   },
   {
     "id": "aa298ec4d65e74737392",
@@ -187,27 +187,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-07-31T15:47:32.023861+00:00"
-  },
-  {
-    "id": "cf79d5f8d28a4df17a35",
-    "title": "Werkstudent – ADAS Software & Testing Support (m/w/d), Vinfast Germany GmbH",
-    "company": "Vinfast Germany GmbH",
-    "location": "Frankfurt Am Main, Hessen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2256582-S",
-    "description": "ADAS/AD Engineer",
-    "source": "bundesagentur",
-    "role_type": "werkstudent",
-    "category": "cs",
-    "remote": false,
-    "published_at": "2026-05-13",
-    "score": 90,
-    "reasons": [
-      "Werkstudent role",
-      "Computer-science relevance",
-      "Student-friendly wording",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-07-31T15:47:32.222301+00:00"
   },
   {
     "id": "5e9f7d69708f55f1a9ee",
@@ -753,26 +732,6 @@
     "first_seen_at": "2026-08-04T12:02:06.880414+00:00"
   },
   {
-    "id": "781de741b496f42d76ba",
-    "title": "Junior-Softwareentwickler C# m/w/d",
-    "company": "Winkhardt + Spinder GmbH & Co. KG",
-    "location": "Stuttgart, Baden Wuerttemberg, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003442946-S",
-    "description": "Softwareentwickler/in",
-    "source": "bundesagentur",
-    "role_type": "entry-level",
-    "category": "cs",
-    "remote": false,
-    "published_at": "2026-07-24",
-    "score": 82,
-    "reasons": [
-      "Entry-level role",
-      "Computer-science relevance",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-04T12:02:06.880446+00:00"
-  },
-  {
     "id": "f4e46634fb8f2711796b",
     "title": "Junior-Softwareentwickler PHP / HTML (m/w/d)",
     "company": "KBU-Logistik",
@@ -791,6 +750,46 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-12T07:26:46.744346+00:00"
+  },
+  {
+    "id": "c9b4d0e38f0039223395",
+    "title": "Softwareentwickler:in Java/C# - Junior (m/w/d)",
+    "company": "ABOSCO GmbH",
+    "location": "Bötzingen, Baden Wuerttemberg, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1205526881-S",
+    "description": "Informatiker/in",
+    "source": "bundesagentur",
+    "role_type": "entry-level",
+    "category": "cs",
+    "remote": false,
+    "published_at": "2026-02-17",
+    "score": 82,
+    "reasons": [
+      "Entry-level role",
+      "Computer-science relevance",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-13T07:36:34.339663+00:00"
+  },
+  {
+    "id": "13a85d6b1e9d97c1831a",
+    "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+    "company": "1Komma5Grad",
+    "location": "Remote",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-472883",
+    "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – in real time, fully automated. This way, energy is used when it is available from renewables and particularly cost-effective. By 2030, our goal is to transition 1.5 million households to renewable energies. Over 3,000 people are working towards this every day, at more than 80 locations worldwide, from Finland to Australia. Want to take responsibility and build solutions that truly matter? Apply now and help us shape the energy world of tomorrow. Become a part of our mission and learn more about our Product &amp; Tech team! Deine Position The data platform team designs and builds the foundation of how data flows through our company. Together with your team, you will forge new ways to ingest, process, store and deliver data both at scale and complexity. We focus on building tools that enable our internal customers to find, access and investigate data for any of their use cases. Key responsibilities include but are not limited to: Architect, develop, and manage the data platform to support efficient data ingestion, transformation, quality assurance, monitoring, and accessibility Collaborate closely with cross-functional teams to understand data needs Technologies you will work with include: Google Cloud Platform (CloudRun, BigQuery, Pub/Sub, Dataform, etc.) SQLMesh Terraform / Terramate GitHub Actions Python and SQL Looker Dein Profil Proven experience (2+ years) in a data engineering role, preferably within a fast-paced tech company or similar environment Strong understanding of data concepts at scale ranging from data ingestion, transformation and modeling Strong understanding of software engineering best practices and their application to data pipelines Experience with data governance, especially around implementing and managing data catalogs, IAM, ensuring metadata management and efficient data discovery Experience with Python, SQL, and HCL (terraform) Extensive experience working with a public cloud provider, ideally Google Cloud Platform (GCP), and a solid understanding of its data services Experience with BI tools and how to integrate these with a modern data setup Strong customer-centric mindset with a deep understanding of the importance of product thinking when enabling software delivery teams to build data-driven solutions Very good knowledge of spoken and written english, german is a plus Bonus points for: Prior experience with IoT applications and streaming data processing (e.g. GCP Dataflow, Apache Beam, Apache Flink, etc.) Having worked in a scale up environment at a company of similar size Interest in the climate tech industry Be part of a dynamic team dedicated to reshaping the energy landscape. If you're passionate about leveraging data to drive innovation in renewable energy solutions, join us in our quest to make a sustainable difference. Benefits You are part of an international, dynamic, and highly motivated team of people who have proven to make things happen With your work, you accelerate the \"energy transition\" and hence have a direct impact on our climate Work with and learn from other super-smart colleagues You will enjoy direct contact with core decision-makers You will enjoy the best chances of entering full-time in one of Europe’s most thriving scaleups You work remotely (Germany-wide), with offices in Hamburg, Berlin, or Munich Create a healthy balance alongside your work and enjoy all the benefits of the EGYM Wellpass Benefits and discounts are yours with Futurebens Whether city bike or e-bike - be flexible with our job bike leasing and do something good for the environment at the same time Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+    "source": "arbeitnow",
+    "role_type": "entry-level",
+    "category": "cs",
+    "remote": false,
+    "published_at": "2026-08-13T03:09:29+00:00",
+    "score": 78,
+    "reasons": [
+      "Entry-level role",
+      "Computer-science relevance",
+      "English mentioned"
+    ],
+    "first_seen_at": "2026-08-13T07:36:28.224105+00:00"
   },
   {
     "id": "ef8a11e9894b6a938407",
@@ -929,25 +928,6 @@
     "first_seen_at": "2026-08-11T07:10:28.117750+00:00"
   },
   {
-    "id": "5de96fd1a2d56a44439a",
-    "title": "Aushilfe im Lager - ideal für Rentner (m/w/d) (Mini- / Midijob), Leipzig Logistikstandort",
-    "company": "Neumann&Müller Veranstaltungstechnik",
-    "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2295693-S",
-    "description": "Lager- und Transportarbeiter/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-13",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:50:32.931370+00:00"
-  },
-  {
     "id": "87f00dd33b040bf0ff2d",
     "title": "Aushilfe im Verkauf Minijob (m/w/d)",
     "company": "Lidl Dienstleistung GmbH & Co. KG",
@@ -965,25 +945,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-10T19:50:32.931436+00:00"
-  },
-  {
-    "id": "fe014effd28e7aef748a",
-    "title": "Aushilfe im Verkauf Minijob (m/w/d)",
-    "company": "Lidl Dienstleistung GmbH & Co. KG",
-    "location": "Zwenkau, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-6136a56ea6349b64-S",
-    "description": "Helfer/in - Verkauf",
-    "source": "bundesagentur",
-    "role_type": "minijob",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-05-12",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:50:32.931462+00:00"
   },
   {
     "id": "879738132e735ec73b46",
@@ -1024,25 +985,6 @@
     "first_seen_at": "2026-08-10T19:50:26.481150+00:00"
   },
   {
-    "id": "5d020191188920d07995",
-    "title": "Gesundheits- und Krankenpflegehelfer (m/w/d) Teilzeit",
-    "company": "PERSO PLANKONTOR GmbH",
-    "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-T80TRYJQGPVVYUP0-S",
-    "description": "Gesundheits- und Krankenpflegehelfer/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-07-28",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-10T19:50:28.494160+00:00"
-  },
-  {
     "id": "e85758e59a990c702b35",
     "title": "Gesundheits- und Krankenpfleger (m/w/d) Teilzeit",
     "company": "PERSO PLANKONTOR GmbH",
@@ -1062,25 +1004,6 @@
     "first_seen_at": "2026-08-10T19:50:28.494108+00:00"
   },
   {
-    "id": "8b42ff66df5d7cfa7d5d",
-    "title": "GISA GmbH: Assistenz in Teilzeit (m/w/d)*",
-    "company": "GISA GmbH",
-    "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3046361786399200-S",
-    "description": "Assistent/in - Informatik (Wirtschaftsinformatik)",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-11",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-11T07:10:30.087528+00:00"
-  },
-  {
     "id": "2d7c326345a4fb0e76b6",
     "title": "Hausmeister (m/w/d) Minijob",
     "company": "Greenline - Alternative Energien GmbH",
@@ -1098,6 +1021,25 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-10T19:50:26.481176+00:00"
+  },
+  {
+    "id": "f84151efb1aea97d851d",
+    "title": "Hausmeister Minijob (m/w/d)",
+    "company": "KfH Kuratorium für Dialyse und Nierentransplantation e.V.",
+    "location": "Markkleeberg, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003535255-S",
+    "description": "Gebäudereiniger/in",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-13",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-13T07:36:38.377194+00:00"
   },
   {
     "id": "ba06379a709c1b697a5c",
@@ -1155,6 +1097,25 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-10T19:50:28.493951+00:00"
+  },
+  {
+    "id": "e5716d673b200ac8682b",
+    "title": "Kaufmännischer Mitarbeiter (m/w/d) in Teilzeit",
+    "company": "Proell GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003535221-S",
+    "description": "Bürokaufmann/-frau",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-13",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-13T07:36:40.141706+00:00"
   },
   {
     "id": "62c9a42cfc85ed745896",
@@ -1218,13 +1179,13 @@
     "title": "Küchenkraft (m/w/d) für Kitas und Schulen in Teilzeit",
     "company": "Menüpartner B.V. & Co.KG",
     "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18024-1002X000R3I07-S",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18024-1002X000R3I08-S",
     "description": "Helfer/in - Küche",
     "source": "bundesagentur",
     "role_type": "part-time",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-08-12",
+    "published_at": "2026-08-13",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
@@ -1309,6 +1270,25 @@
     "first_seen_at": "2026-08-10T19:50:26.480814+00:00"
   },
   {
+    "id": "fc5a28191873e0ad16b0",
+    "title": "Minijob im Verkauf",
+    "company": "Dirk Rossmann GmbH",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1617644-1-S",
+    "description": "Verkäufer/in",
+    "source": "bundesagentur",
+    "role_type": "minijob",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-12",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-13T07:36:38.377163+00:00"
+  },
+  {
     "id": "9873706a1e5d5c7fa8bd",
     "title": "Minijob Pflegefachkraft (m/w/d)",
     "company": "TRUECARE GmbH NL Leipzig",
@@ -1383,6 +1363,25 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-10T19:50:26.481039+00:00"
+  },
+  {
+    "id": "7494d8847ba5dd226d34",
+    "title": "Mitarbeiter Leergut in Teilzeit - befristet (m/w/d)",
+    "company": "Kaufland Dienstleistung GmbH & Co. KG",
+    "location": "Leipzig, Sachsen, Deutschland",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-e38ac0c61c80cf84-S",
+    "description": "Lager- und Transportarbeiter/in",
+    "source": "bundesagentur",
+    "role_type": "part-time",
+    "category": "part-time",
+    "remote": false,
+    "published_at": "2026-08-13",
+    "score": 67,
+    "reasons": [
+      "Part-time/minijob role",
+      "Located in Germany"
+    ],
+    "first_seen_at": "2026-08-13T07:36:40.141963+00:00"
   },
   {
     "id": "94cb785cbd9eed5d5aa8",
@@ -1537,23 +1536,23 @@
     "first_seen_at": "2026-08-11T07:10:28.117883+00:00"
   },
   {
-    "id": "ca611edb69d01ac337d6",
-    "title": "Servicekraft für unsere Cafeteria - Minijob (m/w/d)",
-    "company": "Concentus Servicegesellschaft GmbH im St. Elisabeth Krankenhaus Leipzig",
+    "id": "a2ada5047ecb4da71ae8",
+    "title": "Reinigungskraft Teilzeit Universität Leipzig (m/w/d)",
+    "company": "Wackler Holding SE",
     "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-138350-S",
-    "description": "Helfer/in - Küche",
+    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13191-0066709193-S",
+    "description": "Gebäudereiniger/in",
     "source": "bundesagentur",
-    "role_type": "minijob",
+    "role_type": "part-time",
     "category": "part-time",
     "remote": false,
-    "published_at": "2026-07-29",
+    "published_at": "2026-08-13",
     "score": 67,
     "reasons": [
       "Part-time/minijob role",
       "Located in Germany"
     ],
-    "first_seen_at": "2026-08-10T19:50:26.481340+00:00"
+    "first_seen_at": "2026-08-13T07:36:40.142026+00:00"
   },
   {
     "id": "6e9551b6f3b65ecd0c15",
@@ -1611,25 +1610,6 @@
       "Located in Germany"
     ],
     "first_seen_at": "2026-08-12T07:26:53.618166+00:00"
-  },
-  {
-    "id": "8b02e2235608986c59c9",
-    "title": "Teilzeit Reinigungskraft Wechselschicht Zoo Leipzig (m/w/d)",
-    "company": "Wackler Group",
-    "location": "Leipzig, Sachsen, Deutschland",
-    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-c0e25b4a-f085-44fc--S",
-    "description": "Gebäudereiniger/in",
-    "source": "bundesagentur",
-    "role_type": "part-time",
-    "category": "part-time",
-    "remote": false,
-    "published_at": "2026-08-11",
-    "score": 67,
-    "reasons": [
-      "Part-time/minijob role",
-      "Located in Germany"
-    ],
-    "first_seen_at": "2026-08-11T07:10:30.087440+00:00"
   },
   {
     "id": "d49a4e6d5c52685786bc",
