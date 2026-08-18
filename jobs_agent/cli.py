@@ -5,9 +5,8 @@ import os
 from pathlib import Path
 from typing import Callable
 
-from .core import Job
 from .publish import publish_jobs, telegram_message
-from .sources import fetch_all
+from .sources import FetchResult, fetch_all
 from .store import JobStore
 from .web import render_digest, serve
 
@@ -16,21 +15,22 @@ def default_db_path() -> Path:
     return Path(os.environ.get("JOBS_AGENT_DB", Path.cwd() / "data" / "jobs.db"))
 
 
-def run_fetch(store: JobStore, fetcher: Callable[[], list[Job]] = fetch_all) -> tuple[int, str]:
-    jobs = fetcher()
-    new_count = store.upsert(jobs)
+def run_fetch(store: JobStore, fetcher: Callable[[], FetchResult] = fetch_all) -> tuple[int, str]:
+    result = fetcher()
+    new_count = store.upsert(result.jobs)
     return new_count, render_digest(store.list_jobs(limit=10), new_count)
 
 
 def run_publish(
-    fetcher: Callable[[], list[Job]], docs_dir: Path, message_path: Path, site_url: str
+    fetcher: Callable[[], FetchResult], docs_dir: Path, message_path: Path, site_url: str
 ) -> int:
-    jobs = fetcher()
-    new_jobs = publish_jobs(jobs, docs_dir)
+    result = fetcher()
+    new_jobs = publish_jobs(result.jobs, docs_dir)
     message_path.parent.mkdir(parents=True, exist_ok=True)
-    message_path.write_text(
-        telegram_message(new_jobs, site_url, total_jobs=len(jobs)), encoding="utf-8"
+    message = telegram_message(
+        new_jobs, result.evaluated, result.duplicates_removed, result.passed_threshold, site_url,
     )
+    message_path.write_text(message, encoding="utf-8")
     return len(new_jobs)
 
 

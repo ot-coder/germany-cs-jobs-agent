@@ -35,7 +35,7 @@ def render_dashboard(jobs: list[dict]) -> str:
         <article class="card"><div class="row"><div>
           <a class="title" href="{escape(job['url'], quote=True)}" target="_blank" rel="noreferrer">{escape(job['title'])}</a>
           <div class="company">{escape(job['company'])}</div></div><div class="score">{job['score']}</div></div>
-          <p class="meta">{escape(job['location'])} · {escape(job['role_type'])} · {escape(job['source'])} · {escape(job['status'])}</p>
+          <p class="meta">{escape(job['location'])} · {escape(job['role_family'])} · {escape(job['source'])} · {escape(job['status'])}</p>
           <p class="reasons">{reasons}</p><div class="actions">{actions}<a class="button" href="{escape(job['url'], quote=True)}" target="_blank">Apply ↗</a></div>
         </article>""")
     content = "".join(cards) or '<div class="empty">No suitable jobs yet. Click “Search now” to collect roles.</div>'
@@ -54,7 +54,7 @@ def render_digest(jobs: list[dict], new_count: int, limit: int = 10) -> str:
         return "\n".join(lines + ["No suitable Werkstudent or entry-level tech roles are currently stored."])
     for index, job in enumerate(jobs[:limit], 1):
         lines.append(f"{index}. **[{job['title']}]({job['url']})** — {job['company']}")
-        lines.append(f"   {job['location']} · {job['role_type']} · **{job['score']}/100** · {', '.join(job['reasons'])}")
+        lines.append(f"   {job['location']} · {job['role_family']} · **{job['score']}/100** · {', '.join(job['reasons'])}")
     lines.extend(["", "Open the local dashboard with: `python3 -m jobs_agent serve`"]) 
     return "\n".join(lines)
 
@@ -82,7 +82,7 @@ def serve(store_path: str | Path, host: str = "127.0.0.1", port: int = 8787) -> 
         def do_POST(self) -> None:
             path = urlparse(self.path).path
             if path == "/refresh":
-                store.upsert(fetch_all())
+                store.upsert(fetch_all().jobs)
                 self._redirect()
                 return
             parts = path.strip("/").split("/")

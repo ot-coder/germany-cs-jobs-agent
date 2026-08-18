@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 import json
@@ -8,38 +9,7 @@ from typing import Callable
 from urllib.parse import quote_plus
 from urllib.request import Request, urlopen
 
-from .core import Job, classify_category, classify_role, plain_text, score_job, stable_job_id
-
-
-LEIPZIG_AREA_TOWNS = frozenset({
-    "leipzig",
-    "markkleeberg",
-    "schkeuditz",
-    "taucha",
-    "markranstädt",
-    "zwenkau",
-    "böhlen",
-    "rötha",
-    "großpösna",
-    "rackwitz",
-    "borsdorf",
-    "brandis",
-    "machern",
-    "naunhof",
-    "krostitz",
-    "delitzsch",
-    "eilenburg",
-    "borna",
-    "grimma",
-    "wurzen",
-    "neukieritzsch",
-    "pegau",
-})
-
-
-def is_leipzig_area(location: str) -> bool:
-    city = location.split(",", 1)[0].strip().casefold()
-    return city in LEIPZIG_AREA_TOWNS
+from .core import Job, plain_text, score_job, stable_job_id
 
 
 def normalize_arbeitnow(raw: dict) -> Job:
@@ -47,7 +17,6 @@ def normalize_arbeitnow(raw: dict) -> Job:
     company = str(raw.get("company_name", "Unknown")).strip()
     location = str(raw.get("location", "Germany")).strip() or "Germany"
     description = plain_text(str(raw.get("description", "")))
-    role_type = classify_role(title, description)
     created = raw.get("created_at")
     published_at = ""
     if isinstance(created, (int, float)):
@@ -60,8 +29,6 @@ def normalize_arbeitnow(raw: dict) -> Job:
         url=str(raw.get("url", "")),
         description=description,
         source="arbeitnow",
-        role_type=role_type,
-        category=classify_category(title, role_type, description),
         remote=bool(raw.get("remote", False)),
         published_at=published_at,
     )
@@ -85,13 +52,11 @@ def normalize_ba(raw: dict) -> Job:
     )
     description = plain_text(str(raw.get("beruf") or raw.get("hauptberuf") or ""))
     reference = str(raw.get("refnr") or raw.get("referenznummer") or "").strip()
-    role_type = classify_role(title, description)
     job = Job(
         id=stable_job_id(company, title, location), title=title, company=company,
         location=location or "Deutschland",
         url=f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{reference}",
-        description=description, source="bundesagentur", role_type=role_type,
-        category=classify_category(title, role_type, description),
+        description=description, source="bundesagentur",
         published_at=str(
             raw.get("aktuelleVeroeffentlichungsdatum")
             or raw.get("datumErsteVeroeffentlichung")
@@ -107,12 +72,10 @@ def normalize_remotive(raw: dict) -> Job:
     company = str(raw.get("company_name", "Unknown")).strip()
     location = str(raw.get("candidate_required_location", "Remote")).strip() or "Remote"
     description = plain_text(str(raw.get("description", "")))
-    role_type = classify_role(title, description)
     job = Job(
         id=stable_job_id(company, title, location), title=title, company=company,
         location=location, url=str(raw.get("url", "")), description=description,
-        source="remotive", role_type=role_type,
-        category=classify_category(title, role_type, description), remote=True,
+        source="remotive", remote=True,
         published_at=str(raw.get("publication_date", "")),
     )
     job.score, job.reasons = score_job(job)
@@ -166,7 +129,57 @@ def _fetch_json(url: str) -> dict:
         return json.load(response)
 
 
-def fetch_all(fetch_json: Callable[[str], dict] = _fetch_json, min_score: int = 55) -> list[Job]:
+# Curated Bundesagentur für Arbeit search terms covering every target role
+# family (see docs/JOB_SEARCH_STRATEGY.md). Deliberately not exhaustive: each
+# entry is one HTTP request per daily run, so the list stays hand-picked
+# rather than combinatorially generated.
+BA_QUERIES: tuple[str, ...] = (
+    # CORE_TECH
+    "werkstudent informatik",
+    "werkstudent software",
+    "werkstudent softwareentwicklung",
+    "werkstudent data",
+    "werkstudent machine learning",
+    "werkstudent IT",
+    "junior softwareentwickler",
+    "junior developer",
+    "graduate software engineer",
+    "junior data analyst",
+    "junior data engineer",
+    "junior devops",
+    "junior cybersecurity",
+    # PRODUCT_PROJECT
+    "werkstudent projektmanagement",
+    "junior projektmanager",
+    "product management intern",
+    "junior product manager",
+    "projektkoordinator IT",
+    "PMO werkstudent",
+    # BUSINESS_TECH
+    "werkstudent business analyst",
+    "junior business analyst",
+    "IT consultant berufseinsteiger",
+    # ENTERPRISE_IT
+    "werkstudent IT service management",
+    "junior application manager",
+    "application support junior",
+    "junior system analyst",
+    "implementation consultant junior",
+)
+
+
+@dataclass(slots=True)
+class FetchResult:
+    """Stats travel alongside the passing job list so publish.py can build an
+    explainable Telegram summary without re-fetching or re-scoring."""
+
+    jobs: list[Job] = field(default_factory=list)
+    evaluated: int = 0
+    duplicates_removed: int = 0
+    passed_threshold: int = 0
+
+
+def fetch_all(fetch_json: Callable[[str], dict] = _fetch_json, min_score: int = 65) -> FetchResult:
     candidates: list[Job] = []
     successful_requests = 0
     failures: list[str] = []
@@ -189,28 +202,10 @@ def fetch_all(fetch_json: Callable[[str], dict] = _fetch_json, min_score: int = 
     if remotive is not None:
         candidates.extend(normalize_remotive(item) for item in remotive.get("jobs", []))
 
-    technical_queries = (
-        "werkstudent informatik",
-        "werkstudent software",
-        "junior softwareentwickler",
-        "berufseinsteiger informatik",
-    )
-    general_queries = (
-        "minijob",
-        "teilzeit",
-        "studentenjob",
-        "aushilfe lager",
-        "aushilfe gastronomie",
-        "aushilfe restaurant",
-    )
-    for query in technical_queries + general_queries:
-        if query in general_queries:
-            location_query = "wo=Leipzig&umkreis=35"
-        else:
-            location_query = "wo=Deutschland"
+    for query in BA_QUERIES:
         url = (
             "https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=1"
-            f"&was={quote_plus(query)}&{location_query}"
+            f"&was={quote_plus(query)}&wo=Deutschland"
         )
         result = load("bundesagentur", url)
         if result is None:
@@ -222,13 +217,20 @@ def fetch_all(fetch_json: Callable[[str], dict] = _fetch_json, min_score: int = 
     if successful_requests == 0:
         raise RuntimeError("All job sources failed; refusing to publish an empty dashboard")
 
+    evaluated = len(candidates)
     best: dict[str, Job] = {}
     for job in candidates:
-        if job.category == "other" or job.role_type == "other" or job.score < min_score:
-            continue
-        if job.category == "part-time" and not is_leipzig_area(job.location):
-            continue
         existing = best.get(job.id)
         if existing is None or job.score > existing.score:
             best[job.id] = job
-    return sorted(best.values(), key=lambda job: (-job.score, job.title.casefold()))
+    duplicates_removed = evaluated - len(best)
+
+    passing = [
+        job for job in best.values()
+        if job.role_family != "IRRELEVANT" and job.score >= min_score
+    ]
+    passing.sort(key=lambda job: (-job.score, job.title.casefold()))
+    return FetchResult(
+        jobs=passing, evaluated=evaluated,
+        duplicates_removed=duplicates_removed, passed_threshold=len(passing),
+    )

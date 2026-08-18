@@ -6,8 +6,8 @@ from jobs_agent.web import render_dashboard, render_digest
 JOBS = [{
     "id": "abc", "title": "Junior <Developer>", "company": "Acme & Co",
     "location": "Berlin", "url": "https://example.com/job", "description": "Python",
-    "source": "test", "role_type": "entry-level", "remote": False,
-    "published_at": "", "score": 81, "reasons": ["Entry-level role"],
+    "source": "test", "role_family": "CORE_TECH", "remote": False,
+    "published_at": "", "score": 81, "reasons": ["Credible Core Tech entry point"],
     "first_seen_at": "2026-01-01T00:00:00+00:00", "status": "new",
 }]
 

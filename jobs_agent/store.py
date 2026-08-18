@@ -25,10 +25,10 @@ class JobStore:
                 CREATE TABLE IF NOT EXISTS jobs (
                     id TEXT PRIMARY KEY, title TEXT NOT NULL, company TEXT NOT NULL,
                     location TEXT NOT NULL, url TEXT NOT NULL, description TEXT NOT NULL,
-                    source TEXT NOT NULL, role_type TEXT NOT NULL,
-                    category TEXT NOT NULL DEFAULT 'cs', remote INTEGER NOT NULL,
-                    published_at TEXT NOT NULL, score INTEGER NOT NULL, reasons TEXT NOT NULL,
-                    first_seen_at TEXT NOT NULL, status TEXT NOT NULL DEFAULT 'new'
+                    source TEXT NOT NULL, role_family TEXT NOT NULL, seniority TEXT NOT NULL DEFAULT 'neutral',
+                    employer_category TEXT NOT NULL DEFAULT 'Core', language_requirement TEXT NOT NULL DEFAULT 'open',
+                    remote INTEGER NOT NULL, published_at TEXT NOT NULL, score INTEGER NOT NULL,
+                    reasons TEXT NOT NULL, first_seen_at TEXT NOT NULL, status TEXT NOT NULL DEFAULT 'new'
                 )
             """)
             columns = {row[1] for row in connection.execute("PRAGMA table_info(jobs)")}
@@ -43,18 +43,19 @@ class JobStore:
                 if not exists:
                     inserted += 1
                 connection.execute("""
-                    INSERT INTO jobs (id,title,company,location,url,description,source,role_type,category,remote,published_at,score,reasons,first_seen_at)
-                    VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                    INSERT INTO jobs (id,title,company,location,url,description,source,role_family,seniority,employer_category,language_requirement,remote,published_at,score,reasons,first_seen_at)
+                    VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
                     ON CONFLICT(id) DO UPDATE SET
                         title=excluded.title, company=excluded.company, location=excluded.location,
                         url=excluded.url, description=excluded.description, source=excluded.source,
-                        role_type=excluded.role_type, category=excluded.category,
-                        remote=excluded.remote, published_at=excluded.published_at,
-                        score=excluded.score, reasons=excluded.reasons
+                        role_family=excluded.role_family, seniority=excluded.seniority,
+                        employer_category=excluded.employer_category, language_requirement=excluded.language_requirement,
+                        remote=excluded.remote, published_at=excluded.published_at, score=excluded.score, reasons=excluded.reasons
                 """, (
                     job.id, job.title, job.company, job.location, job.url, job.description,
-                    job.source, job.role_type, job.category, int(job.remote), job.published_at,
-                    job.score, json.dumps(job.reasons, ensure_ascii=False), job.first_seen_at,
+                    job.source, job.role_family, job.seniority, job.employer_category, job.language_requirement,
+                    int(job.remote), job.published_at, job.score,
+                    json.dumps(job.reasons, ensure_ascii=False), job.first_seen_at,
                 ))
         return inserted
 
